@@ -3,46 +3,57 @@ title: "Carpet Cleaning in Portsmouth"
 town: "Portsmouth"
 county: "Hampshire"
 region: "Hampshire"
+featured: true
+wikipedia: "https://en.wikipedia.org/wiki/Portsmouth"
 metaTitle: "Carpet Cleaning Portsmouth | Carpet & Upholstery Cleaners"
-description: "Professional carpet, rug & upholstery cleaning in Portsmouth, Hampshire. Fast drying, pet-safe & open 7 days, 8am–8pm. Call 0808 196 8603 for a free quote."
-intro: "Professional carpet, rug and upholstery cleaning in Portsmouth, Hampshire. Open 7 days a week, 8am to 8pm."
+description: "Carpet, rug & upholstery cleaning in Portsmouth, Southsea, Fratton & Cosham. Fast drying, pet-safe & open 7 days. Call 0808 196 8603 for a free quote."
+intro: "Fresher carpets, cleaner sofas and healthier rooms for your Portsmouth home or business, booked around your week."
 image: "/images/locations/carpet-cleaning-portsmouth-hampshire.jpg"
 imageAlt: "Illustration of a hot water extraction carpet cleaning machine cleaning a oatmeal living room carpet beside a brown sofa, with a window looking out over the sea, captioned \"Carpet Cleaning in Portsmouth, Hampshire\" by Carpet Cleaning Professionals"
 faqs:
-  - question: "How much does carpet cleaning cost in Portsmouth?"
-    answer: "The price depends on the number and size of rooms, the type of carpet and its condition. Call us or send an enquiry and we'll give you a free, fixed quote with no hidden extras."
-  - question: "Do you clean carpets in Portsmouth at weekends?"
-    answer: "Yes. We're open 7 days a week, 8am to 8pm, so we can clean in Portsmouth on weekdays, evenings or weekends."
-  - question: "How long will my carpets take to dry?"
-    answer: "Most carpets are dry within 2 to 4 hours, depending on the carpet type, ventilation and the weather."
-  - question: "Is your carpet cleaning safe for children and pets?"
-    answer: "Yes. We use cleaning solutions that are safe for children, pets and all common carpet and fabric types."
+  - question: "Do you cover Southsea, Fratton and Cosham?"
+    answer: "Yes. We clean homes and businesses across Portsmouth, including Southsea, Fratton, North End, Cosham, Copnor, Milton and Eastney."
+  - question: "Can you clean my rented property between tenants?"
+    answer: "Yes. We help tenants, landlords and letting agents get carpets ready at the end of a tenancy, so deposits are protected and properties re-let faster."
+  - question: "Can I book a weekend or evening clean?"
+    answer: "Yes. You can book any day of the week between 8am and 8pm, so your clean fits around your work, your shifts and your family."
+  - question: "How quickly will my carpets dry?"
+    answer: "Most carpets are dry within 2 to 4 hours, depending on your carpet type, ventilation and the weather."
 ---
-## Professional carpet cleaning in Portsmouth
+## Your Portsmouth home, shipshape and fresh
 
-Looking for a reliable carpet cleaner in Portsmouth? Carpet Cleaning Professionals provides deep carpet, rug and upholstery cleaning for homes and businesses across Portsmouth, Hampshire, cleaning everything from city flats to family homes in market towns.
+You want a home that's clean, comfortable and ready for whatever life throws at it. Sand from Southsea beach, rain from the Solent and the everyday rush of family life all end up in your carpets. You deserve rooms that feel fresh again.
 
-You'll get a clear, fixed price before we start, and we can book you in any day of the week between 8am and 8pm.
+We make that easy for you. Our deep cleaning lifts out sand, grit and stains, freshens your sofa and brings your carpets back to life. You choose the time, you get a fixed price, and you get your rooms back within hours.
 
-## Our cleaning services in Portsmouth
+## About Portsmouth
 
-- **[Carpet cleaning](/services/carpet-cleaning/)**: deep hot water extraction for fitted carpets in homes and offices across Portsmouth.
-- **[Upholstery cleaning](/services/upholstery-cleaning/)**: sofas, armchairs, dining chairs and headboards.
-- **[Rug cleaning](/services/rug-cleaning/)**: careful cleaning for wool, synthetic and delicate rugs.
-- **[Stain and odour removal](/services/stain-odour-removal/)**: wine, coffee, mud and pet stains, plus deep odour treatment.
-- **[End of tenancy carpet cleaning](/services/end-of-tenancy-carpet-cleaning/)**: for tenants, landlords and letting agents in Portsmouth.
-- **[Commercial carpet cleaning](/services/commercial-carpet-cleaning/)**: offices, shops, schools and hospitality venues.
+Portsmouth is a port city in Hampshire, built largely on Portsea Island. It is home to the historic dockyard of the Royal Navy, the Spinnaker Tower and the seaside resort of Southsea. Its homes are mostly Victorian and Edwardian terraces, with family houses on the mainland around Cosham and Drayton, and many student and rental properties near the city centre.
 
-## How we clean your carpets
+For your carpets, island life means sand, sea air and busy, tightly packed homes. A professional deep clean keeps them looking good, smelling fresh and lasting longer.
 
-1. **Inspect:** we check the fibre type, condition and any problem stains.
-2. **Pre-treat:** we apply a solution matched to your carpet to break down dirt and grease.
-3. **Deep clean:** hot water extraction rinses out ground-in dirt, allergens and bacteria.
-4. **Finish:** we groom the pile so it dries evenly, usually within 2 to 4 hours.
+## How we help you in Portsmouth
 
-## Why choose us in Portsmouth
+- **[Carpet cleaning](/services/carpet-cleaning/)**: brighter colours, softer fibres and fewer allergens in your home or office.
+- **[Upholstery cleaning](/services/upholstery-cleaning/)**: a fresher sofa, armchair or headboard for you to relax on.
+- **[Rug cleaning](/services/rug-cleaning/)**: gentle care that protects the colours, fibres and value of your rugs.
+- **[Stain and odour removal](/services/stain-odour-removal/)**: help with wine, coffee and pet accidents, so your home smells fresh again.
+- **[End of tenancy carpet cleaning](/services/end-of-tenancy-carpet-cleaning/)**: helping Portsmouth tenants protect their deposit and landlords re-let faster.
+- **[Commercial carpet cleaning](/services/commercial-carpet-cleaning/)**: cleaner offices, shops and venues across the city.
 
-- Open 7 days a week, 8am to 8pm
-- Free, no-obligation quotes with clear, fixed prices
-- Cleaning solutions that are safe for children and pets
-- Fast drying times, so you can get back to normal quickly
+## Areas of Portsmouth we cover
+
+We cover the whole of Portsmouth, including Southsea, Fratton, North End, Cosham and Copnor, plus nearby [Fareham](/carpet-cleaning-fareham/), [Gosport](/carpet-cleaning-gosport/), [Havant](/carpet-cleaning-havant/) and [Waterlooville](/carpet-cleaning-waterlooville/).
+
+## What happens on the day
+
+1. **You tell us what you need:** the rooms, the furniture and any stains that worry you.
+2. **We prepare and protect:** we check your carpet type, protect your skirting boards and pre-treat problem areas.
+3. **We deep clean:** hot water extraction lifts out the sand, dirt and allergens that vacuuming leaves behind.
+4. **You enjoy the result:** fresh, soft carpets that are usually dry within 2 to 4 hours.
+
+## Why Portsmouth customers choose us
+
+- Booking that suits you, 7 days a week from 8am to 8pm
+- A free, fixed quote with no surprises on the day
+- Cleaning solutions that are safe for your children, your pets and your carpets

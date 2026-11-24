@@ -3,46 +3,57 @@ title: "Carpet Cleaning in Croydon"
 town: "Croydon"
 county: "Greater London"
 region: "London"
+featured: true
+wikipedia: "https://en.wikipedia.org/wiki/Croydon"
 metaTitle: "Carpet Cleaning Croydon | Carpet & Upholstery Cleaners"
-description: "Professional carpet, rug & upholstery cleaning in Croydon, Greater London. Fast drying, pet-safe & open 7 days, 8am–8pm. Call 0808 196 8603 for a free quote."
-intro: "Professional carpet, rug and upholstery cleaning in Croydon, Greater London. Open 7 days a week, 8am to 8pm."
+description: "Carpet, rug & upholstery cleaning in Croydon, Purley, Addiscombe & Thornton Heath. Pet-safe & open 7 days. Call 0808 196 8603 for a free quote."
+intro: "Fresher carpets, cleaner sofas and healthier rooms for your Croydon home or business, booked around your week."
 image: "/images/locations/carpet-cleaning-croydon-greater-london.jpg"
 imageAlt: "Illustration of a hot water extraction carpet cleaning machine cleaning a oatmeal living room carpet beside a blue sofa, with a window looking out over a city skyline, captioned \"Carpet Cleaning in Croydon, Greater London\" by Carpet Cleaning Professionals"
 faqs:
-  - question: "How much does carpet cleaning cost in Croydon?"
-    answer: "The price depends on the number and size of rooms, the type of carpet and its condition. Call us or send an enquiry and we'll give you a free, fixed quote with no hidden extras."
-  - question: "Do you clean carpets in Croydon at weekends?"
-    answer: "Yes. We're open 7 days a week, 8am to 8pm, so we can clean in Croydon on weekdays, evenings or weekends."
-  - question: "How long will my carpets take to dry?"
-    answer: "Most carpets are dry within 2 to 4 hours, depending on the carpet type, ventilation and the weather."
-  - question: "Is your carpet cleaning safe for children and pets?"
-    answer: "Yes. We use cleaning solutions that are safe for children, pets and all common carpet and fabric types."
+  - question: "Do you cover Purley, Addiscombe and Thornton Heath?"
+    answer: "Yes. We clean homes and businesses across the Croydon area, including Purley, South Croydon, Addiscombe, Thornton Heath, Norbury, Selsdon and Sanderstead."
+  - question: "Can you clean my flat if there's no lift?"
+    answer: "Yes. Our equipment is portable, so we can clean flats on upper floors and in buildings without a lift."
+  - question: "Can I book a weekend or evening clean?"
+    answer: "Yes. You can book any day of the week between 8am and 8pm, so your clean fits around your work, your commute and your family."
+  - question: "How quickly will my carpets dry?"
+    answer: "Most carpets are dry within 2 to 4 hours, depending on your carpet type, ventilation and the weather."
 ---
-## Professional carpet cleaning in Croydon
+## Your Croydon home, cleaner and calmer
 
-If your carpets in Croydon are looking tired, stained or not as fresh as they should, our professional cleaning service can bring them back to life. We cover all of Croydon, Greater London, cleaning everything from flats and period terraces to offices and rental properties.
+You live in one of London's busiest boroughs, and your carpets feel the pace. Commutes, school runs and family life all bring dirt, dust and spills indoors. You deserve a home that feels clean, fresh and relaxing at the end of the day.
 
-Because we work 7 days a week, 8am to 8pm, it's easy to book a clean around work, school runs or tenancy changeovers in Croydon. Call us for a free, fixed quote.
+We make that happen for you. Our deep cleaning lifts out ground-in dirt, refreshes your sofa and restores the colour in your carpets. You choose the time, you get a fixed price, and you get your rooms back within hours.
 
-## Our cleaning services in Croydon
+## About Croydon
 
-- **[Carpet cleaning](/services/carpet-cleaning/)**: deep hot water extraction for fitted carpets in homes and offices across Croydon.
-- **[Upholstery cleaning](/services/upholstery-cleaning/)**: sofas, armchairs, dining chairs and headboards.
-- **[Rug cleaning](/services/rug-cleaning/)**: careful cleaning for wool, synthetic and delicate rugs.
-- **[Stain and odour removal](/services/stain-odour-removal/)**: wine, coffee, mud and pet stains, plus deep odour treatment.
-- **[End of tenancy carpet cleaning](/services/end-of-tenancy-carpet-cleaning/)**: for tenants, landlords and letting agents in Croydon.
-- **[Commercial carpet cleaning](/services/commercial-carpet-cleaning/)**: offices, shops, schools and hospitality venues.
+Croydon is a large town in south London and the administrative centre of the London Borough of Croydon. It is known for its busy town centre, its tram network and its fast rail links from East Croydon to central London and Gatwick Airport. Its homes range from modern town-centre apartments to Victorian terraces and suburban family houses in Purley, Selsdon and Sanderstead.
 
-## How we clean your carpets
+For your carpets, that means busy flats, well-used family homes and plenty of rentals. A professional deep clean keeps them looking good, smelling fresh and lasting longer.
 
-1. **Inspect:** we check the fibre type, condition and any problem stains.
-2. **Pre-treat:** we apply a solution matched to your carpet to break down dirt and grease.
-3. **Deep clean:** hot water extraction rinses out ground-in dirt, allergens and bacteria.
-4. **Finish:** we groom the pile so it dries evenly, usually within 2 to 4 hours.
+## How we help you in Croydon
 
-## What to expect when we clean in Croydon
+- **[Carpet cleaning](/services/carpet-cleaning/)**: brighter colours, softer fibres and fewer allergens in your home or office.
+- **[Upholstery cleaning](/services/upholstery-cleaning/)**: a fresher sofa, armchair or headboard for you to relax on.
+- **[Rug cleaning](/services/rug-cleaning/)**: gentle care that protects the colours, fibres and value of your rugs.
+- **[Stain and odour removal](/services/stain-odour-removal/)**: help with wine, coffee and pet accidents, so your home smells fresh again.
+- **[End of tenancy carpet cleaning](/services/end-of-tenancy-carpet-cleaning/)**: helping Croydon tenants protect their deposit and landlords re-let faster.
+- **[Commercial carpet cleaning](/services/commercial-carpet-cleaning/)**: cleaner offices, shops and venues across the borough.
 
-- Open 7 days a week, 8am to 8pm
-- Free, no-obligation quotes with clear, fixed prices
-- Cleaning solutions that are safe for children and pets
-- Fast drying times, so you can get back to normal quickly
+## Areas of Croydon we cover
+
+We cover the whole Croydon area, including Purley, South Croydon, Addiscombe, Thornton Heath and Selsdon, plus nearby [Coulsdon](/carpet-cleaning-coulsdon/), [Sutton](/carpet-cleaning-sutton/) and [Bromley](/carpet-cleaning-bromley/).
+
+## What happens on the day
+
+1. **You tell us what you need:** the rooms, the furniture and any stains that worry you.
+2. **We prepare and protect:** we check your carpet type, protect your hallways and pre-treat problem areas.
+3. **We deep clean:** hot water extraction lifts out the dirt, bacteria and allergens that vacuuming leaves behind.
+4. **You enjoy the result:** fresh, soft carpets that are usually dry within 2 to 4 hours.
+
+## Why Croydon customers choose us
+
+- Booking that suits you, 7 days a week from 8am to 8pm
+- A free, fixed quote with no surprises on the day
+- Cleaning solutions that are safe for your children, your pets and your carpets

@@ -9,40 +9,39 @@ intro: "Professional carpet, rug and upholstery cleaning in Coulsdon, Greater Lo
 image: "/images/locations/carpet-cleaning-coulsdon-greater-london.jpg"
 imageAlt: "Illustration of a hot water extraction carpet cleaning machine cleaning a sage green living room carpet beside a brown sofa, with a window looking out over a city skyline, captioned \"Carpet Cleaning in Coulsdon, Greater London\" by Carpet Cleaning Professionals"
 faqs:
-  - question: "How much does carpet cleaning cost in Coulsdon?"
-    answer: "The price depends on the number and size of rooms, the type of carpet and its condition. Call us or send an enquiry and we'll give you a free, fixed quote with no hidden extras."
-  - question: "Do you clean carpets in Coulsdon at weekends?"
-    answer: "Yes. We're open 7 days a week, 8am to 8pm, so we can clean in Coulsdon on weekdays, evenings or weekends."
-  - question: "How long will my carpets take to dry?"
-    answer: "Most carpets are dry within 2 to 4 hours, depending on the carpet type, ventilation and the weather."
-  - question: "Is your carpet cleaning safe for children and pets?"
-    answer: "Yes. We use cleaning solutions that are safe for children, pets and all common carpet and fabric types."
+  - question: "How much will my carpet cleaning in Coulsdon cost?"
+    answer: "Your price depends on the number of rooms, their size and the condition of your carpets. Call us or send an enquiry and you'll get a free, fixed quote with no hidden extras."
+  - question: "Can I book a clean in Coulsdon at the weekend or in the evening?"
+    answer: "Yes. You can book any day of the week between 8am and 8pm, so your clean fits around your work, your family and your plans."
+  - question: "How soon can I use my rooms again?"
+    answer: "Most carpets are dry within 2 to 4 hours, depending on your carpet type, ventilation and the weather. You can usually walk on them sooner in clean socks."
+  - question: "Is the cleaning safe for my children and pets?"
+    answer: "Yes. We use cleaning solutions that are safe for your children, your pets and all common carpet and fabric types."
 ---
-## Professional carpet cleaning in Coulsdon
+## Cleaner carpets for your Coulsdon home or business
 
-Our technicians bring professional hot water extraction equipment to homes and businesses across Coulsdon, Greater London, cleaning everything from flats and period terraces to offices and rental properties. The result is cleaner, fresher carpets that dry quickly.
+Whether you own your home, let a property or run a business in Coulsdon, Greater London, you want carpets that look good, smell fresh and last longer. That's exactly what our cleaning gives you.
 
-You'll get a clear, fixed price before we start, and we can book you in any day of the week between 8am and 8pm.
+From flats and period terraces to offices and rental properties, we look after every kind of property in Coulsdon. We arrive when it suits you, protect your home while we work, and leave your rooms the way you like them. All you have to do is enjoy the difference.
 
-## Our cleaning services in Coulsdon
+## How we help you in Coulsdon
 
-- **[Carpet cleaning](/services/carpet-cleaning/)**: deep hot water extraction for fitted carpets in homes and offices across Coulsdon.
-- **[Upholstery cleaning](/services/upholstery-cleaning/)**: sofas, armchairs, dining chairs and headboards.
-- **[Rug cleaning](/services/rug-cleaning/)**: careful cleaning for wool, synthetic and delicate rugs.
-- **[Stain and odour removal](/services/stain-odour-removal/)**: wine, coffee, mud and pet stains, plus deep odour treatment.
-- **[End of tenancy carpet cleaning](/services/end-of-tenancy-carpet-cleaning/)**: for tenants, landlords and letting agents in Coulsdon.
-- **[Commercial carpet cleaning](/services/commercial-carpet-cleaning/)**: offices, shops, schools and hospitality venues.
+- **[Carpet cleaning](/services/carpet-cleaning/)**: brighter colours, softer fibres and fewer allergens in your home or office.
+- **[Upholstery cleaning](/services/upholstery-cleaning/)**: a fresher sofa, armchair or headboard for you to relax on.
+- **[Rug cleaning](/services/rug-cleaning/)**: gentle care that protects the colours, fibres and value of your rugs.
+- **[Stain and odour removal](/services/stain-odour-removal/)**: help with wine, coffee and pet accidents, so your home smells fresh again.
+- **[End of tenancy carpet cleaning](/services/end-of-tenancy-carpet-cleaning/)**: helping tenants protect their deposit and landlords re-let faster in Coulsdon.
+- **[Commercial carpet cleaning](/services/commercial-carpet-cleaning/)**: cleaner offices, shops and venues that impress your staff, customers and visitors.
 
-## How we clean your carpets
+## What happens on the day
 
-1. **Inspect:** we check the fibre type, condition and any problem stains.
-2. **Pre-treat:** we apply a solution matched to your carpet to break down dirt and grease.
-3. **Deep clean:** hot water extraction rinses out ground-in dirt, allergens and bacteria.
-4. **Finish:** we groom the pile so it dries evenly, usually within 2 to 4 hours.
+1. **You tell us what you need:** the rooms, the furniture and any stains that worry you.
+2. **We prepare and protect:** we check your carpet type, protect your skirting boards and pre-treat problem areas.
+3. **We deep clean:** hot water extraction lifts out the dirt, bacteria and allergens that vacuuming leaves behind.
+4. **You enjoy the result:** fresh, soft carpets that are usually dry within 2 to 4 hours.
 
-## Why choose us in Coulsdon
+## Why Coulsdon customers choose us
 
-- Open 7 days a week, 8am to 8pm
-- Free, no-obligation quotes with clear, fixed prices
-- Cleaning solutions that are safe for children and pets
-- Fast drying times, so you can get back to normal quickly
+- Booking that suits you, 7 days a week from 8am to 8pm
+- A free, fixed quote with no surprises on the day
+- Cleaning solutions that are safe for your children, your pets and your carpets

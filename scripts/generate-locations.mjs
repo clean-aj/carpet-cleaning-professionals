@@ -12,6 +12,7 @@ import { createRequire } from "node:module";
 const { chromium } = createRequire(import.meta.url)("playwright"); // pre-installed globally; or: npm i -D playwright
 
 const FORCE = process.argv.includes("--force");
+const IMAGES = process.argv.includes("--images"); // with --force, also re-render existing images
 const root = new URL("../", import.meta.url).pathname;
 
 // ---------------------------------------------------------------------------
@@ -113,55 +114,54 @@ const viewWords = { sea: "the sea", city: "a city skyline", hills: "green hills"
 function locationMarkdown(l) {
   const T = l.town, P = place(l), B = regionBlurb[l.region];
   const intro = pick([
-    `Looking for a reliable carpet cleaner in ${T}? Carpet Cleaning Professionals provides deep carpet, rug and upholstery cleaning for homes and businesses across ${P}, ${B}.`,
-    `Carpet Cleaning Professionals cleans carpets, rugs and upholstery throughout ${T} and the surrounding area. We work with homeowners, landlords, letting agents and businesses, ${B}.`,
-    `Our technicians bring professional hot water extraction equipment to homes and businesses across ${P}, ${B}. The result is cleaner, fresher carpets that dry quickly.`,
-    `If your carpets in ${T} are looking tired, stained or not as fresh as they should, our professional cleaning service can bring them back to life. We cover all of ${P}, ${B}.`,
+    `Your home should feel clean, fresh and comfortable. In ${T}, we help you get there with deep carpet, rug and upholstery cleaning that fits around your day, your family and your budget.`,
+    `You work hard to keep your ${T} home looking its best. We take on the hard part, lifting out the dirt, stains and allergens that everyday life leaves behind.`,
+    `Whether you own your home, let a property or run a business in ${P}, you want carpets that look good, smell fresh and last longer. That's exactly what our cleaning gives you.`,
+    `You deserve carpets that are clean, soft and safe for everyone who walks on them. Across ${P}, we make that simple, with clear prices, flexible booking and fast drying times.`,
   ], T);
   const second = pick([
-    `We're open 7 days a week from 8am to 8pm, so we can usually find a time that suits you, including evenings and weekends. Every job starts with a free, no-obligation quote.`,
-    `Because we work 7 days a week, 8am to 8pm, it's easy to book a clean around work, school runs or tenancy changeovers in ${T}. Call us for a free, fixed quote.`,
-    `You'll get a clear, fixed price before we start, and we can book you in any day of the week between 8am and 8pm.`,
+    `You choose the day and the time, seven days a week from 8am to 8pm. You get a clear, fixed quote before we start. And you get your rooms back within hours, not days.`,
+    `Booking fits around you: early mornings, evenings and weekends are all available. Your quote is free, fixed and has no hidden extras. Your carpets are usually dry in 2 to 4 hours.`,
+    `We arrive when it suits you, protect your home while we work, and leave your rooms the way you like them. All you have to do is enjoy the difference.`,
   ], T, "b");
-  const why = pick([`Why choose us in ${T}`, `Why ${T} customers choose Carpet Cleaning Professionals`, `What to expect when we clean in ${T}`], T, "c");
-  return `## Professional carpet cleaning in ${T}
+  const why = pick([`Why ${T} customers choose us`, `What you can expect in ${T}`, `Your clean, your way`], T, "c");
+  return `## Cleaner carpets for your ${T} home or business
 
 ${intro}
 
-${second}
+${B.replace(/^cleaning everything from /, "From ")}, we look after every kind of property in ${T}. ${second}
 
-## Our cleaning services in ${T}
+## How we help you in ${T}
 
-- **[Carpet cleaning](/services/carpet-cleaning/)**: deep hot water extraction for fitted carpets in homes and offices across ${T}.
-- **[Upholstery cleaning](/services/upholstery-cleaning/)**: sofas, armchairs, dining chairs and headboards.
-- **[Rug cleaning](/services/rug-cleaning/)**: careful cleaning for wool, synthetic and delicate rugs.
-- **[Stain and odour removal](/services/stain-odour-removal/)**: wine, coffee, mud and pet stains, plus deep odour treatment.
-- **[End of tenancy carpet cleaning](/services/end-of-tenancy-carpet-cleaning/)**: for tenants, landlords and letting agents in ${T}.
-- **[Commercial carpet cleaning](/services/commercial-carpet-cleaning/)**: offices, shops, schools and hospitality venues.
+- **[Carpet cleaning](/services/carpet-cleaning/)**: brighter colours, softer fibres and fewer allergens in your home or office.
+- **[Upholstery cleaning](/services/upholstery-cleaning/)**: a fresher sofa, armchair or headboard for you to relax on.
+- **[Rug cleaning](/services/rug-cleaning/)**: gentle care that protects the colours, fibres and value of your rugs.
+- **[Stain and odour removal](/services/stain-odour-removal/)**: help with wine, coffee and pet accidents, so your home smells fresh again.
+- **[End of tenancy carpet cleaning](/services/end-of-tenancy-carpet-cleaning/)**: helping tenants protect their deposit and landlords re-let faster in ${T}.
+- **[Commercial carpet cleaning](/services/commercial-carpet-cleaning/)**: cleaner offices, shops and venues that impress your staff, customers and visitors.
 
-## How we clean your carpets
+## What happens on the day
 
-1. **Inspect:** we check the fibre type, condition and any problem stains.
-2. **Pre-treat:** we apply a solution matched to your carpet to break down dirt and grease.
-3. **Deep clean:** hot water extraction rinses out ground-in dirt, allergens and bacteria.
-4. **Finish:** we groom the pile so it dries evenly, usually within 2 to 4 hours.
+1. **You tell us what you need:** the rooms, the furniture and any stains that worry you.
+2. **We prepare and protect:** we check your carpet type, protect your skirting boards and pre-treat problem areas.
+3. **We deep clean:** hot water extraction lifts out the dirt, bacteria and allergens that vacuuming leaves behind.
+4. **You enjoy the result:** fresh, soft carpets that are usually dry within 2 to 4 hours.
 
 ## ${why}
 
-- Open 7 days a week, 8am to 8pm
-- Free, no-obligation quotes with clear, fixed prices
-- Cleaning solutions that are safe for children and pets
-- Fast drying times, so you can get back to normal quickly
+- Booking that suits you, 7 days a week from 8am to 8pm
+- A free, fixed quote with no surprises on the day
+- Cleaning solutions that are safe for your children, your pets and your carpets
 `;
 }
 
 function faqs(l) {
   const T = l.town;
   return [
-    { question: `How much does carpet cleaning cost in ${T}?`, answer: `The price depends on the number and size of rooms, the type of carpet and its condition. Call us or send an enquiry and we'll give you a free, fixed quote with no hidden extras.` },
-    { question: `Do you clean carpets in ${T} at weekends?`, answer: `Yes. We're open 7 days a week, 8am to 8pm, so we can clean in ${T} on weekdays, evenings or weekends.` },
-    { question: `How long will my carpets take to dry?`, answer: `Most carpets are dry within 2 to 4 hours, depending on the carpet type, ventilation and the weather.` },
-    { question: `Is your carpet cleaning safe for children and pets?`, answer: `Yes. We use cleaning solutions that are safe for children, pets and all common carpet and fabric types.` },
+    { question: `How much will my carpet cleaning in ${T} cost?`, answer: `Your price depends on the number of rooms, their size and the condition of your carpets. Call us or send an enquiry and you'll get a free, fixed quote with no hidden extras.` },
+    { question: `Can I book a clean in ${T} at the weekend or in the evening?`, answer: `Yes. You can book any day of the week between 8am and 8pm, so your clean fits around your work, your family and your plans.` },
+    { question: `How soon can I use my rooms again?`, answer: `Most carpets are dry within 2 to 4 hours, depending on your carpet type, ventilation and the weather. You can usually walk on them sooner in clean socks.` },
+    { question: `Is the cleaning safe for my children and pets?`, answer: `Yes. We use cleaning solutions that are safe for your children, your pets and all common carpet and fabric types.` },
   ];
 }
 
@@ -279,7 +279,9 @@ for (const l of locations) {
   const metaTitle = [`Carpet Cleaning ${l.town} | Carpet & Upholstery Cleaners`, `Carpet Cleaning ${l.town} | Free Quotes`, `Carpet Cleaning ${l.town}`].find((t) => t.length <= 60);
   const description = `Professional carpet, rug & upholstery cleaning in ${label}. Fast drying, pet-safe & open 7 days, 8am–8pm. Call 0808 196 8603 for a free quote.`;
 
-  if (FORCE || !existsSync(mdPath)) {
+  // Hand-written (featured) pages are never overwritten
+  const handWritten = existsSync(mdPath) && /^featured: true/m.test(readFileSync(mdPath, "utf8"));
+  if (!handWritten && (FORCE || !existsSync(mdPath))) {
     writeFileSync(mdPath, frontMatter({
       title: `Carpet Cleaning in ${l.town}`,
       town: l.town,
@@ -321,7 +323,7 @@ for (const [md, img, scene, heading] of extra) {
 }
 
 // Render missing images
-const todo = jobs.filter((j) => FORCE || !existsSync(j.out));
+const todo = jobs.filter((j) => (FORCE && IMAGES) || !existsSync(j.out));
 if (todo.length) {
   const browser = await chromium.launch();
   const page = await browser.newPage({ viewport: { width: 1200, height: 630 } });

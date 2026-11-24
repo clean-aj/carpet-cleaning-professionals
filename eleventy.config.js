@@ -12,6 +12,8 @@ const baseUrl = (process.env.SITE_URL || site.url).replace(/\/$/, "");
 const absolute = (p = "/") => (/^https?:\/\//.test(p) ? p : baseUrl + (p.startsWith("/") ? p : `/${p}`));
 const slug = (s = "") => s.toLowerCase().replace(/&/g, "and").replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
 
+const featuredFirst = (a, b) => (b.data.featured ? 1 : 0) - (a.data.featured ? 1 : 0) || (a.data.town || "").localeCompare(b.data.town || "");
+
 // Group location pages by region, in the order set in site.json → regions
 function groupByRegion(locations = []) {
   const order = site.regions || [];
@@ -21,6 +23,7 @@ function groupByRegion(locations = []) {
     if (!groups.has(r)) groups.set(r, []);
     groups.get(r).push(loc);
   }
+  for (const items of groups.values()) items.sort(featuredFirst);
   return [...groups.entries()]
     .sort(([a], [b]) => (order.indexOf(a) + 1 || 99) - (order.indexOf(b) + 1 || 99) || a.localeCompare(b))
     .map(([region, items]) => ({ region, slug: slug(region), items }));
@@ -65,8 +68,9 @@ export default function (eleventyConfig) {
   eleventyConfig.addFilter("slug", slug);
   eleventyConfig.addFilter("groupByRegion", groupByRegion);
   eleventyConfig.addFilter("inRegion", (locations = [], region, exceptUrl) =>
-    locations.filter((l) => l.data.region === region && l.url !== exceptUrl)
+    locations.filter((l) => l.data.region === region && l.url !== exceptUrl).sort(featuredFirst)
   );
+  eleventyConfig.addFilter("featured", (locations = []) => locations.filter((l) => l.data.featured));
   eleventyConfig.addFilter("head", (arr = [], n) => arr.slice(0, n));
   eleventyConfig.addFilter("isoDate", (d) => new Date(d).toISOString().slice(0, 10));
   eleventyConfig.addFilter("readableDate", (d) =>
@@ -92,6 +96,7 @@ export default function (eleventyConfig) {
       "@type": x.town === x.county ? "AdministrativeArea" : "City",
       name: x.town,
       ...(x.county && x.county !== x.town && { containedInPlace: { "@type": "AdministrativeArea", name: x.county } }),
+      ...(x.wikipedia && { sameAs: x.wikipedia }),
     });
 
     const business = {

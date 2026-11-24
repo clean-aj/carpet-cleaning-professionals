@@ -3,46 +3,57 @@ title: "Carpet Cleaning in Chichester"
 town: "Chichester"
 county: "West Sussex"
 region: "Sussex"
+featured: true
+wikipedia: "https://en.wikipedia.org/wiki/Chichester"
 metaTitle: "Carpet Cleaning Chichester | Carpet & Upholstery Cleaners"
-description: "Professional carpet, rug & upholstery cleaning in Chichester, West Sussex. Fast drying, pet-safe & open 7 days, 8am–8pm. Call 0808 196 8603 for a free quote."
-intro: "Professional carpet, rug and upholstery cleaning in Chichester, West Sussex. Open 7 days a week, 8am to 8pm."
+description: "Carpet, rug & upholstery cleaning in Chichester, Bosham, Fishbourne & Selsey from our Bognor Regis base. Open 7 days. Call 0808 196 8603 for a free quote."
+intro: "Fresher carpets, cleaner sofas and healthier rooms for your Chichester home or business, from a team based just down the road."
 image: "/images/locations/carpet-cleaning-chichester-west-sussex.jpg"
 imageAlt: "Illustration of a hot water extraction carpet cleaning machine cleaning a beige living room carpet beside a green sofa, with a window looking out over the sea, captioned \"Carpet Cleaning in Chichester, West Sussex\" by Carpet Cleaning Professionals"
 faqs:
-  - question: "How much does carpet cleaning cost in Chichester?"
-    answer: "The price depends on the number and size of rooms, the type of carpet and its condition. Call us or send an enquiry and we'll give you a free, fixed quote with no hidden extras."
-  - question: "Do you clean carpets in Chichester at weekends?"
-    answer: "Yes. We're open 7 days a week, 8am to 8pm, so we can clean in Chichester on weekdays, evenings or weekends."
-  - question: "How long will my carpets take to dry?"
-    answer: "Most carpets are dry within 2 to 4 hours, depending on the carpet type, ventilation and the weather."
-  - question: "Is your carpet cleaning safe for children and pets?"
-    answer: "Yes. We use cleaning solutions that are safe for children, pets and all common carpet and fabric types."
+  - question: "Do you cover the villages around Chichester?"
+    answer: "Yes. We clean homes and businesses across Chichester and the surrounding villages, including Fishbourne, Bosham, Tangmere and Selsey."
+  - question: "How far away are you?"
+    answer: "Our base is in Bognor Regis, a short drive from Chichester, so booking a clean is quick and easy."
+  - question: "Can you clean my holiday let near Chichester Harbour?"
+    answer: "Yes. We can fit around your changeover days, so your guests arrive to fresh carpets, clean sofas and rooms that smell inviting."
+  - question: "Can I book a weekend or evening clean?"
+    answer: "Yes. You can book any day of the week between 8am and 8pm."
 ---
-## Professional carpet cleaning in Chichester
+## Your Chichester home, cared for by local cleaners
 
-Carpet Cleaning Professionals cleans carpets, rugs and upholstery throughout Chichester and the surrounding area. We work with homeowners, landlords, letting agents and businesses, cleaning everything from seaside flats and holiday lets to family homes and offices.
+You want a home that feels clean, welcoming and comfortable, from the hallway to the bedroom. Country walks, harbour days and family life all leave their mark on your carpets. You deserve a cleaning team that's close by, easy to book and careful in your home.
 
-We're open 7 days a week from 8am to 8pm, so we can usually find a time that suits you, including evenings and weekends. Every job starts with a free, no-obligation quote.
+That's us. Our base in Bognor Regis is a short drive from Chichester, so we can fit around you, arrive on time and get your carpets looking their best. You choose the time, you get a fixed price, and you get your rooms back within hours.
 
-## Our cleaning services in Chichester
+## About Chichester
 
-- **[Carpet cleaning](/services/carpet-cleaning/)**: deep hot water extraction for fitted carpets in homes and offices across Chichester.
-- **[Upholstery cleaning](/services/upholstery-cleaning/)**: sofas, armchairs, dining chairs and headboards.
-- **[Rug cleaning](/services/rug-cleaning/)**: careful cleaning for wool, synthetic and delicate rugs.
-- **[Stain and odour removal](/services/stain-odour-removal/)**: wine, coffee, mud and pet stains, plus deep odour treatment.
-- **[End of tenancy carpet cleaning](/services/end-of-tenancy-carpet-cleaning/)**: for tenants, landlords and letting agents in Chichester.
-- **[Commercial carpet cleaning](/services/commercial-carpet-cleaning/)**: offices, shops, schools and hospitality venues.
+Chichester is a cathedral city and the county town of West Sussex. It is known for its Norman cathedral, its Roman city walls and the Chichester Festival Theatre, and it sits between the South Downs and Chichester Harbour. Its homes include Georgian townhouses within the old city walls, period cottages in the surrounding villages and modern family homes, alongside holiday lets near the harbour.
 
-## How we clean your carpets
+For your carpets, that means delicate natural fibres, muddy boots from the Downs and sand from the coast. Each one gets a cleaning method chosen to suit it.
 
-1. **Inspect:** we check the fibre type, condition and any problem stains.
-2. **Pre-treat:** we apply a solution matched to your carpet to break down dirt and grease.
-3. **Deep clean:** hot water extraction rinses out ground-in dirt, allergens and bacteria.
-4. **Finish:** we groom the pile so it dries evenly, usually within 2 to 4 hours.
+## How we help you in Chichester
 
-## Why Chichester customers choose Carpet Cleaning Professionals
+- **[Carpet cleaning](/services/carpet-cleaning/)**: brighter colours, softer fibres and fewer allergens in your home or office.
+- **[Upholstery cleaning](/services/upholstery-cleaning/)**: a fresher sofa, armchair or headboard for you to relax on.
+- **[Rug cleaning](/services/rug-cleaning/)**: gentle care that protects the colours, fibres and value of your rugs.
+- **[Stain and odour removal](/services/stain-odour-removal/)**: help with wine, coffee and pet accidents, so your home smells fresh again.
+- **[End of tenancy carpet cleaning](/services/end-of-tenancy-carpet-cleaning/)**: helping Chichester tenants protect their deposit and landlords re-let faster.
+- **[Commercial carpet cleaning](/services/commercial-carpet-cleaning/)**: cleaner offices, shops and venues across the city.
 
-- Open 7 days a week, 8am to 8pm
-- Free, no-obligation quotes with clear, fixed prices
-- Cleaning solutions that are safe for children and pets
-- Fast drying times, so you can get back to normal quickly
+## Areas of Chichester we cover
+
+We cover the whole of Chichester and the surrounding villages, including Fishbourne, Bosham, Tangmere and Selsey, plus nearby [Bognor Regis](/carpet-cleaning-bognor-regis/), [Arundel](/carpet-cleaning-arundel/) and [Worthing](/carpet-cleaning-worthing/).
+
+## What happens on the day
+
+1. **You tell us what you need:** the rooms, the furniture and any stains that worry you.
+2. **We prepare and protect:** we check your carpet type, protect your skirting boards and pre-treat problem areas.
+3. **We deep clean:** hot water extraction lifts out the dirt, bacteria and allergens that vacuuming leaves behind.
+4. **You enjoy the result:** fresh, soft carpets that are usually dry within 2 to 4 hours.
+
+## Why Chichester customers choose us
+
+- Booking that suits you, 7 days a week from 8am to 8pm
+- A free, fixed quote with no surprises on the day
+- Cleaning solutions that are safe for your children, your pets and your carpets

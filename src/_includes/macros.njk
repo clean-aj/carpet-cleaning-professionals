@@ -1,0 +1,14 @@
+{#- Shows the first `limit` towns, then hides the rest in a "More locations" drop-down -#}
+{% macro townLinks(items, limit, moreLabel) %}
+<ul class="area-links">
+  {%- for l in items | head(limit) %}<li><a href="{{ l.url }}">{{ l.data.town }}</a></li>{% endfor %}
+</ul>
+{%- if items.length > limit %}
+<details class="more-areas">
+  <summary>{{ moreLabel }} <span class="count">({{ items.length - limit }})</span></summary>
+  <ul class="area-links">
+    {%- for l in items %}{% if loop.index > limit %}<li><a href="{{ l.url }}">{{ l.data.town }}</a></li>{% endif %}{% endfor %}
+  </ul>
+</details>
+{%- endif %}
+{% endmacro %}

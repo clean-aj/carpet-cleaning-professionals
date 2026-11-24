@@ -3,46 +3,57 @@ title: "Carpet Cleaning in Reading"
 town: "Reading"
 county: "Berkshire"
 region: "Berkshire"
+featured: true
+wikipedia: "https://en.wikipedia.org/wiki/Reading,_Berkshire"
 metaTitle: "Carpet Cleaning Reading | Carpet & Upholstery Cleaners"
-description: "Professional carpet, rug & upholstery cleaning in Reading, Berkshire. Fast drying, pet-safe & open 7 days, 8am–8pm. Call 0808 196 8603 for a free quote."
-intro: "Professional carpet, rug and upholstery cleaning in Reading, Berkshire. Open 7 days a week, 8am to 8pm."
+description: "Carpet, rug & upholstery cleaning in Reading, Caversham, Tilehurst & Earley. Fast drying, pet-safe & open 7 days. Call 0808 196 8603 for a free quote."
+intro: "Fresher carpets, cleaner sofas and healthier rooms for your Reading home or business, booked around your week."
 image: "/images/locations/carpet-cleaning-reading-berkshire.jpg"
 imageAlt: "Illustration of a hot water extraction carpet cleaning machine cleaning a sage green living room carpet beside a blue sofa, with a window looking out over green hills, captioned \"Carpet Cleaning in Reading, Berkshire\" by Carpet Cleaning Professionals"
 faqs:
-  - question: "How much does carpet cleaning cost in Reading?"
-    answer: "The price depends on the number and size of rooms, the type of carpet and its condition. Call us or send an enquiry and we'll give you a free, fixed quote with no hidden extras."
-  - question: "Do you clean carpets in Reading at weekends?"
-    answer: "Yes. We're open 7 days a week, 8am to 8pm, so we can clean in Reading on weekdays, evenings or weekends."
-  - question: "How long will my carpets take to dry?"
-    answer: "Most carpets are dry within 2 to 4 hours, depending on the carpet type, ventilation and the weather."
-  - question: "Is your carpet cleaning safe for children and pets?"
-    answer: "Yes. We use cleaning solutions that are safe for children, pets and all common carpet and fabric types."
+  - question: "Do you cover Caversham, Tilehurst and Earley?"
+    answer: "Yes. We clean homes and businesses across Reading and the surrounding area, including Caversham, Tilehurst, Earley, Woodley, Calcot and Emmer Green."
+  - question: "Can you clean my student let or rental property in Reading?"
+    answer: "Yes. We regularly help landlords, letting agents and tenants get carpets ready between tenancies, so you can protect your deposit or re-let your property faster."
+  - question: "Can I book a weekend or evening clean?"
+    answer: "Yes. You can book any day of the week between 8am and 8pm, so your clean fits around your work, your commute and your family."
+  - question: "How quickly will my carpets dry?"
+    answer: "Most carpets are dry within 2 to 4 hours, depending on your carpet type, ventilation and the weather."
 ---
-## Professional carpet cleaning in Reading
+## Your Reading home, cleaner and fresher
 
-Carpet Cleaning Professionals cleans carpets, rugs and upholstery throughout Reading and the surrounding area. We work with homeowners, landlords, letting agents and businesses, cleaning everything from family homes in commuter towns to offices along the M4 corridor.
+You juggle work, family and the commute, and your carpets feel every bit of it. Muddy shoes, spilled drinks and busy pets all leave their mark. You deserve a home that feels clean, fresh and welcoming without you lifting a finger.
 
-Because we work 7 days a week, 8am to 8pm, it's easy to book a clean around work, school runs or tenancy changeovers in Reading. Call us for a free, fixed quote.
+We make that happen. Our deep cleaning lifts out the dirt your vacuum can't reach, refreshes your sofa and brings back the colour in your carpets. You choose the time, you get a fixed price, and you get your rooms back within hours.
 
-## Our cleaning services in Reading
+## About Reading
 
-- **[Carpet cleaning](/services/carpet-cleaning/)**: deep hot water extraction for fitted carpets in homes and offices across Reading.
-- **[Upholstery cleaning](/services/upholstery-cleaning/)**: sofas, armchairs, dining chairs and headboards.
-- **[Rug cleaning](/services/rug-cleaning/)**: careful cleaning for wool, synthetic and delicate rugs.
-- **[Stain and odour removal](/services/stain-odour-removal/)**: wine, coffee, mud and pet stains, plus deep odour treatment.
-- **[End of tenancy carpet cleaning](/services/end-of-tenancy-carpet-cleaning/)**: for tenants, landlords and letting agents in Reading.
-- **[Commercial carpet cleaning](/services/commercial-carpet-cleaning/)**: offices, shops, schools and hospitality venues.
+Reading is a large town in Berkshire, sitting where the River Kennet meets the River Thames. It is known for its university, its riverside setting and its fast links to London along the M4 and the Elizabeth line. Its homes range from Victorian terraces near the town centre to family houses in Caversham, Tilehurst and Earley, alongside a large number of student and rental properties.
 
-## How we clean your carpets
+For your carpets, that mix means busy hallways, well-used living rooms and regular tenancy changeovers. A professional deep clean keeps them looking good, smelling fresh and lasting longer.
 
-1. **Inspect:** we check the fibre type, condition and any problem stains.
-2. **Pre-treat:** we apply a solution matched to your carpet to break down dirt and grease.
-3. **Deep clean:** hot water extraction rinses out ground-in dirt, allergens and bacteria.
-4. **Finish:** we groom the pile so it dries evenly, usually within 2 to 4 hours.
+## How we help you in Reading
 
-## What to expect when we clean in Reading
+- **[Carpet cleaning](/services/carpet-cleaning/)**: brighter colours, softer fibres and fewer allergens in your home or office.
+- **[Upholstery cleaning](/services/upholstery-cleaning/)**: a fresher sofa, armchair or headboard for you to relax on.
+- **[Rug cleaning](/services/rug-cleaning/)**: gentle care that protects the colours, fibres and value of your rugs.
+- **[Stain and odour removal](/services/stain-odour-removal/)**: help with wine, coffee and pet accidents, so your home smells fresh again.
+- **[End of tenancy carpet cleaning](/services/end-of-tenancy-carpet-cleaning/)**: helping Reading tenants protect their deposit and landlords re-let faster.
+- **[Commercial carpet cleaning](/services/commercial-carpet-cleaning/)**: cleaner offices and business parks along the M4 corridor.
 
-- Open 7 days a week, 8am to 8pm
-- Free, no-obligation quotes with clear, fixed prices
-- Cleaning solutions that are safe for children and pets
-- Fast drying times, so you can get back to normal quickly
+## Areas of Reading we cover
+
+We cover the whole of Reading, including Caversham, Tilehurst, Earley, Woodley, Calcot and Emmer Green, plus nearby [Wokingham](/carpet-cleaning-wokingham/), [Bracknell](/carpet-cleaning-bracknell/) and [Newbury](/carpet-cleaning-newbury/).
+
+## What happens on the day
+
+1. **You tell us what you need:** the rooms, the furniture and any stains that worry you.
+2. **We prepare and protect:** we check your carpet type, protect your skirting boards and pre-treat problem areas.
+3. **We deep clean:** hot water extraction lifts out the dirt, bacteria and allergens that vacuuming leaves behind.
+4. **You enjoy the result:** fresh, soft carpets that are usually dry within 2 to 4 hours.
+
+## Why Reading customers choose us
+
+- Booking that suits you, 7 days a week from 8am to 8pm
+- A free, fixed quote with no surprises on the day
+- Cleaning solutions that are safe for your children, your pets and your carpets

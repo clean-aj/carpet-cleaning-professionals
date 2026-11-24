@@ -1,6 +1,7 @@
 ---
 layout: base.njk
 ---
+{%- from "macros.njk" import townLinks %}
 {% include "partials/page-hero.njk" %}
 <section class="section">
   <div class="container with-sidebar">
@@ -23,9 +24,7 @@ layout: base.njk
       {%- set nearby = collections.locations | inRegion(region, page.url) %}
       {%- if nearby.length %}
       <h2>We also cover these areas in {{ region }}</h2>
-      <ul class="area-links">
-        {%- for l in nearby %}<li><a href="{{ l.url }}">{{ l.data.town }}</a></li>{% endfor %}
-      </ul>
+      {{ townLinks(nearby, 8, "More locations in " ~ region) }}
       {%- endif %}
     </article>
     <aside class="sidebar">

@@ -3,46 +3,57 @@ title: "Carpet Cleaning in Southampton"
 town: "Southampton"
 county: "Hampshire"
 region: "Hampshire"
+featured: true
+wikipedia: "https://en.wikipedia.org/wiki/Southampton"
 metaTitle: "Carpet Cleaning Southampton | Carpet & Upholstery Cleaners"
-description: "Professional carpet, rug & upholstery cleaning in Southampton, Hampshire. Fast drying, pet-safe & open 7 days, 8am–8pm. Call 0808 196 8603 for a free quote."
-intro: "Professional carpet, rug and upholstery cleaning in Southampton, Hampshire. Open 7 days a week, 8am to 8pm."
+description: "Carpet, rug & upholstery cleaning in Southampton, Shirley, Portswood & Bitterne. Fast drying, pet-safe & open 7 days. Call 0808 196 8603 for a free quote."
+intro: "Fresher carpets, cleaner sofas and healthier rooms for your Southampton home or business, booked around your week."
 image: "/images/locations/carpet-cleaning-southampton-hampshire.jpg"
 imageAlt: "Illustration of a hot water extraction carpet cleaning machine cleaning a grey living room carpet beside a blue sofa, with a window looking out over the sea, captioned \"Carpet Cleaning in Southampton, Hampshire\" by Carpet Cleaning Professionals"
 faqs:
-  - question: "How much does carpet cleaning cost in Southampton?"
-    answer: "The price depends on the number and size of rooms, the type of carpet and its condition. Call us or send an enquiry and we'll give you a free, fixed quote with no hidden extras."
-  - question: "Do you clean carpets in Southampton at weekends?"
-    answer: "Yes. We're open 7 days a week, 8am to 8pm, so we can clean in Southampton on weekdays, evenings or weekends."
-  - question: "How long will my carpets take to dry?"
-    answer: "Most carpets are dry within 2 to 4 hours, depending on the carpet type, ventilation and the weather."
-  - question: "Is your carpet cleaning safe for children and pets?"
-    answer: "Yes. We use cleaning solutions that are safe for children, pets and all common carpet and fabric types."
+  - question: "Do you cover Shirley, Portswood and Bitterne?"
+    answer: "Yes. We clean homes and businesses across Southampton, including Shirley, Portswood, Bitterne, Woolston, Bassett and Sholing."
+  - question: "Can you clean my student house in Portswood?"
+    answer: "Yes. We help students, landlords and letting agents get carpets ready at the end of a tenancy, so deposits are protected and properties re-let faster."
+  - question: "Can I book a weekend or evening clean?"
+    answer: "Yes. You can book any day of the week between 8am and 8pm, so your clean fits around your shifts, your family and your plans."
+  - question: "How quickly will my carpets dry?"
+    answer: "Most carpets are dry within 2 to 4 hours, depending on your carpet type, ventilation and the weather."
 ---
-## Professional carpet cleaning in Southampton
+## Your Southampton home, clean and comfortable
 
-Carpet Cleaning Professionals cleans carpets, rugs and upholstery throughout Southampton and the surrounding area. We work with homeowners, landlords, letting agents and businesses, cleaning everything from city flats to family homes in market towns.
+You want a home that feels clean, calm and ready for whatever the week brings. Between work, family and everything in between, your carpets take a lot of punishment. Spills, pets and muddy boots all leave their mark.
 
-Because we work 7 days a week, 8am to 8pm, it's easy to book a clean around work, school runs or tenancy changeovers in Southampton. Call us for a free, fixed quote.
+We put that right for you. Our deep cleaning lifts out ground-in dirt, refreshes your sofa and restores the colour in your carpets. You choose the time, you get a fixed price, and you get your rooms back within hours.
 
-## Our cleaning services in Southampton
+## About Southampton
 
-- **[Carpet cleaning](/services/carpet-cleaning/)**: deep hot water extraction for fitted carpets in homes and offices across Southampton.
-- **[Upholstery cleaning](/services/upholstery-cleaning/)**: sofas, armchairs, dining chairs and headboards.
-- **[Rug cleaning](/services/rug-cleaning/)**: careful cleaning for wool, synthetic and delicate rugs.
-- **[Stain and odour removal](/services/stain-odour-removal/)**: wine, coffee, mud and pet stains, plus deep odour treatment.
-- **[End of tenancy carpet cleaning](/services/end-of-tenancy-carpet-cleaning/)**: for tenants, landlords and letting agents in Southampton.
-- **[Commercial carpet cleaning](/services/commercial-carpet-cleaning/)**: offices, shops, schools and hospitality venues.
+Southampton is a port city in Hampshire, set where the River Test and River Itchen meet Southampton Water. It is known for its busy docks and cruise terminals, its medieval town walls and the University of Southampton. Its homes include Victorian terraces, post-war family houses and modern waterfront apartments, alongside many student and rental properties.
 
-## How we clean your carpets
+For your carpets, that means high-traffic family homes, regular tenancy changeovers and busy commercial spaces. Each one benefits from a professional deep clean that keeps it looking good, smelling fresh and lasting longer.
 
-1. **Inspect:** we check the fibre type, condition and any problem stains.
-2. **Pre-treat:** we apply a solution matched to your carpet to break down dirt and grease.
-3. **Deep clean:** hot water extraction rinses out ground-in dirt, allergens and bacteria.
-4. **Finish:** we groom the pile so it dries evenly, usually within 2 to 4 hours.
+## How we help you in Southampton
 
-## What to expect when we clean in Southampton
+- **[Carpet cleaning](/services/carpet-cleaning/)**: brighter colours, softer fibres and fewer allergens in your home or office.
+- **[Upholstery cleaning](/services/upholstery-cleaning/)**: a fresher sofa, armchair or headboard for you to relax on.
+- **[Rug cleaning](/services/rug-cleaning/)**: gentle care that protects the colours, fibres and value of your rugs.
+- **[Stain and odour removal](/services/stain-odour-removal/)**: help with wine, coffee and pet accidents, so your home smells fresh again.
+- **[End of tenancy carpet cleaning](/services/end-of-tenancy-carpet-cleaning/)**: helping Southampton tenants protect their deposit and landlords re-let faster.
+- **[Commercial carpet cleaning](/services/commercial-carpet-cleaning/)**: cleaner offices, shops and venues across the city.
 
-- Open 7 days a week, 8am to 8pm
-- Free, no-obligation quotes with clear, fixed prices
-- Cleaning solutions that are safe for children and pets
-- Fast drying times, so you can get back to normal quickly
+## Areas of Southampton we cover
+
+We cover the whole of Southampton, including Shirley, Portswood, Bitterne, Woolston and Bassett, plus nearby [Eastleigh](/carpet-cleaning-eastleigh/), [Totton](/carpet-cleaning-totton/) and [Hedge End](/carpet-cleaning-hedge-end/).
+
+## What happens on the day
+
+1. **You tell us what you need:** the rooms, the furniture and any stains that worry you.
+2. **We prepare and protect:** we check your carpet type, protect your skirting boards and pre-treat problem areas.
+3. **We deep clean:** hot water extraction lifts out the dirt, bacteria and allergens that vacuuming leaves behind.
+4. **You enjoy the result:** fresh, soft carpets that are usually dry within 2 to 4 hours.
+
+## Why Southampton customers choose us
+
+- Booking that suits you, 7 days a week from 8am to 8pm
+- A free, fixed quote with no surprises on the day
+- Cleaning solutions that are safe for your children, your pets and your carpets
