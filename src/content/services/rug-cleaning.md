@@ -23,7 +23,6 @@ Rugs are often made from natural fibres and dyes that need a gentler approach th
 
 <figure class="photo-figure">
 <img src="/images/photos/hot-water-extraction-white-shaggy-carpet.jpg" alt="Hot water extraction wand cleaning a white shaggy carpet, leaving a clean stripe, with a yellow carpet cleaning machine in the background" sizes="(min-width: 800px) 420px, 100vw">
-<figcaption>Deep pile and shaggy rugs need careful extraction to lift out trapped dirt.</figcaption>
 </figure>
 
 ## Rugs We Clean

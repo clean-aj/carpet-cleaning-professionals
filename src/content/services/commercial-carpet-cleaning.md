@@ -31,7 +31,6 @@ We can clean early in the morning, in the evening or at weekends so your busines
 
 <figure class="photo-figure">
 <img src="/images/photos/carpet-cleaning-wand-clean-stripe-beige-carpet.jpg" alt="Carpet cleaning wand leaving a visibly cleaner stripe on a beige carpet, operated by a technician in grey trousers and safety boots" sizes="(min-width: 800px) 420px, 100vw">
-<figcaption>Every pass lifts out the dirt that daily foot traffic grinds into your carpets.</figcaption>
 </figure>
 
 ## Regular Maintenance Plans

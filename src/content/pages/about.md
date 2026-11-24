@@ -12,7 +12,6 @@ Carpet Cleaning Professionals is a specialist carpet, rug and upholstery cleanin
 
 <figure class="photo-figure">
 <img src="/images/team/carpet-cleaning-professionals-technician-with-van.jpg" alt="A Carpet Cleaning Professionals technician in a branded black polo shirt standing with arms folded beside a white Peugeot van on a residential street" sizes="(min-width: 800px) 420px, 100vw">
-<figcaption>One of our technicians, ready for the next job.</figcaption>
 </figure>
 
 ## How We Work

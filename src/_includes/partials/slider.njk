@@ -12,7 +12,6 @@
     <li class="slide" aria-roledescription="slide" aria-label="{{ loop.index }} of {{ slider.photos.length }}">
       <figure>
         <img src="{{ p.image }}" alt="{{ p.alt }}" sizes="(min-width: 900px) 260px, 75vw">
-        {%- if p.caption %}<figcaption>{{ p.caption }}</figcaption>{% endif %}
       </figure>
     </li>
     {%- endfor %}

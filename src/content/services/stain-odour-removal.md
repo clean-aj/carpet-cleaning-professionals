@@ -27,7 +27,6 @@ faqs:
 
 <figure class="photo-figure">
 <img src="/images/photos/steam-cleaning-stains-beige-fabric-sofa.jpg" alt="Steam cleaning tool treating brown stains on a beige fabric sofa cushion" sizes="(min-width: 800px) 420px, 100vw">
-<figcaption>Heat and the right solution loosen stains so they can be lifted out of the fibres.</figcaption>
 </figure>
 
 ## Pet Odour Treatment
@@ -36,7 +35,6 @@ Pet urine can soak through to the underlay, so smells keep coming back even afte
 
 <figure class="photo-figure">
 <img src="/images/photos/puppy-pet-stain-on-cream-rug.jpg" alt="Puppy sitting on a cream shaggy rug next to a wet pet stain in a bright living room" sizes="(min-width: 800px) 420px, 100vw">
-<figcaption>Pet accidents happen. Enzyme treatment removes the stain and the smell.</figcaption>
 </figure>
 
 Some old or set-in stains can't be removed completely. We'll always tell you honestly what to expect before we start.

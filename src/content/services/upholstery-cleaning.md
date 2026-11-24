@@ -23,7 +23,6 @@ Every fabric is different. We check the care labels and test a hidden area first
 
 <figure class="photo-figure">
 <img src="/images/photos/vacuuming-green-velvet-sofa-upholstery-brush.jpg" alt="Upholstery brush attachment vacuuming a dark green buttoned velvet sofa" sizes="(min-width: 800px) 420px, 100vw">
-<figcaption>Delicate fabrics like velvet get a gentle vacuum before any cleaning solution is used.</figcaption>
 </figure>
 
 ## What We Clean
@@ -37,7 +36,6 @@ Every fabric is different. We check the care labels and test a hidden area first
 
 <figure class="photo-figure">
 <img src="/images/photos/curtain-cleaning-technician-navy-curtains.jpg" alt="Carpet Cleaning Professionals technician cleaning navy blue eyelet curtains with a handheld upholstery extraction tool" sizes="(min-width: 800px) 420px, 100vw">
-<figcaption>Our technician cleaning curtains in place, so there's no need to take them down.</figcaption>
 </figure>
 
 ## Common Problems We Treat
@@ -46,5 +44,4 @@ Food and drink spills, body oils on armrests and headrests, pet hair and odours,
 
 <figure class="photo-figure">
 <img src="/images/photos/green-velvet-corner-sofa-cleaned.jpg" alt="Green velvet corner sofa freshly cleaned by Carpet Cleaning Professionals, showing triangular cleaning strokes across the seats and backrests" sizes="(min-width: 800px) 420px, 100vw">
-<figcaption>A green velvet corner sofa we've just cleaned, with fresh cleaning strokes across the pile.</figcaption>
 </figure>

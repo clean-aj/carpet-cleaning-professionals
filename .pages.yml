@@ -32,7 +32,6 @@ content:
         fields:
           - { name: image, label: Photo, type: image }
           - { name: alt, label: Photo description (alt text), type: text }
-          - { name: caption, label: Caption, type: string }
       - { name: body, label: Main content, type: rich-text }
 
   - name: pages
@@ -148,7 +147,6 @@ content:
         fields:
           - { name: image, label: Photo, type: image }
           - { name: alt, label: Photo description (alt text), type: text }
-          - { name: caption, label: Caption, type: string }
 
   - name: site
     label: Site settings

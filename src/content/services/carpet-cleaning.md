@@ -28,7 +28,6 @@ faqs:
 
 <figure class="photo-figure">
 <img src="/images/photos/hallway-carpet-cleaning-before-and-after.jpg" alt="Before and after carpet cleaning in a hallway by Carpet Cleaning Professionals: the cleaned far half of the cream carpet is bright, while the uncleaned near half is grey and marked with dirt" sizes="(min-width: 800px) 420px, 100vw">
-<figcaption>A real hallway job, half cleaned: the difference our hot water extraction makes.</figcaption>
 </figure>
 
 ## Benefits of Professional Carpet Cleaning

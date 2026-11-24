@@ -23,7 +23,6 @@ Many tenancy agreements ask for carpets to be professionally cleaned when you mo
 
 <figure class="photo-figure">
 <img src="/images/photos/stair-carpet-cleaning-before-and-after.jpg" alt="Before and after stair carpet cleaning by Carpet Cleaning Professionals: grey stair carpet stained and dirty on the left, clean and bright on the right" sizes="(min-width: 800px) 420px, 100vw">
-<figcaption>Stairs and hallways take the most wear, and they're the first thing an inspector sees.</figcaption>
 </figure>
 
 ## For Landlords and Letting Agents
