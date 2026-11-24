@@ -1,32 +1,242 @@
 {
   "name": "Carpet Cleaning Professionals",
   "url": "https://carpetcleaningprofessionals.co.uk",
-  "tagline": "Deep, safe and fast-drying carpet and upholstery cleaning",
-  "defaultDescription": "Professional carpet, rug and upholstery cleaning for homes and businesses. Deep cleaning, stain and odour removal, fast drying times and fully insured technicians.",
-  "phone": "01632 960000",
-  "email": "info@carpetcleaningprofessionals.co.uk",
+  "tagline": "Industry leading professional upholstery & carpet cleaning services",
+  "defaultDescription": "Professional carpet & upholstery cleaning across London, Surrey, Sussex, Hampshire & the South. Open 7 days, 8am–8pm. Call 0808 196 8603 for a free quote.",
+  "phone": "0808 196 8603",
+  "email": "office@carpetcleaningprofessionals.co.uk",
   "address": {
-    "street": "",
-    "town": "",
-    "county": "",
-    "postcode": ""
+    "street": "Suite 103",
+    "town": "Bognor Regis",
+    "county": "West Sussex",
+    "postcode": "PO22 9SL"
   },
-  "areasServed": [],
-  "openingHours": "",
-  "openingHoursText": "",
+  "areasServed": [
+    {
+      "region": "Berkshire",
+      "towns": [
+        "Abingdon",
+        "Ascot",
+        "Bracknell",
+        "Maidenhead",
+        "Newbury",
+        "Reading",
+        "Sandhurst",
+        "Slough",
+        "Windsor",
+        "Wokingham"
+      ]
+    },
+    {
+      "region": "Buckinghamshire",
+      "towns": [
+        "Aylesbury",
+        "Beaconsfield",
+        "High Wycombe",
+        "Marlow",
+        "Wendover"
+      ]
+    },
+    {
+      "region": "Dorset",
+      "towns": [
+        "Bournemouth",
+        "Christchurch",
+        "Dorchester",
+        "Poole",
+        "Ringwood"
+      ]
+    },
+    {
+      "region": "Hampshire",
+      "towns": [
+        "Aldershot",
+        "Andover",
+        "Basingstoke",
+        "Bordon",
+        "Eastleigh",
+        "Fareham",
+        "Farnborough",
+        "Fleet",
+        "Gosport",
+        "Havant",
+        "Hedge End",
+        "Portsmouth",
+        "Romsey",
+        "Salisbury",
+        "Southampton",
+        "Totton",
+        "Waterlooville",
+        "Winchester"
+      ]
+    },
+    {
+      "region": "London",
+      "towns": [
+        "Barking",
+        "Barnet",
+        "Bexley",
+        "Brent",
+        "Bromley",
+        "Camden",
+        "Chelsea",
+        "Coulsdon",
+        "Croydon",
+        "Ealing",
+        "Earls Court",
+        "Enfield",
+        "Feltham",
+        "Fulham",
+        "Gerrards Cross",
+        "Greenwich",
+        "Hackney",
+        "Hammersmith",
+        "Haringey",
+        "Harlington",
+        "Harrow",
+        "Havering",
+        "Hayes",
+        "Hillingdon",
+        "Hounslow",
+        "Islington",
+        "Kensington",
+        "Kingston Upon Thames",
+        "Lambeth",
+        "Lewisham",
+        "London",
+        "Merton",
+        "Mitcham",
+        "New Malden",
+        "Newham",
+        "Northwood",
+        "Paddington",
+        "Pinner",
+        "Redbridge",
+        "Richmond",
+        "Rickmansworth",
+        "Ruislip",
+        "Southwark",
+        "Sutton",
+        "Surbiton",
+        "Teddington",
+        "Tower Hamlets",
+        "Twickenham",
+        "Uxbridge",
+        "Wandsworth",
+        "Watford",
+        "Westminster",
+        "Wimbledon"
+      ]
+    },
+    {
+      "region": "Oxfordshire",
+      "towns": [
+        "Henley",
+        "Oxford"
+      ]
+    },
+    {
+      "region": "South West of England",
+      "towns": [
+        "Bath",
+        "Bristol",
+        "Cardiff",
+        "Cheltenham",
+        "Chippenham",
+        "Cirencester",
+        "Dorchester",
+        "Frome",
+        "Gloucester",
+        "Portishead",
+        "Trowbridge",
+        "Swindon",
+        "Weston-Super-Mare"
+      ]
+    },
+    {
+      "region": "Surrey",
+      "towns": [
+        "Bagshot",
+        "Camberley",
+        "Chertsey",
+        "Chessington",
+        "Cobham",
+        "Dorking",
+        "Epsom",
+        "Esher",
+        "Farnham",
+        "Godalming",
+        "Guildford",
+        "Hindhead",
+        "Leatherhead",
+        "Oxshott",
+        "Redhill",
+        "Reigate",
+        "Shepperton",
+        "Staines",
+        "Sunbury",
+        "Surrey",
+        "Virginia Water",
+        "Walton-on-Thames",
+        "West Molesey",
+        "Weybridge",
+        "Woking"
+      ]
+    },
+    {
+      "region": "Sussex",
+      "towns": [
+        "Arundel",
+        "Bognor Regis",
+        "Brighton",
+        "Chichester",
+        "Crawley",
+        "Eastbourne",
+        "Horsham",
+        "Hove",
+        "Worthing"
+      ]
+    },
+    {
+      "region": "North West",
+      "towns": [
+        "Manchester"
+      ]
+    }
+  ],
+  "openingHours": "Mo-Su 08:00-20:00",
+  "openingHoursText": "Open 7 days a week, 8am to 8pm",
   "priceRange": "££",
-  "logo": "",
+  "logo": "https://carpetcleaningprofessionals.co.uk/wp-content/uploads/2021/03/Logo-C.svg",
   "formAction": "",
   "social": {
-    "facebook": "",
-    "instagram": "",
+    "facebook": "https://www.facebook.com/carpetcleaningprosuk",
+    "instagram": "https://www.instagram.com/carpetcleaning.pros/",
+    "youtube": "https://www.youtube.com/channel/UCyzQyiLoyLQj8wyM6eaWD1g",
+    "linkedin": "https://www.linkedin.com/company/carpet-cleaning-pros/about/",
+    "x": "https://x.com/carpetprosuk",
     "google": ""
   },
   "nav": [
-    { "label": "Home", "url": "/" },
-    { "label": "Services", "url": "/services/" },
-    { "label": "About", "url": "/about/" },
-    { "label": "Blog", "url": "/blog/" },
-    { "label": "Contact", "url": "/contact/" }
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Services",
+      "url": "/services/"
+    },
+    {
+      "label": "About",
+      "url": "/about/"
+    },
+    {
+      "label": "Blog",
+      "url": "/blog/"
+    },
+    {
+      "label": "Contact",
+      "url": "/contact/"
+    }
   ]
 }

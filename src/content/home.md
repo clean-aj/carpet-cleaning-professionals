@@ -1,7 +1,7 @@
 ---
 title: Home
-metaTitle: Carpet Cleaning Professionals | Carpet, Rug & Upholstery Cleaning
-description: Professional carpet, rug and upholstery cleaning for homes and businesses. Deep cleaning, stain and odour removal and fast drying times. Free quotes.
+metaTitle: Carpet & Upholstery Cleaning | Carpet Cleaning Professionals
+description: Professional carpet & upholstery cleaning across London, Surrey, Sussex, Hampshire & the South. Open 7 days, 8am–8pm. Call 0808 196 8603 for a free quote.
 heading: Professional carpet cleaning that brings your carpets back to life
 intro: Deep, safe and fast-drying carpet, rug and upholstery cleaning for homes, landlords and businesses.
 highlights:
@@ -9,6 +9,7 @@ highlights:
   - Fully insured technicians
   - Pet and child safe solutions
   - Fast drying times
+  - Open 7 days, 8am to 8pm
 featuresHeading: Why choose Carpet Cleaning Professionals
 features:
   - title: Deep clean, not a surface clean

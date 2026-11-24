@@ -3,6 +3,7 @@
     <div>
       <p class="footer-name">{{ site.name }}</p>
       <p>{{ site.tagline }}</p>
+      {% include "partials/social.njk" %}
     </div>
     <div>
       <p class="footer-heading">Contact</p>
@@ -10,7 +11,7 @@
         {%- if site.phone %}<li><a href="{{ site.phone | telLink }}">{{ site.phone }}</a></li>{% endif %}
         {%- if site.email %}<li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>{% endif %}
         {%- if site.openingHoursText %}<li>{{ site.openingHoursText }}</li>{% endif %}
-        {%- if site.address.street %}<li>{{ site.address.street }}, {{ site.address.town }} {{ site.address.postcode }}</li>{% endif %}
+        {%- if site.address.street %}<li>{{ site.address.street }}, {{ site.address.town }}, {{ site.address.county }} {{ site.address.postcode }}</li>{% endif %}
       </ul>
     </div>
     <div>
@@ -22,7 +23,10 @@
     {%- if site.areasServed.length %}
     <div>
       <p class="footer-heading">Areas we cover</p>
-      <p>{{ site.areasServed | join(", ") }}</p>
+      <ul class="plain">
+        {%- for a in site.areasServed %}<li>{{ a.region }}</li>{% endfor %}
+      </ul>
+      <p><a href="/contact/#areas">See all areas →</a></p>
     </div>
     {%- endif %}
   </div>

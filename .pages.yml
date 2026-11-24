@@ -96,7 +96,13 @@ content:
           - { name: town, label: Town, type: string }
           - { name: county, label: County, type: string }
           - { name: postcode, label: Postcode, type: string }
-      - { name: areasServed, label: Areas served, type: string, list: true }
+      - name: areasServed
+        label: Areas served
+        type: object
+        list: true
+        fields:
+          - { name: region, label: County / region, type: string }
+          - { name: towns, label: Towns, type: string, list: true }
       - { name: openingHours, label: 'Opening hours for Google (e.g. Mo-Sa 08:00-18:00)', type: string }
       - { name: openingHoursText, label: 'Opening hours shown on site (e.g. Monday to Saturday, 8am to 6pm)', type: string }
       - { name: priceRange, label: Price range (e.g. ££), type: string }
@@ -108,6 +114,9 @@ content:
         fields:
           - { name: facebook, label: Facebook URL, type: string }
           - { name: instagram, label: Instagram URL, type: string }
+          - { name: youtube, label: YouTube URL, type: string }
+          - { name: linkedin, label: LinkedIn URL, type: string }
+          - { name: x, label: X (Twitter) URL, type: string }
           - { name: google, label: Google Business Profile URL, type: string }
       - name: nav
         label: Menu

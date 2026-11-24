@@ -6,7 +6,6 @@
       {%- if site.email %}<li><strong>Email:</strong> <a href="mailto:{{ site.email }}">{{ site.email }}</a></li>{% endif %}
       {%- if site.openingHoursText %}<li><strong>Hours:</strong> {{ site.openingHoursText }}</li>{% endif %}
       {%- if site.address.street %}<li><strong>Address:</strong> {{ site.address.street }}, {{ site.address.town }}, {{ site.address.county }} {{ site.address.postcode }}</li>{% endif %}
-      {%- if site.areasServed.length %}<li><strong>Areas covered:</strong> {{ site.areasServed | join(", ") }}</li>{% endif %}
     </ul>
   </div>
   {%- if site.formAction %}
@@ -23,3 +22,17 @@
   </form>
   {%- endif %}
 </div>
+
+{%- if site.areasServed.length %}
+<section id="areas" class="areas">
+  <h2>Areas we cover</h2>
+  <div class="areas-grid">
+    {%- for a in site.areasServed %}
+    <div>
+      <h3>{{ a.region }}</h3>
+      <p>{{ a.towns | join(", ") }}</p>
+    </div>
+    {%- endfor %}
+  </div>
+</section>
+{%- endif %}

@@ -1,0 +1,6 @@
+{%- set labels = { facebook: "Facebook", instagram: "Instagram", youtube: "YouTube", linkedin: "LinkedIn", x: "X", google: "Google" } %}
+<ul class="social">
+  {%- for key, url in site.social %}{% if url %}
+  <li><a href="{{ url }}" rel="noopener" target="_blank">{{ labels[key] or key }}</a></li>
+  {%- endif %}{% endfor %}
+</ul>

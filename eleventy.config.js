@@ -42,6 +42,8 @@ export default function (eleventyConfig) {
     const businessId = absolute("/#business");
     const address = site.address || {};
     const sameAs = Object.values(site.social || {}).filter(Boolean);
+    const regions = (site.areasServed || []).map((a) => a.region).filter(Boolean);
+    const towns = [...new Set((site.areasServed || []).flatMap((a) => a.towns || []))];
 
     const business = {
       "@type": "LocalBusiness",
@@ -63,7 +65,7 @@ export default function (eleventyConfig) {
           addressCountry: "GB",
         },
       }),
-      ...(site.areasServed?.length && { areaServed: site.areasServed.map((name) => ({ "@type": "Place", name })) }),
+      ...(towns.length && { areaServed: towns.map((name) => ({ "@type": "City", name })) }),
       ...(site.openingHours && { openingHours: site.openingHours }),
       ...(sameAs.length && { sameAs }),
     };
@@ -90,7 +92,7 @@ export default function (eleventyConfig) {
         description,
         url,
         provider: { "@id": businessId },
-        ...(site.areasServed?.length && { areaServed: site.areasServed }),
+        ...(regions.length && { areaServed: regions.map((name) => ({ "@type": "AdministrativeArea", name })) }),
       });
     }
 
