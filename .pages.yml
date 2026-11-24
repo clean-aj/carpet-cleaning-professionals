@@ -184,7 +184,7 @@ content:
         type: object
         fields:
           - { name: heading, label: Heading, type: string }
-          - { name: summary, label: "Summary (e.g. 250+ 5 Star Reviews)", type: string }
+          - { name: summary, label: "Summary (e.g. Rated 5 Stars by Our Customers)", type: string }
           - name: platforms
             label: Review platforms
             type: object
