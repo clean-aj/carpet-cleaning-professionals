@@ -93,6 +93,7 @@ h3 { font-size: 1.2rem; }
 .sidebar h2 { font-size: 1.2rem; }
 
 /* Contact */
+.contact-grid > .contact-details:only-child { max-width: 560px; }
 .contact-grid { display: grid; gap: 24px; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); align-items: start; }
 .contact-form label { display: block; font-weight: 600; margin-bottom: 14px; }
 .contact-form input, .contact-form textarea { display: block; width: 100%; margin-top: 4px; padding: 10px 12px; border: 1px solid var(--border); border-radius: 8px; font: inherit; }

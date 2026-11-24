@@ -114,5 +114,6 @@ layout: base.njk
   {%- if slug == "areas" %}<div class="container">{% include "partials/areas-list.njk" %}</div>{% endif %}
   {%- if slug == "contact" %}<div class="container">{% include "partials/contact.njk" %}</div>{% endif %}
 </section>
+{%- if slug == "about" or slug == "contact" %}{% include "partials/reviews.njk" %}{% endif %}
 {%- if slug != "contact" %}{% include "partials/cta.njk" %}{% endif %}
 {%- endif %}
