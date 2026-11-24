@@ -2,6 +2,7 @@
 <ul class="post-list">
   {%- for post in collections.posts | head(postLimit) %}
   <li class="card">
+    {%- if post.data.image %}<img class="card-image" src="{{ post.data.image }}" alt="{{ post.data.imageAlt }}" sizes="(min-width: 900px) 340px, 100vw">{% endif %}
     <p class="meta"><time datetime="{{ post.date | isoDate }}">{{ post.date | readableDate }}</time></p>
     <h3><a href="{{ post.url }}">{{ post.data.title }}</a></h3>
     <p>{{ post.data.description }}</p>

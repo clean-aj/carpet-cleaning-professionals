@@ -1,0 +1,10 @@
+<div class="areas-grid">
+  {%- for g in collections.locations | groupByRegion %}
+  <section id="{{ g.slug }}" class="area-group">
+    <h2>{{ g.region }}</h2>
+    <ul class="area-links">
+      {%- for l in g.items %}<li><a href="{{ l.url }}">{{ l.data.town }}</a></li>{% endfor %}
+    </ul>
+  </section>
+  {%- endfor %}
+</div>

@@ -14,7 +14,8 @@ npm run build    # builds the site into _site/
 
 | What | Where |
 |---|---|
-| Page content (Markdown) | `src/content/` (`home.md`, `pages/`, `services/`, `posts/`) |
+| Page content (Markdown) | `src/content/` (`home.md`, `pages/`, `services/`, `posts/`, `locations/`) |
+| Location pages (one per town) | `src/content/locations/` – the file name is the URL, e.g. `carpet-cleaning-reading.md` → `/carpet-cleaning-reading/` |
 | Business details, menu, SEO defaults | `src/_data/site.json` |
 | Templates | `src/_includes/` |
 | Styles | `src/assets/styles.css` |
@@ -22,12 +23,25 @@ npm run build    # builds the site into _site/
 | CMS setup | `.pages.yml` |
 | Deployment | `.github/workflows/deploy.yml` |
 
+## Location pages
+
+- 140 town pages, each at the same URL as on the previous WordPress site, so rankings carry over when the domain moves.
+- Add, edit or hide (Draft) locations in Pages CMS → **Locations**. The Areas page, footer, nearby-area links, sitemap and schema all update automatically.
+- The copy was generated from a template. Adding genuinely local detail to the most important towns (recent jobs, local landmarks, testimonials) will help them rank.
+- `scripts/generate-locations.mjs` created the pages and illustrations. Re-running it only creates missing files; `--force` overwrites everything, including CMS edits.
+
+## Images
+
+- Upload images in Pages CMS. Give each file a descriptive name **before** uploading (e.g. `sofa-cleaning-guildford-surrey.jpg`), and fill in the "Image description (alt text)" box with what is actually in the picture, plus the service and place.
+- At build time every image is resized to 400/800/1200px and converted to WebP + JPEG, keeping its descriptive name (e.g. `carpet-cleaning-reading-berkshire-800w.webp`), with width/height and lazy loading added automatically.
+- The current images are branded illustrations. Real photos of the team at work will perform better for both SEO and enquiries.
+
 ## SEO features
 
 - An SEO title and meta description for every page, editable in the CMS
 - Canonical URLs, Open Graph and Twitter tags
 - `sitemap.xml` and `robots.txt`, generated automatically
-- Schema.org JSON-LD on every page: `LocalBusiness`, `WebSite`, `WebPage` and `BreadcrumbList`, plus `Service` on service pages and `BlogPosting` on blog posts
+- Schema.org JSON-LD on every page: `LocalBusiness` (with all 140 areas served), `WebSite`, `WebPage`, `ImageObject` and `BreadcrumbList`, plus `Service` on service and location pages, `FAQPage` on location pages and `BlogPosting` on blog posts
 - Visible breadcrumbs, clean URLs and internal links between services
 
 ## Deploying (GitHub Pages)

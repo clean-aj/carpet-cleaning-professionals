@@ -20,13 +20,12 @@
         {%- for s in collections.services %}<li><a href="{{ s.url }}">{{ s.data.title }}</a></li>{% endfor %}
       </ul>
     </div>
-    {%- if site.areasServed.length %}
+    {%- if collections.locations.length %}
     <div>
       <p class="footer-heading">Areas we cover</p>
       <ul class="plain">
-        {%- for a in site.areasServed %}<li>{{ a.region }}</li>{% endfor %}
+        {%- for g in collections.locations | groupByRegion %}<li><a href="/areas/#{{ g.slug }}">{{ g.region }}</a></li>{% endfor %}
       </ul>
-      <p><a href="/contact/#areas">See all areas →</a></p>
     </div>
     {%- endif %}
   </div>

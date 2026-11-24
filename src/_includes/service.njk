@@ -4,7 +4,10 @@ layout: base.njk
 {% include "partials/page-hero.njk" %}
 <section class="section">
   <div class="container with-sidebar">
-    <article class="prose">{{ content | safe }}</article>
+    <article class="prose">
+      {%- if image %}<img class="hero-image" src="{{ image }}" alt="{{ imageAlt }}" loading="eager" fetchpriority="high">{% endif %}
+      {{ content | safe }}
+    </article>
     <aside class="sidebar">
       <div class="card">
         <h2>Get a free quote</h2>

@@ -5,6 +5,8 @@ description: End of tenancy carpet cleaning for tenants, landlords and letting a
 summary: Deep cleaning for tenants, landlords and letting agents between tenancies.
 intro: Help secure your deposit, or get your property ready for the next tenant.
 order: 5
+image: "/images/services/end-of-tenancy-carpet-cleaning-empty-room.jpg"
+imageAlt: "Illustration of a carpet cleaning machine cleaning the lilac carpet of an empty room with moving boxes stacked against the wall, captioned \"End of Tenancy Carpet Cleaning\" by Carpet Cleaning Professionals"
 ---
 ## For tenants
 

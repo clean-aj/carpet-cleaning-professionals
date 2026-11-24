@@ -1,0 +1,48 @@
+---
+layout: base.njk
+---
+{% include "partials/page-hero.njk" %}
+<section class="section">
+  <div class="container with-sidebar">
+    <article class="prose">
+      {%- if image %}<img class="hero-image" src="{{ image }}" alt="{{ imageAlt }}" loading="eager" fetchpriority="high">{% endif %}
+      {{ content | safe }}
+
+      {%- if faqs %}
+      <h2>Carpet cleaning in {{ town }}: frequently asked questions</h2>
+      <div class="faqs">
+        {%- for f in faqs %}
+        <details>
+          <summary>{{ f.question }}</summary>
+          <p>{{ f.answer }}</p>
+        </details>
+        {%- endfor %}
+      </div>
+      {%- endif %}
+
+      {%- set nearby = collections.locations | inRegion(region, page.url) %}
+      {%- if nearby.length %}
+      <h2>We also cover these areas in {{ region }}</h2>
+      <ul class="area-links">
+        {%- for l in nearby %}<li><a href="{{ l.url }}">{{ l.data.town }}</a></li>{% endfor %}
+      </ul>
+      {%- endif %}
+    </article>
+    <aside class="sidebar">
+      <div class="card">
+        <h2>Free quote in {{ town }}</h2>
+        <p>Tell us what needs cleaning and we'll give you a clear, fixed price.</p>
+        {%- if site.phone %}<p><a class="btn btn-block" href="{{ site.phone | telLink }}">Call {{ site.phone }}</a></p>{% endif %}
+        <p><a class="btn btn-outline btn-block" href="/contact/">Send an enquiry</a></p>
+        {%- if site.openingHoursText %}<p class="meta">{{ site.openingHoursText }}</p>{% endif %}
+      </div>
+      <div class="card">
+        <h2>Our services</h2>
+        <ul class="plain">
+          {%- for s in collections.services %}<li><a href="{{ s.url }}">{{ s.data.title }}</a></li>{% endfor %}
+        </ul>
+      </div>
+    </aside>
+  </div>
+</section>
+{% include "partials/cta.njk" %}

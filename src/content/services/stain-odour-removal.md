@@ -5,6 +5,8 @@ description: Specialist treatment for wine, coffee, pet and other tough carpet s
 summary: Specialist treatment for wine, coffee and pet stains, plus deep odour removal.
 intro: Specialist treatment for tough stains and lingering smells.
 order: 4
+image: "/images/services/carpet-stain-and-odour-removal.jpg"
+imageAlt: "Illustration of a carpet cleaning machine about to remove a red wine stain from a grey carpet beside a green sofa, captioned \"Stain & Odour Removal\" by Carpet Cleaning Professionals"
 ---
 ## Stains we treat
 

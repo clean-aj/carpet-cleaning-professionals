@@ -2,6 +2,8 @@
 title: How to Deal With Common Carpet Stains
 description: Quick, practical steps for tackling red wine, coffee, mud and pet stains on carpet, and the mistakes that make stains worse.
 date: 2026-11-03
+image: "/images/blog/how-to-remove-common-carpet-stains.jpg"
+imageAlt: "Illustration of a carpet cleaning machine about to remove a red wine stain from a oatmeal carpet beside a green sofa, captioned \"How to deal with carpet stains\" by Carpet Cleaning Professionals"
 ---
 Acting quickly makes a big difference with carpet stains. These are the first steps to take before a stain has a chance to set.
 

@@ -98,12 +98,25 @@ h3 { font-size: 1.2rem; }
 .plain li { margin-bottom: 6px; }
 
 /* Areas & social */
-.areas { margin-top: 48px; }
-.areas-grid { display: grid; gap: 8px 32px; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); }
-.areas-grid h3 { margin: 16px 0 4px; color: var(--brand); }
-.areas-grid p { margin: 0; color: var(--muted); }
 .social { list-style: none; padding: 0; margin: 12px 0 0; display: flex; flex-wrap: wrap; gap: 6px 14px; }
 .logo img { display: block; height: 44px; width: auto; }
+
+.hero-image, .card-image { display: block; width: 100%; height: auto; border-radius: var(--radius); }
+.hero-image { margin-bottom: 28px; }
+.card-image { margin: -8px 0 16px; aspect-ratio: 1200 / 630; object-fit: cover; }
+.areas-link { margin-top: 32px; }
+.area-group h2 { font-size: 1.3rem; color: var(--brand); margin: 24px 0 8px; }
+.area-links { list-style: none; padding: 0; margin: 0 0 16px; display: flex; flex-wrap: wrap; gap: 8px; }
+.area-links a { display: inline-block; padding: 4px 12px; border: 1px solid var(--border); border-radius: 999px; text-decoration: none; background: #fff; font-size: .95rem; }
+.area-links a:hover { border-color: var(--brand); background: var(--bg-alt); }
+.areas-grid { display: block; }
+.region-pills { list-style: none; padding: 0; margin: 0 0 16px; display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; }
+.region-pills a { display: inline-block; padding: 8px 18px; border-radius: 999px; background: var(--bg-alt); border: 1px solid var(--border); text-decoration: none; font-weight: 600; }
+.region-pills a:hover { background: var(--brand); color: #fff; }
+.center { text-align: center; }
+.faqs details { border: 1px solid var(--border); border-radius: 10px; padding: 12px 16px; margin-bottom: 10px; background: #fff; }
+.faqs summary { font-weight: 600; cursor: pointer; }
+.faqs details p { margin: 10px 0 0; }
 
 /* CTA */
 .cta { background: var(--brand-dark); color: #fff; padding: 48px 0; }

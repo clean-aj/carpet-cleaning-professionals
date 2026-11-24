@@ -5,6 +5,8 @@ description: Deep hot water extraction carpet cleaning that removes dirt, allerg
 summary: Deep hot water extraction cleaning that removes ground-in dirt, allergens and stains.
 intro: Deep hot water extraction cleaning that restores colour, softness and freshness to your carpets.
 order: 1
+image: "/images/services/professional-carpet-cleaning-hot-water-extraction.jpg"
+imageAlt: "Illustration of a hot water extraction carpet cleaning machine cleaning a sage green living room carpet beside a tan sofa, with a window looking out over green hills, captioned \"Carpet Cleaning\" by Carpet Cleaning Professionals"
 ---
 ## Our carpet cleaning process
 

@@ -5,6 +5,8 @@ description: Commercial carpet cleaning for offices, shops, schools and hospital
 summary: Office, retail and hospitality carpet cleaning at times that suit your business.
 intro: Clean, professional-looking floors with minimal disruption to your business.
 order: 6
+image: "/images/services/commercial-office-carpet-cleaning.jpg"
+imageAlt: "Illustration of a commercial carpet cleaning machine cleaning a grey office carpet beside a desk, computer monitor and office chair, captioned \"Commercial Carpet Cleaning\" by Carpet Cleaning Professionals"
 ---
 ## Flexible scheduling
 

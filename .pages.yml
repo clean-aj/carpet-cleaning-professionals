@@ -56,6 +56,8 @@ content:
       - { name: summary, label: Card summary (shown in service lists), type: text }
       - { name: intro, label: Intro text, type: text }
       - { name: order, label: Order in lists, type: number }
+      - { name: image, label: Main image (1200×630, descriptive file name), type: image }
+      - { name: imageAlt, label: Image description (alt text), type: text }
       - { name: body, label: Content, type: rich-text }
 
   - name: posts
@@ -73,8 +75,45 @@ content:
       - { name: description, label: Meta description (120–160 characters), type: text, required: true }
       - { name: date, label: Publish date, type: date, required: true }
       - { name: draft, label: Draft (hide from site), type: boolean, default: false }
-      - { name: image, label: Featured image, type: image }
-      - { name: imageAlt, label: Image description (alt text), type: string }
+      - { name: image, label: Main image (1200×630, descriptive file name), type: image }
+      - { name: imageAlt, label: Image description (alt text), type: text }
+      - { name: body, label: Content, type: rich-text }
+
+  - name: locations
+    label: Locations
+    type: collection
+    path: src/content/locations
+    # The file name is the page URL: carpet-cleaning-reading.md → /carpet-cleaning-reading/
+    filename: "carpet-cleaning-{primary}.md"
+    view:
+      primary: town
+      fields: [town, county, region]
+      default:
+        sort: town
+        order: asc
+    fields:
+      - { name: town, label: Town or city, type: string, required: true }
+      - { name: county, label: County (e.g. West Sussex), type: string, required: true }
+      - name: region
+        label: Region group
+        type: select
+        required: true
+        options:
+          values: [London, Surrey, Sussex, Hampshire, Berkshire, Buckinghamshire, Hertfordshire, Oxfordshire, Dorset, South West England, South Wales, North West]
+      - { name: title, label: Page heading (H1), type: string, required: true }
+      - { name: metaTitle, label: SEO title (50–60 characters), type: string }
+      - { name: description, label: Meta description (120–160 characters), type: text }
+      - { name: intro, label: Intro text, type: text }
+      - { name: image, label: Main image (1200×630, descriptive file name), type: image }
+      - { name: imageAlt, label: Image description (alt text), type: text }
+      - name: faqs
+        label: FAQs
+        type: object
+        list: true
+        fields:
+          - { name: question, label: Question, type: string }
+          - { name: answer, label: Answer, type: text }
+      - { name: draft, label: Draft (hide from site), type: boolean, default: false }
       - { name: body, label: Content, type: rich-text }
 
   - name: site
@@ -96,13 +135,7 @@ content:
           - { name: town, label: Town, type: string }
           - { name: county, label: County, type: string }
           - { name: postcode, label: Postcode, type: string }
-      - name: areasServed
-        label: Areas served
-        type: object
-        list: true
-        fields:
-          - { name: region, label: County / region, type: string }
-          - { name: towns, label: Towns, type: string, list: true }
+      - { name: regions, label: Region order (for area lists), type: string, list: true }
       - { name: openingHours, label: 'Opening hours for Google (e.g. Mo-Sa 08:00-18:00)', type: string }
       - { name: openingHoursText, label: 'Opening hours shown on site (e.g. Monday to Saturday, 8am to 6pm)', type: string }
       - { name: priceRange, label: Price range (e.g. ££), type: string }

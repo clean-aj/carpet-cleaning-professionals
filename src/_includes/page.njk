@@ -43,6 +43,18 @@ layout: base.njk
 </section>
 {%- endif %}
 
+{%- if collections.locations.length %}
+<section class="section">
+  <div class="container">
+    <h2 class="section-title">Areas we cover</h2>
+    <ul class="region-pills">
+      {%- for g in collections.locations | groupByRegion %}<li><a href="/areas/#{{ g.slug }}">{{ g.region }}</a></li>{% endfor %}
+    </ul>
+    <p class="center"><a href="/areas/">See all {{ collections.locations.length }} towns and cities we cover →</a></p>
+  </div>
+</section>
+{%- endif %}
+
 {%- if collections.posts.length %}
 <section class="section section-alt">
   <div class="container">
@@ -61,6 +73,7 @@ layout: base.njk
   <div class="container prose">{{ content | safe }}</div>
   {%- if slug == "services" %}<div class="container">{% include "partials/service-grid.njk" %}</div>{% endif %}
   {%- if slug == "blog" %}<div class="container">{% include "partials/post-list.njk" %}</div>{% endif %}
+  {%- if slug == "areas" %}<div class="container">{% include "partials/areas-list.njk" %}</div>{% endif %}
   {%- if slug == "contact" %}<div class="container">{% include "partials/contact.njk" %}</div>{% endif %}
 </section>
 {%- if slug != "contact" %}{% include "partials/cta.njk" %}{% endif %}

@@ -23,16 +23,4 @@
   {%- endif %}
 </div>
 
-{%- if site.areasServed.length %}
-<section id="areas" class="areas">
-  <h2>Areas we cover</h2>
-  <div class="areas-grid">
-    {%- for a in site.areasServed %}
-    <div>
-      <h3>{{ a.region }}</h3>
-      <p>{{ a.towns | join(", ") }}</p>
-    </div>
-    {%- endfor %}
-  </div>
-</section>
-{%- endif %}
+<p class="areas-link">We cover London, Surrey, Sussex, Hampshire, Berkshire and beyond. <a href="/areas/">See all the areas we cover →</a></p>
