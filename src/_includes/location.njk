@@ -48,6 +48,7 @@ layout: base.njk
       <a class="card review-badge" href="{{ site.reviews.url }}" target="_blank" rel="noopener">
         <span class="stars" aria-hidden="true">★★★★★</span>
         <strong>{{ site.reviews.summary }}</strong>
+        {%- if site.reviews.platforms %}<span class="badge-platforms">{% for pl in site.reviews.platforms %}{{ pl.name }}{% if not loop.last %} · {% endif %}{% endfor %}</span>{% endif %}
         <span>Read what our customers say →</span>
       </a>
       {%- endif %}

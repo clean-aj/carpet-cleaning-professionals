@@ -266,6 +266,10 @@ h3 { font-size: 1.2rem; }
 .review-card .stars { margin: 0 0 8px; }
 .review-card blockquote { margin: 0 0 12px; }
 .review-meta { margin: 0; color: var(--muted); font-size: .92rem; }
+.review-platforms { list-style: none; padding: 0; margin: 12px 0 0; display: flex; flex-wrap: wrap; gap: 8px; }
+.review-platforms li > * { display: inline-block; padding: 5px 14px; border-radius: 999px; background: var(--bg-alt); border: 1px solid var(--border); font-weight: 700; font-size: .92rem; color: var(--text); text-decoration: none; }
+.review-platforms a:hover { border-color: var(--brand); color: var(--brand); }
+.badge-platforms { color: var(--muted); font-size: .88rem; }
 .review-badge { display: grid; gap: 4px; text-decoration: none; color: var(--text); text-align: center; }
 .review-badge .stars { font-size: 1.3rem; }
 .review-badge span:last-child { color: var(--brand); font-weight: 600; }

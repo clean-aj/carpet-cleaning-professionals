@@ -40,7 +40,8 @@
     "youtube": "https://www.youtube.com/channel/UCyzQyiLoyLQj8wyM6eaWD1g",
     "linkedin": "https://www.linkedin.com/company/carpet-cleaning-pros/about/",
     "x": "https://x.com/carpetprosuk",
-    "google": "https://g.page/carpet-cleaning-pros-south?share"
+    "google": "https://g.page/carpet-cleaning-pros-south?share",
+    "trustpilot": "https://uk.trustpilot.com/review/carpetcleaningprofessionals.co.uk"
   },
   "nav": [
     {
@@ -70,9 +71,27 @@
   ],
   "reviews": {
     "heading": "What Our Customers Say",
-    "summary": "250+ five-star reviews on Google",
+    "summary": "250+ 5 Star Reviews",
     "url": "https://g.page/carpet-cleaning-pros-south?share",
     "writeUrl": "https://g.page/carpet-cleaning-pros-south/review",
-    "items": []
+    "items": [],
+    "platforms": [
+      {
+        "name": "Trustpilot",
+        "url": "https://uk.trustpilot.com/review/carpetcleaningprofessionals.co.uk"
+      },
+      {
+        "name": "Google",
+        "url": "https://g.page/carpet-cleaning-pros-south?share"
+      },
+      {
+        "name": "Reviews.io",
+        "url": ""
+      },
+      {
+        "name": "Facebook",
+        "url": "https://www.facebook.com/carpetcleaningprosuk/reviews"
+      }
+    ]
   }
 }
