@@ -34,6 +34,13 @@ layout: base.njk
           {%- for s in collections.services %}{% if s.url != page.url %}<li><a href="{{ s.url }}">{{ s.data.title }}</a></li>{% endif %}{% endfor %}
         </ul>
       </div>
+      {%- if site.reviews and site.reviews.url %}
+      <a class="card review-badge" href="{{ site.reviews.url }}" target="_blank" rel="noopener">
+        <span class="stars" aria-hidden="true">★★★★★</span>
+        <strong>{{ site.reviews.summary }}</strong>
+        <span>Read what our customers say →</span>
+      </a>
+      {%- endif %}
     </aside>
   </div>
 </section>

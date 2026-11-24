@@ -1,0 +1,28 @@
+{%- set r = site.reviews %}
+{%- if r and r.url %}
+<section class="section reviews">
+  <div class="container">
+    <div class="reviews-head">
+      <div>
+        <h2>{{ r.heading or "What Our Customers Say" }}</h2>
+        <p class="reviews-score"><span class="stars" aria-hidden="true">★★★★★</span> <span>{{ r.summary }}</span></p>
+      </div>
+      <div class="reviews-actions">
+        <a class="btn" href="{{ r.url }}" target="_blank" rel="noopener">Read our Google reviews</a>
+        {%- if r.writeUrl %}<a class="btn btn-outline" href="{{ r.writeUrl }}" target="_blank" rel="noopener">Leave a review</a>{% endif %}
+      </div>
+    </div>
+    {%- if r.items.length %}
+    <ul class="review-grid">
+      {%- for item in r.items %}
+      <li class="review-card">
+        <p class="stars" aria-label="{{ item.rating or 5 }} out of 5 stars">{% for n in range(0, item.rating or 5) %}★{% endfor %}</p>
+        <blockquote>{{ item.text }}</blockquote>
+        <p class="review-meta"><strong>{{ item.name }}</strong>{% if item.town %}, {{ item.town }}{% endif %}{% if item.date %} · {{ item.date }}{% endif %} · Google review</p>
+      </li>
+      {%- endfor %}
+    </ul>
+    {%- endif %}
+  </div>
+</section>
+{%- endif %}

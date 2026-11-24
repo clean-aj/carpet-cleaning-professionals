@@ -32,6 +32,8 @@ content:
         fields:
           - { name: image, label: Photo, type: image }
           - { name: alt, label: Photo description (alt text), type: text }
+      - { name: introImage, label: Image next to the intro text, type: image }
+      - { name: introImageAlt, label: Intro image description (alt text), type: text }
       - { name: body, label: Main content, type: rich-text }
 
   - name: pages
@@ -177,6 +179,24 @@ content:
       - { name: technicianPhoto, label: Technician photo (quote boxes and Contact page), type: image }
       - { name: technicianPhotoAlt, label: Technician photo description (alt text), type: text }
       - { name: formAction, label: Contact form endpoint (e.g. Formspree URL), type: string }
+      - name: reviews
+        label: Google reviews
+        type: object
+        fields:
+          - { name: heading, label: Heading, type: string }
+          - { name: summary, label: "Summary (e.g. 250+ five-star reviews on Google)", type: string }
+          - { name: url, label: Google reviews link, type: string }
+          - { name: writeUrl, label: Leave a review link, type: string }
+          - name: items
+            label: Reviews (copy real reviews from Google)
+            type: object
+            list: true
+            fields:
+              - { name: name, label: Reviewer name, type: string }
+              - { name: town, label: Town (optional), type: string }
+              - { name: rating, label: Stars (1–5), type: number }
+              - { name: date, label: "Date (e.g. March 2026)", type: string }
+              - { name: text, label: Review text, type: text }
       - name: social
         label: Social profiles
         type: object

@@ -20,7 +20,10 @@ layout: base.njk
 </section>
 
 <section class="section">
-  <div class="container prose">{{ content | safe }}</div>
+  <div class="container intro-split">
+    <div class="prose">{{ content | safe }}</div>
+    {%- if introImage %}<img class="intro-image" src="{{ introImage }}" alt="{{ introImageAlt }}" sizes="(min-width: 900px) 460px, 100vw">{% endif %}
+  </div>
 </section>
 
 <section class="section section-alt">
@@ -60,6 +63,8 @@ layout: base.njk
   </div>
 </section>
 {%- endif %}
+
+{% include "partials/reviews.njk" %}
 
 {%- if features %}
 <section class="section">

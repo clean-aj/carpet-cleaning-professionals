@@ -40,7 +40,7 @@
     "youtube": "https://www.youtube.com/channel/UCyzQyiLoyLQj8wyM6eaWD1g",
     "linkedin": "https://www.linkedin.com/company/carpet-cleaning-pros/about/",
     "x": "https://x.com/carpetprosuk",
-    "google": ""
+    "google": "https://g.page/carpet-cleaning-pros-south?share"
   },
   "nav": [
     {
@@ -67,5 +67,12 @@
       "label": "Contact",
       "url": "/contact/"
     }
-  ]
+  ],
+  "reviews": {
+    "heading": "What Our Customers Say",
+    "summary": "250+ five-star reviews on Google",
+    "url": "https://g.page/carpet-cleaning-pros-south?share",
+    "writeUrl": "https://g.page/carpet-cleaning-pros-south/review",
+    "items": []
+  }
 }
