@@ -44,6 +44,24 @@ layout: base.njk
 </section>
 {%- endif %}
 
+{%- if gallery %}
+<section class="section section-alt">
+  <div class="container">
+    <h2 class="section-title">See the difference</h2>
+    <ul class="gallery">
+      {%- for g in gallery %}
+      <li>
+        <figure>
+          <img src="{{ g.image }}" alt="{{ g.alt }}" sizes="(min-width: 900px) 360px, 100vw">
+          {%- if g.caption %}<figcaption>{{ g.caption }}</figcaption>{% endif %}
+        </figure>
+      </li>
+      {%- endfor %}
+    </ul>
+  </div>
+</section>
+{%- endif %}
+
 {%- if features %}
 <section class="section">
   <div class="container">

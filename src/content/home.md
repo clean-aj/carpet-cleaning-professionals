@@ -20,6 +20,16 @@ features:
     text: Powerful extraction removes most of the moisture, so your carpets are usually dry within a few hours.
   - title: Clear, fixed prices
     text: You get a clear quote before we start, with no hidden extras on the day.
+gallery:
+  - image: "/images/photos/hallway-carpet-cleaning-before-and-after.jpg"
+    alt: "Before and after carpet cleaning in a hallway by Carpet Cleaning Professionals: the cleaned far half of the cream carpet is bright, while the uncleaned near half is grey and marked with dirt"
+    caption: "Hallway carpet, half cleaned"
+  - image: "/images/photos/curtain-cleaning-technician-navy-curtains.jpg"
+    alt: "Carpet Cleaning Professionals technician cleaning navy blue eyelet curtains with a handheld upholstery extraction tool"
+    caption: "Curtains cleaned in place"
+  - image: "/images/photos/hot-water-extraction-carpet-cleaning-beige-carpet.jpg"
+    alt: "Hot water extraction carpet cleaning wand cleaning a beige twist pile carpet, with a technician wearing blue protective shoe covers"
+    caption: "Hot water extraction on a deep pile carpet"
 ---
 Carpets take a lot of punishment: everyday foot traffic, spills, pets and muddy shoes. Over time, dirt works deep into the fibres, making carpets look tired and dull and trapping allergens and odours.
 

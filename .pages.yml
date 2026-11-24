@@ -25,6 +25,14 @@ content:
         fields:
           - { name: title, label: Title, type: string }
           - { name: text, label: Text, type: text }
+      - name: gallery
+        label: '"See the difference" photos'
+        type: object
+        list: true
+        fields:
+          - { name: image, label: Photo, type: image }
+          - { name: alt, label: Photo description (alt text), type: text }
+          - { name: caption, label: Caption, type: string }
       - { name: body, label: Main content, type: rich-text }
 
   - name: pages

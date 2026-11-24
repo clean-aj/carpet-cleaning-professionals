@@ -314,7 +314,7 @@ for (const [md, img, scene, heading] of extra) {
   const alt = `Illustration of ${describeScene({ scene, seed })}, captioned "${heading}" by Carpet Cleaning Professionals`;
   const mdPath = `${root}src/content/${md}`;
   let text = readFileSync(mdPath, "utf8");
-  if (!/^image:/m.test(text) || FORCE) {
+  if (!/^image:/m.test(text) || (FORCE && /^image: "?\/images\/(services|blog)\//m.test(text))) {
     text = text.replace(/^image:.*\n|^imageAlt:.*\n/gm, "");
     text = text.replace(/\n---\n/, `\nimage: ${yaml("/images/" + img)}\nimageAlt: ${yaml(alt)}\n---\n`);
     writeFileSync(mdPath, text);

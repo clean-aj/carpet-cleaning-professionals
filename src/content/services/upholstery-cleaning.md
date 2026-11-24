@@ -5,8 +5,8 @@ description: Professional sofa, armchair and upholstery cleaning for fabric furn
 summary: Sofa, armchair and fabric furniture cleaning that removes stains, odours and everyday grime.
 intro: Bring your sofas, armchairs and dining chairs back to their best.
 order: 2
-image: "/images/services/professional-sofa-upholstery-cleaning.jpg"
-imageAlt: "Illustration of an upholstery cleaning wand cleaning the seat of a brown fabric sofa in a living room, captioned \"Upholstery Cleaning\" by Carpet Cleaning Professionals"
+image: "/images/photos/fabric-sofa-upholstery-cleaning-grey-cushion.jpg"
+imageAlt: "Upholstery cleaning tool lifting dirt from a light grey fabric sofa cushion, leaving a visibly cleaner stripe"
 ---
 ## Fabric-safe cleaning
 
@@ -17,8 +17,14 @@ Every fabric is different. We check the care labels and test a hidden area first
 - Sofas and armchairs
 - Dining chairs
 - Headboards
+- Curtains
 - Cushions
 - Office chairs and seating
+
+<figure class="photo-figure">
+<img src="/images/photos/curtain-cleaning-technician-navy-curtains.jpg" alt="Carpet Cleaning Professionals technician cleaning navy blue eyelet curtains with a handheld upholstery extraction tool" sizes="(min-width: 800px) 420px, 100vw">
+<figcaption>Our technician cleaning curtains in place, so there's no need to take them down.</figcaption>
+</figure>
 
 ## Common problems we treat
 

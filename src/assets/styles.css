@@ -158,6 +158,14 @@ h3 { font-size: 1.2rem; }
 .quote-card { overflow: hidden; }
 .quote-photo { display: block; width: calc(100% + 48px); max-width: none; height: auto; margin: -24px -24px 18px; aspect-ratio: 3 / 2; object-fit: cover; }
 
+/* Photos */
+.photo-figure { margin: 24px 0; max-width: 420px !important; }
+.photo-figure img, .gallery img { display: block; width: 100%; height: auto; border-radius: var(--radius); }
+figcaption { font-size: .92rem; color: var(--muted); margin-top: 8px; }
+.gallery { list-style: none; padding: 0; margin: 0; display: grid; gap: 20px; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); }
+.gallery figure { margin: 0; }
+.gallery img { aspect-ratio: 4 / 3; object-fit: cover; }
+
 /* CTA */
 .cta { background: var(--brand-dark); color: #fff; padding: 48px 0; }
 .cta-inner { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 20px; }
