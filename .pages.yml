@@ -179,6 +179,7 @@ content:
       - { name: technicianPhoto, label: Technician photo (quote boxes and Contact page), type: image }
       - { name: technicianPhotoAlt, label: Technician photo description (alt text), type: text }
       - { name: formAction, label: Contact form endpoint (e.g. Formspree URL), type: string }
+      - { name: mapEmbed, label: Google Maps embed link (the src from the embed code), type: string }
       - name: reviews
         label: Google reviews
         type: object
