@@ -1,7 +1,9 @@
 ---
-title: "Why Using a Professional Is the Best Way to Clean Carpets in Southampton | Carpet Cleaning Pros"
+title: "Why Using a Professional Is the Best Way to Clean Carpets in Southampton"
 description: "As a property owner in Southampton, it makes sense that you want to do as much as you can on your own. Personal pride in our property is common, and this can"
 date: 2021-09-13
+image: "/images/photos/hot-water-extraction-carpet-cleaning-beige-carpet.jpg"
+imageAlt: "Hot water extraction carpet cleaning wand cleaning a beige twist pile carpet, with a technician wearing blue protective shoe covers"
 ---
 As a property owner in Southampton, it makes sense that you want to do as much as you can on your own. Personal pride in our property is common, and this can mean that we often look to manage all cleaning and care ourselves. While admirable, cleaning carpets with DIY products alone can only do so much.
 

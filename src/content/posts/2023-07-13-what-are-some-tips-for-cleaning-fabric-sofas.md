@@ -3,6 +3,8 @@ title: "What Are Some Tips for Cleaning Fabric Sofas?"
 metaTitle: "What Are Some Tips for Cleaning Fabric Sofas"
 description: "Having a hard time tidying up those fabric sofas? Then try out the following cleaning method. This should help you to get that fabric sofa looking and smelling fresh once again."
 date: 2023-07-13
+image: "/images/photos/beige-sofa-cushion-upholstery-cleaning-before-and-after-landscape.jpg"
+imageAlt: "Beige fabric sofa seat cushion half cleaned by Carpet Cleaning Professionals, with the cleaned left side visibly brighter than the dirty right side"
 ---
 ![What Are Some Tips For Cleaning Fabric Sofas](/images/blog/what-are-some-tips-for-cleaning-fabric-sofas.jpg)
 

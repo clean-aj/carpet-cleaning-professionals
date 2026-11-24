@@ -87,6 +87,32 @@ export default function (eleventyConfig) {
     !d.county || d.county === d.town || (d.town === "London" && d.county === "London") ? d.town : `${d.town}, ${d.county}`
   );
 
+  // Inserts a call-to-action box before every 3rd section heading in long content
+  const ctaLines = [
+    ["Need a hand?", "Our team is open 7 days a week, 8am to 8pm."],
+    ["Want results like these?", "Get a free, fixed quote with no obligation."],
+    ["Short on time?", "Let us take care of the hard work for you."],
+  ];
+  eleventyConfig.addFilter("withCtas", (html = "", phone = "", every = 3) => {
+    const box = (k) => {
+      const [title, text] = ctaLines[k % ctaLines.length];
+      const call = phone ? `<a class="btn" href="tel:${phone.replace(/[^\d+]/g, "")}">Call ${phone}</a>` : "";
+      return `<aside class="inline-cta"><p class="inline-cta-title">${title}</p><p>${text}</p><p class="inline-cta-actions">${call}<a class="btn btn-outline" href="/contact/">Get a free quote</a></p></aside>\n`;
+    };
+    const headings = (html.match(/<h[23][\s>]/g) || []).length;
+    let n = 0, k = 0;
+    if (headings >= 2) {
+      // before every 3rd section heading, or before the middle one on shorter pages
+      const at = headings >= every ? (i) => i % every === 0 : (i) => i === Math.ceil((headings + 1) / 2);
+      return html.replace(/<h[23][\s>]/g, (m) => (at(++n) ? box(k++) + m : m));
+    }
+    // no headings: place one CTA halfway through the paragraphs
+    const paras = (html.match(/<\/p>/g) || []).length;
+    if (paras < 4) return html;
+    const mid = Math.floor(paras / 2);
+    return html.replace(/<\/p>/g, (m) => (++n === mid ? m + "\n" + box(0) : m));
+  });
+
   // ---- Schema.org JSON-LD ----
   eleventyConfig.addShortcode("schema", function (d) {
     const { page, title, description, date, pageType, image, imageAlt, locations = [] } = d;

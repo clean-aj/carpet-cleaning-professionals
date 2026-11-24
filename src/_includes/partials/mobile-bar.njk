@@ -1,0 +1,6 @@
+{%- if site.phone %}
+<div class="mobile-bar" role="complementary" aria-label="Quick contact">
+  <a class="btn" href="{{ site.phone | telLink }}">Call now</a>
+  <a class="btn btn-outline" href="/contact/">Free quote</a>
+</div>
+{%- endif %}

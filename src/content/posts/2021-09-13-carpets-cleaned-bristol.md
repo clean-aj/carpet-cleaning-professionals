@@ -3,6 +3,8 @@ title: "Add More Years to Your Carpet"
 metaTitle: "5 Reasons to Have My Carpets Cleaned in Bristol"
 description: "When it comes to owning property in Bristol, it always pays to invest in good quality carpets. Strong, thick carpets with a reliable underlay can help to add"
 date: 2021-09-13
+image: "/images/photos/red-living-room-carpet-cleaned-landscape.jpg"
+imageAlt: "Freshly cleaned terracotta red carpet in a living room with a wood-burning stove and leather armchair, showing even cleaning lines after a clean by Carpet Cleaning Professionals"
 ---
 When it comes to owning property in Bristol, it always pays to invest in good quality carpets. Strong, thick carpets with a reliable underlay can help to add a freshness and cosiness to your home that is so hard to find normally. However, over time, a carpet can begin to look tatty and dated. To avoid that, it pays to invest in **[carpet cleaning in Bristol](/carpet-cleaning-bristol/)**.
 

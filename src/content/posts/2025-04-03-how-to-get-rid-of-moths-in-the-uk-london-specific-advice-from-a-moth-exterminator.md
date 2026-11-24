@@ -3,6 +3,8 @@ title: "How to Get Rid of Moths in the UK: London-Specific Advice from a Moth Ex
 metaTitle: "How to Get Rid of Moths in the UK: London-Specific Advice from a Moth Exterminator | Carpet Cleaning Pros"
 description: "Moths might seem like a minor nuisance, but in the UK\u2014especially London\u2014they can cause serious damage to your home and wardrobe. From carpet moths shredding"
 date: 2025-04-03
+image: "/images/blog/carpet-moth-on-grey-wool-carpet.jpg"
+imageAlt: "Carpet moth resting on a grey wool carpet"
 ---
 Moths might seem like a minor nuisance, but in the UK—especially London—they can cause serious damage to your home and wardrobe. From carpet moths shredding rugs to clothes moths ruining your best jumpers, these pests are a persistent challenge. If you’re wondering how to get rid of moths in the UK, this guide offers London-specific advice from a [moth exterminator London](https://pest.co.uk/moths/moth-control-london/) at ThermoPest. Whether you’re battling an infestation or aiming to prevent one, here’s how to tackle moths effectively in the capital.
 

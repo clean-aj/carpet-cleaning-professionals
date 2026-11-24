@@ -3,6 +3,8 @@ title: "Bring Your Carpet Back to Life"
 metaTitle: "Benefits to Having My Carpets Cleaned in Portsmouth"
 description: "Revitalize your Portsmouth home with professional carpet cleaning. Enhance room aesthetics, increase property value, and enjoy a fresher living space."
 date: 2023-11-21
+image: "/images/photos/hallway-carpet-cleaning-before-and-after-landscape.jpg"
+imageAlt: "Hallway carpet half cleaned by Carpet Cleaning Professionals, showing a clear line between the bright cleaned cream carpet and the grey, dirty uncleaned section"
 ---
 As someone with a carpet in your property in Portsmouth, you might grow tired of DIY cleaning. Carpet cleaning is a pretty major undertaking, requiring a good blend of elbow grease and the right tools and techniques. For anyone who cannot invest the time needed for proper **carpet cleaning in Portsmouth**, this does not mean you have to let your carpets fall into disrepair.
 

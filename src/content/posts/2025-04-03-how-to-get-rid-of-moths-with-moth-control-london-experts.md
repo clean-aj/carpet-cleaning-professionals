@@ -3,6 +3,8 @@ title: "How to Get Rid of Moths with Moth Control London Experts"
 metaTitle: "How to Get Rid of Moths with Moth Control London Experts | Carpet Cleaning Pros"
 description: "Moths might seem like harmless little creatures fluttering around your home, but in London, they can quickly become a serious nuisance. From case-bearing"
 date: 2025-04-03
+image: "/images/blog/how-to-get-rid-of-carpet-moths-quickly.jpg"
+imageAlt: "Orange-brown moth on a blue wool carpet"
 ---
 Moths might seem like harmless little creatures fluttering around your home, but in London, they can quickly become a serious nuisance. From case-bearing moths lurking in your wardrobe to carpet moths chewing through your prized rugs, these pests can cause significant damage if left unchecked. Fortunately, with the right approach and expert help, you can reclaim your home. In this guide, we’ll explore how to get rid of moths effectively, with insights from [moth control London](https://pest.co.uk/moths/moth-control-london/) specialists at ThermoPest. Whether you’re dealing with an infestation or want to prevent one, read on to discover practical tips and why professional treatment might be your best bet.
 

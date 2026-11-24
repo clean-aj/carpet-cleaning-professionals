@@ -5,7 +5,7 @@ layout: base.njk
 <section class="section">
   <article class="container prose">
     {%- if image %}<img class="hero-image" src="{{ image }}" alt="{{ imageAlt or title }}" loading="eager" fetchpriority="high">{% endif %}
-    {{ content | safe }}
+    {{ content | withCtas(site.phone) | safe }}
     <p class="back"><a href="/blog/">← Back to all articles</a></p>
   </article>
 </section>

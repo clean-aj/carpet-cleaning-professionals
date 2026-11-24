@@ -3,6 +3,8 @@ title: "How Often Should You Invest in Carpet Cleaning in Ealing?"
 metaTitle: "How Often Should You Invest in Carpet Cleaning in Ealing"
 description: "Wondering how often you should have your carpet cleaned? Here are some useful guidelines so that you can make sure your carpet looks as good as new for longer."
 date: 2023-07-19
+image: "/images/photos/stair-carpet-cleaning-before-and-after.jpg"
+imageAlt: "Before and after stair carpet cleaning by Carpet Cleaning Professionals: grey stair carpet stained and dirty on the left, clean and bright on the right"
 ---
 ![How Often Should You Invest In Carpet Cleaning in Ealing](/images/blog/how-often-should-you-invest-in-carpet-cleaning-in-ealing.jpg)
 

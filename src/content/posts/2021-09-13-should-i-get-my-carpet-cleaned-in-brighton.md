@@ -3,6 +3,8 @@ title: "Are You Planning on Keeping the Carpet?"
 metaTitle: "Should I Get My Carpet Cleaned in Brighton?"
 description: "As someone who owns property in Brighton, where it is for residential living or commercial use, you will know the importance of cleanliness. This comes into"
 date: 2021-09-13
+image: "/images/photos/home-cinema-room-carpet-cleaning-after.jpg"
+imageAlt: "Freshly cleaned beige carpet in a home cinema room, showing even cleaning lines across the floor beside a cream leather corner sofa, after a clean by Carpet Cleaning Professionals"
 ---
 As someone who owns property in Brighton, where it is for residential living or commercial use, you will know the importance of cleanliness. This comes into every aspect of our property, from the condition of the walls to the cleanliness of surfaces. However, few parts of a property stand out more than a carpet. A clean, opulent carpet can make a room feel far more grandiose and impressive. By contrast, a dirty carpet in Brighton can make your property look dour and dull. Should, you, then, get your [carpet cleaned in Brighton](/carpet-cleaning-brighton/)?
 

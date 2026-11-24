@@ -3,6 +3,8 @@ title: "What Makes up the Cost of Carpet Cleaning?"
 metaTitle: "How Much Does Professional Carpet Cleaning Cost? | Carpet Cleaning Pros"
 description: "When you want to get your carpet cleaned, it can be easy to think a quick DIY hoover is enough. However, even the best carpets can be havens for dust, dirt,"
 date: 2021-10-26
+image: "/images/team/carpet-cleaning-technician-with-equipment-and-van.jpg"
+imageAlt: "Carpet Cleaning Professionals technician holding a carpet cleaning wand in front of a white van with its rear doors open, showing extraction machines, hoses and an air mover inside"
 ---
 When you want to get your carpet cleaned, it can be easy to think a quick DIY hoover is enough. However, even the best carpets can be havens for dust, dirt, and lots of other mess than get everywhere. If you want to avoid that problem from becoming a headache for you down the line, then you might want to think about hiring a [**professional carpet cleaning**](/services/) service instead. However, that can cost you money – how much money, though?
 

@@ -3,6 +3,8 @@ title: "How to Clean Office Carpet Tiles"
 metaTitle: "Office Carpet Tiles Cleaning: A Comprehensive Guide"
 description: "Cleaning those office carpet tiles can be more confusing than it might first seem. Use this quick method to make sure you can tidy up those tiles for greater longevity."
 date: 2023-07-07
+image: "/images/photos/commercial-office-carpet-cleaning-grey-carpet.jpg"
+imageAlt: "Commercial carpet cleaning wand leaving a clean stripe across a grey office carpet, operated by a cleaner in blue overalls"
 ---
 ![How to clean office carpet tiles](/images/blog/how-to-clean-office-carpet-tiles.jpg)
 

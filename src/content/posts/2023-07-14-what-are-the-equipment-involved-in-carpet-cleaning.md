@@ -3,6 +3,8 @@ title: "What Are the Equipment Involved in Carpet Cleaning?"
 metaTitle: "What Are the Equipment Involved in Carpet Cleaning"
 description: "Carpet cleaning often involves the use of various different cleaning tools to get the job done. What are the most effective pieces of equipment that we use in our work? Find out here."
 date: 2023-07-14
+image: "/images/photos/hot-water-extraction-white-shaggy-carpet.jpg"
+imageAlt: "Hot water extraction wand cleaning a white shaggy carpet, leaving a clean stripe, with a yellow carpet cleaning machine in the background"
 ---
 ![What Are The Equipment Involved In Carpet Cleaning](/images/blog/what-are-the-equipment-involved-in-carpet-cleaning.jpg)
 

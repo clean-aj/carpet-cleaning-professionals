@@ -3,6 +3,8 @@ title: "Instagram Cleaning Tips to Avoid"
 metaTitle: "Instagram Cleaning Tips to Avoid | Carpet Cleaning Pros"
 description: "Go on social media, and it is very easy to find experts on just about anything offering you \u2018hacks\u2019 and \u2018DIY super tips\u2019 that can apparently avoid needing"
 date: 2022-05-31
+image: "/images/photos/steam-cleaning-stains-beige-fabric-sofa.jpg"
+imageAlt: "Steam cleaning tool treating brown stains on a beige fabric sofa cushion"
 ---
 Go on social media, and it is very easy to find experts on just about anything offering you ‘hacks’ and ‘DIY super tips’ that can apparently avoid needing [professional services](/contact/). And while many of these at home cleaning tips can work in your favour, many are useless. If you want to avoid carrying out a ‘pro tip’ that is anything but, you should focus on putting the following myths to bed.
 

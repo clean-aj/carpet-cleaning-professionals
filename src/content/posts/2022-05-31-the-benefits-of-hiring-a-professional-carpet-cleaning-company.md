@@ -3,6 +3,8 @@ title: "The Benefits of Hiring a Professional Carpet Cleaning Company"
 metaTitle: "The Benefits of Hiring a Professional Carpet Cleaning Company | Carpet Cleaning Pros"
 description: "If you have a carpet at home, you might be happy with how it looks. However, get closer to the ground, and it is easy to start noticing problems. Stains that"
 date: 2022-05-31
+image: "/images/team/carpet-cleaning-professionals-team-with-van-fleet.jpg"
+imageAlt: "The Carpet Cleaning Professionals team of six technicians in branded black uniforms standing in front of four white Peugeot vans in a tree-lined car park"
 ---
 ![carpet cleaning professionals](/images/blog/carpet-logo-final.png)
 

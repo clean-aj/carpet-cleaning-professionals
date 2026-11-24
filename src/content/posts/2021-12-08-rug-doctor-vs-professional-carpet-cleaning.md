@@ -3,6 +3,8 @@ title: "Rug Doctor Carpet Cleaning"
 metaTitle: "Rug Doctor Carpet Cleaner Rental vs. Professional Carpet Cleaning"
 description: "Got a rug or carpet you want to clean at home? Then you might be thinking about Rug Doctor carpet cleaner rental. However, you might also think about avoiding"
 date: 2021-12-08
+image: "/images/photos/carpet-cleaning-wand-clean-stripe-beige-carpet.jpg"
+imageAlt: "Carpet cleaning wand leaving a visibly cleaner stripe on a beige carpet, operated by a technician in grey trousers and safety boots"
 ---
 Got a rug or carpet you want to clean at home? Then you might be thinking about **Rug Doctor carpet cleaner rental**. However, you might also think about avoiding the DIY option and just hiring **professional carpet cleaning** services. Need a hand deciding? Then here are some important things to think about regarding your choice of **Rug Doctor carpet cleaning versus professional carpet cleaning**.
 

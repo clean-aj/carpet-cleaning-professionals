@@ -1,9 +1,12 @@
 <header class="site-header">
   <div class="container header-inner">
     <a class="logo" href="/">
-      {%- if site.logo %}<img src="{{ site.logo }}" alt="{{ site.name }} logo" height="44" eleventy:ignore>{% else %}<span class="logo-mark" aria-hidden="true">✦</span> {{ site.name }}{% endif -%}
+      {%- if site.logo %}<img src="{{ site.logo }}" alt="{{ site.name }} logo" width="340" height="44" eleventy:ignore>{% else %}<span class="logo-mark" aria-hidden="true">✦</span> {{ site.name }}{% endif -%}
     </a>
-    <nav aria-label="Main">
+    <button class="menu-toggle" type="button" aria-controls="site-nav" aria-expanded="false">
+      <span class="menu-icon" aria-hidden="true"></span><span class="menu-label">Menu</span>
+    </button>
+    <nav id="site-nav" aria-label="Main">
       <ul class="nav">
         {%- for item in site.nav %}
         <li><a href="{{ item.url }}"{% if item.url | isCurrent(page.url, pageType) %} aria-current="page"{% endif %}>{{ item.label }}</a></li>
@@ -14,4 +17,14 @@
     <a class="btn btn-small header-phone" href="{{ site.phone | telLink }}">Call {{ site.phone }}</a>
     {%- endif %}
   </div>
+  <script>
+    document.documentElement.classList.add("js");
+    (() => {
+      const btn = document.querySelector(".menu-toggle"), nav = document.getElementById("site-nav");
+      btn.addEventListener("click", () => {
+        const open = nav.classList.toggle("open");
+        btn.setAttribute("aria-expanded", open);
+      });
+    })();
+  </script>
 </header>
