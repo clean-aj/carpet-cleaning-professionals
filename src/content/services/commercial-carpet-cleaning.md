@@ -1,6 +1,6 @@
 ---
 title: Commercial Carpet Cleaning
-metaTitle: Commercial & Office Carpet Cleaning | Carpet Cleaning Professionals
+metaTitle: "Commercial Carpet Cleaning | Carpet Cleaning Professionals"
 description: Commercial carpet cleaning for offices, shops, schools and hospitality. Flexible scheduling to keep disruption to your business to a minimum.
 summary: Office, retail and hospitality carpet cleaning at times that suit your business.
 intro: Clean, professional-looking floors with minimal disruption to your business.

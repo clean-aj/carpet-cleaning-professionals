@@ -1,7 +1,7 @@
 ---
 title: "Signs of a Carpet Moth Infestation"
 metaTitle: "Identifying and Dealing with Carpet Moth Infestations"
-description: "Worried your carpet is becoming food for moths? Then look out for these common signs of damage. If you spot these issues, take action ASAP by contacting us today!"
+description: "Worried your carpet is becoming food for moths? Then look out for these common signs of damage. If you spot these issues, take action ASAP by contacting us…"
 date: 2023-07-13
 image: "/images/blog/signs-of-a-carpet-moth-infestation.jpg"
 imageAlt: "Carpet beetle on a cream shaggy carpet"
@@ -14,10 +14,10 @@ If you notice these signs, it might be safe to say that you will need some form 
 
 ### The Common Signs That You Need a Carpet Moth Treatment
 
-###### Patchy Holes in Your Carpet and Rugs
+#### Patchy Holes in Your Carpet and Rugs
 If you notice little dead spots in your carpet and rug where they look worn down, this is a solid sign that you are dealing with a moth problem. Carpet moths themselves are not the problem; it is their larvae that feast on the fibres of our carpets. As such, if you start to notice little holes and a mess around the place, you should think about patching up those holes as soon as you can.
 
-###### The Signs of Larvae
+##### The Signs of Larvae
 More disturbingly, you might start to notice that you are seeing actual larvae in the carpet itself. These often look like small cocoon-like objects, and they will be quite easy to spot if you look hard enough. You need to be proactive if you see these; get rid of them as soon as possible. This can be done using a vacuum cleaner and then a spray of some anti-moth treatment that you can buy online.
 
 ###### Moths Appearing on Your Carpet

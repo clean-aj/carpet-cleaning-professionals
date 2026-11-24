@@ -9,7 +9,7 @@ metaTitle: "Carpet Cleaning Croydon | Carpet & Upholstery Cleaners"
 description: "Carpet, rug & upholstery cleaning in Croydon, Purley, Addiscombe & Thornton Heath. Pet-safe & open 7 days. Call 0808 196 8603 for a free quote."
 intro: "Fresher carpets, cleaner sofas and healthier rooms for your Croydon home or business, booked around your week."
 image: "/images/locations/carpet-cleaning-croydon-greater-london.jpg"
-imageAlt: "Illustration of a hot water extraction carpet cleaning machine cleaning a oatmeal living room carpet beside a blue sofa, with a window looking out over a city skyline, captioned \"Carpet Cleaning in Croydon, Greater London\" by Carpet Cleaning Professionals"
+imageAlt: "Illustration of a carpet cleaning machine cleaning a oatmeal living room carpet beside a blue sofa, captioned \"Carpet Cleaning in Croydon, Greater London\""
 faqs:
   - question: "Do you cover Purley, Addiscombe and Thornton Heath?"
     answer: "Yes. We clean homes and businesses across the Croydon area, including Purley, South Croydon, Addiscombe, Thornton Heath, Norbury, Selsdon and Sanderstead."

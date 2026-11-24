@@ -14,10 +14,10 @@ With that in mind, you might wish to consider investing in some [**commercial ca
 
 ### The Benefits of Commercial Carpet Cleaning Contracts
 
-###### Let Your Cleaning Staff Get on with the Job
+#### Let Your Cleaning Staff Get on with the Job
 The first benefit of having the pros do the cleaning for you is that your staff can simply get back to doing what they do best. Instead of having to tidy up the place and try to give your carpets a professional clean, your cleaning staff can focus on other areas that need day-to-day attention. This saves your staff valuable time and energy.
 
-###### Keep That Same Carpet in Place for Longer
+##### Keep That Same Carpet in Place for Longer
 The last thing that you want to do is have to invest in a new carpet every few years. It is a big expense, after all. By hiring a carpet cleaning service, though, they handle the cleaning to a high standard. This means that the carpet is far less likely to look worn out and damaged. As such, it can be a great investment for longevity moving forward.
 
 ###### Get Rid of Those Annoying Stains

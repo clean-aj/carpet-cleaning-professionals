@@ -1,7 +1,7 @@
 ---
 title: "What Is the Best Way to Clean Sofa Cushions?"
 metaTitle: "What Is the Best Way to Clean Sofa Cushions"
-description: "Sofa cushions need to be given more time and attention than you might first assume. Use this quick and simple method to simplify cleaning sofa cushions moving forward"
+description: "Sofa cushions need to be given more time and attention than you might first assume. Use this quick and simple method to simplify cleaning sofa cushions…"
 date: 2023-07-17
 image: "/images/blog/what-is-the-best-way-to-clean-sofa-cushions.jpg"
 imageAlt: "Blue fabric sofa with yellow cushions in a bright living room"

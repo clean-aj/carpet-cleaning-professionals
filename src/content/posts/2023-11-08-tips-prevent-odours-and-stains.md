@@ -10,7 +10,7 @@ If you have a carpet at home, then you will know how important it is to properly
 
 These tips come from professionals with vast experience in carpet cleaning. Now, you can use these to make sure your carpet is not only clean, but capable of handling drops and spills without the carpet losing its lustre.
 
-### Do Not Rub Your Stains or Spills
+## Do Not Rub Your Stains or Spills
 
 When something has been dropped on your carpet, it makes sense that you want to get rid of it ASAP. However, avoid rubbing the stain – instead, blot it. Rubbing has the opposite effect of actually spreading the damage and thus making the stain harder to remove in the first place!
 

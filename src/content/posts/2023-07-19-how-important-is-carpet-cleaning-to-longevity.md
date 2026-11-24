@@ -1,7 +1,7 @@
 ---
 title: "How Important Is Carpet Cleaning to Longevity?"
 metaTitle: "How Important Is Carpet Cleaning to Longevity"
-description: "If you have a carpet at your London home, you might wonder how important it is to clean your carpet and stay on top of it. What are the benefits to longevity if you keep it clean?"
+description: "If you have a carpet at your London home, you might wonder how important it is to clean your carpet and stay on top of it."
 date: 2023-07-19
 image: "/images/blog/how-important-is-carpet-cleaning-to-longevity.jpg"
 imageAlt: "Upright vacuum cleaner on a cream deep pile carpet in sunlight"

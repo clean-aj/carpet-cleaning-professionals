@@ -6,7 +6,6 @@ date: 2025-03-26
 image: "/images/blog/how-long-should-a-carpet-cleaner-take.jpg"
 imageAlt: "Extraction wand cleaning a cream shaggy rug"
 ---
-##### Table of Contents
 
 ## Find Out How Long Your Carpet Cleaner Service Should Take to Finish
 

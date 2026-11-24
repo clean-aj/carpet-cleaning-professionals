@@ -74,6 +74,12 @@ export default function (eleventyConfig) {
     locations.filter((l) => l.data.region === region && l.url !== exceptUrl).sort(featuredFirst)
   );
   eleventyConfig.addFilter("featured", (locations = []) => locations.filter((l) => l.data.featured));
+  eleventyConfig.addFilter("seoTitle", (metaTitle, title, siteName) => {
+    const suffix = /\s*[|–-]\s*Carpet Cleaning (Pros|Professionals)( Blog)?\s*$/i;
+    let t = metaTitle || (title ? `${title} | ${siteName}` : siteName);
+    if (t.length > 65) t = t.replace(suffix, "");
+    return t;
+  });
   eleventyConfig.addFilter("head", (arr = [], n) => arr.slice(0, n));
   eleventyConfig.addFilter("isoDate", (d) => new Date(d).toISOString().slice(0, 10));
   eleventyConfig.addFilter("readableDate", (d) =>

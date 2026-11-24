@@ -1,7 +1,7 @@
 ---
 title: "Why You Should Professional Clean Your Upholstery Instead of Replacing"
 metaTitle: "Optimal Techniques for Commercial Carpet Care"
-description: "Furniture replacements can seem easier than cleaning what you already own, but the benefits of cleaning over replacement are various. Take a look at some of the reasons here"
+description: "Furniture replacements can seem easier than cleaning what you already own, but the benefits of cleaning over replacement are various."
 date: 2023-07-19
 image: "/images/blog/why-you-should-professional-clean-your-upholstery-instead-of-replacing.png"
 imageAlt: "Woman in yellow gloves cleaning a grey fabric sofa, with a wet vacuum cleaner beside her"
@@ -14,10 +14,10 @@ This is a common choice, but there are many reasons why hiring a professional to
 
 ### Why Hiring a Cleaning Specialist Beats Replacing Your Upholstery Outright
 
-###### Save Lots of Money
+#### Save Lots of Money
 Even if you hire the most expensive upholstery cleaning service in the world, they will not cost more than buying new upholstery. Upholstery will cost you lots of money. Compared to what you would shell out for an upholstery cleaning service, you will find that you can save yourself a lot of money simply by relying on the expertise that a cleaning service provides.
 
-###### Avoid the Replacement Cycle
+##### Avoid the Replacement Cycle
 If you get into the habit of throwing out upholstery as soon as it looks tatty and dirty, you are contributing to the cycle of cut-and-thrust replacements. You will often find that a clean can make your upholstery look as good as new once again. If you keep buying new upholstery every time the old stuff looks done, you will spend a lot more than you need to on furniture.
 
 ###### Benefit the Environment

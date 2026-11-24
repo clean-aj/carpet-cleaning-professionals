@@ -1,7 +1,7 @@
 ---
 title: "What Is the Best Office Cleaning Service Company in London?"
 metaTitle: "What Is the Best Office Cleaning Service Company in London"
-description: "With so many companies offering carpet cleaning in London, we understand you feel spoiled for choice. Who, though, can you rely upon to get the job done to the highest standard"
+description: "With so many companies offering carpet cleaning in London, we understand you feel spoiled for choice."
 date: 2023-07-17
 image: "/images/blog/what-is-the-best-office-cleaning-service-company-in-london.jpg"
 imageAlt: "Team of cleaners in uniforms standing with their cleaning equipment in an office"

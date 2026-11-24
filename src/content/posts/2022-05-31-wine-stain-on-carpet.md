@@ -1,7 +1,7 @@
 ---
 title: "How to Deal with a Wine Stain on Carpets"
 metaTitle: "How to Deal with a Wine Stain on Carpets | Carpet Cleaning Pros"
-description: "\u00a0"
+description: "Spilled red wine on your carpet? Follow these simple tips to limit the damage, lift the stain and know when to call in a professional carpet cleaner."
 date: 2022-05-31
 image: "/images/blog/red-wine-spilled-on-cream-carpet.jpg"
 imageAlt: "Glass of red wine spilled on a cream carpet"

@@ -1,7 +1,7 @@
 ---
 title: "What Is the Best Way to Get Rid of Carpet Moths?"
 metaTitle: "What Is the Best Way to Get Rid of Carpet Moths"
-description: "Carpet moths can represent a serious issue to your carpets wellbeing. What is the best way to get rid of a carpet moth? Outside of phoning the pros, try this method out!"
+description: "Carpet moths can represent a serious issue to your carpets wellbeing. What is the best way to get rid of a carpet moth? Outside of phoning the pros, try…"
 date: 2023-07-18
 image: "/images/blog/what-is-the-best-way-to-get-rid-of-carpet-moths.jpg"
 imageAlt: "Bed bug on a pink knitted fabric"

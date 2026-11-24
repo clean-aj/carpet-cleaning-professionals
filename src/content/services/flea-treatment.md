@@ -1,7 +1,7 @@
 ---
 title: Flea Treatment
-metaTitle: Flea Treatment for Homes & Businesses | Carpet Cleaning Professionals
-description: "Professional flea treatment for homes, rentals and businesses. Treats every area your pets use, with a 30-day revisit guarantee. Call 0808 196 8603 for a free quote."
+metaTitle: "Flea Treatment | Carpet Cleaning Professionals"
+description: "Professional flea treatment for homes, rentals and businesses. Treats every area your pets use, with a 30-day revisit guarantee."
 summary: Thorough flea treatment for your home or business, with a 30-day revisit guarantee at no extra cost.
 intro: Get your home back from fleas, with a thorough treatment and a 30-day revisit guarantee at no extra cost.
 order: 8

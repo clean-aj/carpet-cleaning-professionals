@@ -16,10 +16,10 @@ Let’s evaluate what hot water extraction provides and why it has become the go
 
 ### What Are the Main Benefits of Using Hot Water Extraction Cleaning?
 
-###### Freshen the Carpet Completely
+#### Freshen the Carpet Completely
 While other carpet cleaning methods might do a good job, hot water extraction does an amazing job. Since it gets so deep into the carpet, it freshens up the carpet from top to bottom. Most DIY carpet cleaning only really impacts the top layer. With the help of hot water extraction, though, you make sure that you get right down to the deepest parts of the carpet fibres. That ensures they look – and smell – fantastic!
 
-###### Get Rid of Major Staining
+##### Get Rid of Major Staining
 A common problem with carpets is that they tend to look dirty and stained in particular areas. This can come from an actual stain or simply being a more high-traffic part of the carpet. Either way, hot water extraction helps to resolve this issue because it gets so deep into the carpet. This ensures that those major stains you want to avoid being seen are removed.
 
 Why? Because the stain is more or less completely eradicated. The deepness of cleaning ensures that the results are so thorough. This ensures that the carpet looks fresher and creates a consistent colour scheme all the way through the carpet.

@@ -1,7 +1,7 @@
 ---
 title: "Who Do I Hire for Steam Carpet Cleaning in London?"
 metaTitle: "Who Do I Hire for Steam Carpet Cleaning in London"
-description: "Using steam cleaning on carpets can result in some excellent results, but who should you hire for the job? What professionals can you trust to carry out this task correctly?"
+description: "Using steam cleaning on carpets can result in some excellent results, but who should you hire for the job? What professionals can you trust to carry out…"
 date: 2023-07-19
 image: "/images/blog/who-do-i-hire-for-steam-carpet-cleaning-in-london.jpg"
 imageAlt: "Steam mop cleaning a beige carpet"

@@ -16,7 +16,7 @@ From looking matted and dirty to losing some of that original colour, a carpet c
 
 The results can be pretty easy to see, and it can help to add many years on to that carpet.
 
-### Get Rid of ‘Permanent’ Damage
+## Get Rid of ‘Permanent’ Damage
 
 When using DIY cleaning tools for carpet management, you can often find that some issues just will not budge. And while some stains and damage *will* be permanent, many ‘permanent’ stains will be lifted with the right product. That is why professional carpet cleaning in Portsmouth is such a highly recommended investment. Those ‘permanent’ stains you have spent plenty of pounds to try and self-remove can soon lift with the right approach to cleaning overall.
 

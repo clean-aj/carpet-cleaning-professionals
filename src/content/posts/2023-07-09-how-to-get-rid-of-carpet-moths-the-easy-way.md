@@ -1,7 +1,7 @@
 ---
 title: "How to Get Rid of Carpet Moths the Easy Way"
 metaTitle: "Effortless Techniques for Eliminating Carpet Moths"
-description: "Sick of struggling with carpet-eating moths? Then use this simple method to try and get rid of these pests. The sooner you act, the less damage they can do to your carpet!"
+description: "Sick of struggling with carpet-eating moths? Then use this simple method to try and get rid of these pests."
 date: 2023-07-09
 image: "/images/blog/how-to-get-rid-of-carpet-moths.webp"
 imageAlt: "Close-up of carpet moth larvae in their silk cases among carpet fibres"

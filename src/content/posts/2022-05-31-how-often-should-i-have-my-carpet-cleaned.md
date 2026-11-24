@@ -10,7 +10,7 @@ If you have a carpet at home or in the office, it is easy to forget about cleani
 
 There is often conflicting answers on this particular topic. Look in one place, and you might find one particular timeframe. Check another competing place, though, and you could find an alternative view. As carpet cleaning experts, though, we have a recommendation that you should try and stick to.
 
-### How Often Should I Have My Carpet Cleaned? at Least Once per Year
+## How Often Should I Have My Carpet Cleaned? at Least Once per Year
 
 If you have a carpet, then, you should be looking to get it properly cleaned at least once per year. You should always look to give them regular brushes and hoovers, particularly at least once per week – at the very least, once per month.
 

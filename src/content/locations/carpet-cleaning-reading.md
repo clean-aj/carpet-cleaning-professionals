@@ -9,7 +9,7 @@ metaTitle: "Carpet Cleaning Reading | Carpet & Upholstery Cleaners"
 description: "Carpet, rug & upholstery cleaning in Reading, Caversham, Tilehurst & Earley. Fast drying, pet-safe & open 7 days. Call 0808 196 8603 for a free quote."
 intro: "Fresher carpets, cleaner sofas and healthier rooms for your Reading home or business, booked around your week."
 image: "/images/locations/carpet-cleaning-reading-berkshire.jpg"
-imageAlt: "Illustration of a hot water extraction carpet cleaning machine cleaning a sage green living room carpet beside a blue sofa, with a window looking out over green hills, captioned \"Carpet Cleaning in Reading, Berkshire\" by Carpet Cleaning Professionals"
+imageAlt: "Illustration of a carpet cleaning machine cleaning a sage green living room carpet beside a blue sofa, captioned \"Carpet Cleaning in Reading, Berkshire\""
 faqs:
   - question: "Do you cover Caversham, Tilehurst and Earley?"
     answer: "Yes. We clean homes and businesses across Reading and the surrounding area, including Caversham, Tilehurst, Earley, Woodley, Calcot and Emmer Green."

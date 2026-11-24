@@ -1,7 +1,7 @@
 ---
 title: "How to Clean a Leather Sofa Without Chemicals?"
 metaTitle: "How to Clean a Leather Sofa Without Chemicals"
-description: "Struggling to keep your leather sofa looking stylish? Use this chemical-free cleaning solution before you do anything else. Need a hand? Let our experts assist you!"
+description: "Struggling to keep your leather sofa looking stylish? Use this chemical-free cleaning solution before you do anything else."
 date: 2023-07-06
 image: "/images/blog/how-to-clean-a-leather-sofa-without-chemicals.jpg"
 imageAlt: "Man cleaning a black leather sofa"

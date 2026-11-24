@@ -1,7 +1,7 @@
 ---
 title: "What Are Some of the Best UK Carpet Cleaning Companies?"
 metaTitle: "What Are Some of the Best UK Carpet Cleaning Companies"
-description: "When you are looking for the best carpet cleaning companies in the UK, we believe we offer you the best value for money at the CCP. Why should you hire us, though?"
+description: "When you are looking for the best carpet cleaning companies in the UK, we believe we offer you the best value for money at the CCP."
 date: 2023-07-13
 image: "/images/blog/what-are-some-of-the-best-uk-carpet-cleaning-companies.webp"
 imageAlt: "Extraction wand cleaning a white shaggy carpet, with a yellow carpet cleaning machine behind"
@@ -18,10 +18,10 @@ When you have carpets at home, keeping on top of them can feel like a never-endi
 
 With decades of expertise in our staff and a passion for the job we do, you can trust that we can deliver elite-level carpet cleaning for your property in the UK. Why, though, should you rely upon us? What do we bring to the table that makes our service one that you can rely upon to get your carpets looking great once again?
 
-###### We Are Honest
+#### We Are Honest
 On top of our experience, we always make sure you get an honest appraisal when you hire us. If you are looking for a London carpet cleaning company that is honest about the state of your carpet and the benefits of cleaning it, speak to us today: we never hide you from the truth.
 
-###### We Are Skilled
+##### We Are Skilled
 Our staff are experienced carpet cleaning professionals who have gone through extensive training. This allows us to make sure that we always arrive with a full understanding of what is needed to deliver the very best carpet cleaning solutions for you at a price that feels like good value for money time and time again. 
 
 ###### We Are Punctual

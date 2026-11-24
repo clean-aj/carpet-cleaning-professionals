@@ -1,7 +1,7 @@
 ---
 title: "Why Is My Carpet Giving off Awful Smells After Cleaning?"
 metaTitle: "Why Is My Carpet Giving off Awful Smells After Cleaning"
-description: "Once you clean your carpet, you would hope that all smells would go with it. Sadly, that is not the case. Why, though? Why is your carpet still smelling after cleaning? Find out here."
+description: "Once you clean your carpet, you would hope that all smells would go with it. Sadly, that is not the case."
 date: 2023-07-18
 image: "/images/blog/why-is-my-carpet-giving-off-awful-smells-after-cleaning.jpg"
 imageAlt: "Woman in a yellow headscarf holding her nose at a bad smell"
@@ -14,12 +14,12 @@ It can be naturally quite annoying to go through the effort of a [**carpet clean
 
 ### Why Does a Carpet Smell After Cleaning?
 
-###### The Backing Is Wet
+#### The Backing Is Wet
 Almost any carpet will have some kind of backing that is used to help level out the carpet and add an extra sponge to the underneath. This makes the carpet comfier to walk on. Yet, when a carpet is cleaned, it is common for the backing to end up soaked. If that happens, it must be dried properly. 
 
 If you have not dried out the backing, then you are probably looking at the main reason for your carpet smelling so sour. The main thing to do is to turn on things like the heating and to also open the windows. Warm, dry air is going to be the most effective choice for getting that backing to dry up as it should.
 
-###### Presence of Mildew
+##### Presence of Mildew
 If the wetness is severe enough that it has impacted the backing of the carpet, you might be in for a pretty expensive repair job unfortunately. This happens when the backing gets extremely wet and is not given enough time to dry. Sadly, if you have been dealing with this sour smell for a few days or weeks then mildew has likely already set in. This probably requires the backing to be replaced.
 
 Before you do that, though, shampoo the carpet with a water and white vinegar mixture. This should produce some pretty meaningful results in getting rid of most mildew – though for severe cases it might not be enough.

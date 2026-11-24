@@ -9,7 +9,7 @@ metaTitle: "Carpet Cleaning London | Carpet, Rug & Sofa Cleaners"
 description: "Carpet, rug & upholstery cleaning across London's boroughs, from Camden to Croydon. Open 7 days, 8am\u20138pm. Call 0808 196 8603 for a free, fixed quote."
 intro: "Fresher carpets, cleaner sofas and healthier rooms for your London home or business, booked around your busy week."
 image: "/images/locations/carpet-cleaning-london.jpg"
-imageAlt: "Illustration of a hot water extraction carpet cleaning machine cleaning a sage green living room carpet beside a navy sofa, with a window looking out over a city skyline, captioned \"Carpet Cleaning in London\" by Carpet Cleaning Professionals"
+imageAlt: "Illustration of a carpet cleaning machine cleaning a sage green living room carpet beside a navy sofa, captioned \"Carpet Cleaning in London\""
 faqs:
   - question: "Do you cover my London borough?"
     answer: "We cover homes and businesses right across London, from Barnet and Enfield in the north to Croydon and Sutton in the south, and from Hillingdon in the west to Havering in the east. See the full list of London areas below, or call us to check your postcode."

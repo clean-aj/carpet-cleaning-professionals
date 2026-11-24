@@ -1,6 +1,6 @@
 ---
 title: "What Is the Best Method for Commercial Carpet Cleaning"
-description: "Many methods are used for commercial carpet cleaning, but what is the most effective option on the market today? Find out what we use for commercial carpet care here."
+description: "Many methods are used for commercial carpet cleaning, but what is the most effective option on the market today? Find out what we use for commercial carpet…"
 date: 2023-07-17
 image: "/images/blog/what-is-the-best-method-for-commercial-carpet-cleaning.jpg"
 imageAlt: "Rotary floor cleaning machine cleaning a grey office carpet"

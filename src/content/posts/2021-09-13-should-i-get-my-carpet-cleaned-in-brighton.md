@@ -12,7 +12,7 @@ If you are not intending to change the look of the room, then you should look to
 
 If you intend to remove the carpet then cleaning becomes less of an imperative issue, of course. However, if you do intend to keep the carpet then cleaning is very important. If you are considering replacing the carpet due to condition, though, having the carpet cleaned first can revive its lustre, removing the need to replace the carpet.
 
-### Does the Carpet Look Dirty?
+## Does the Carpet Look Dirty?
 
 The common misconception is that you should only clean a carpet when visible signs of dirtiness show through. From clear dirt build-up to visible stains and the like, there are obvious signs to look out for in terms of carpet cleanliness.
 

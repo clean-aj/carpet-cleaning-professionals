@@ -7,7 +7,7 @@ metaTitle: "Carpet Cleaning Fulham | Carpet & Upholstery Cleaners"
 description: "Professional carpet, rug & upholstery cleaning in Fulham, Greater London. Fast drying, pet-safe & open 7 days, 8am–8pm. Call 0808 196 8603 for a free quote."
 intro: "Professional carpet, rug and upholstery cleaning in Fulham, Greater London. Open 7 days a week, 8am to 8pm."
 image: "/images/locations/carpet-cleaning-fulham-greater-london.jpg"
-imageAlt: "Illustration of a hot water extraction carpet cleaning machine cleaning a grey living room carpet beside a brown sofa, with a window looking out over a city skyline, captioned \"Carpet Cleaning in Fulham, Greater London\" by Carpet Cleaning Professionals"
+imageAlt: "Illustration of a carpet cleaning machine cleaning a grey living room carpet beside a brown sofa, captioned \"Carpet Cleaning in Fulham, Greater London\""
 faqs:
   - question: "How much will my carpet cleaning in Fulham cost?"
     answer: "Your price depends on the number of rooms, their size and the condition of your carpets. Call us or send an enquiry and you'll get a free, fixed quote with no hidden extras."

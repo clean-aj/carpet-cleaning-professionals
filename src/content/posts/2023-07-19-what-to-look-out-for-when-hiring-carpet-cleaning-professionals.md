@@ -1,7 +1,7 @@
 ---
 title: "What to Look Out for When Hiring Carpet Cleaning Professionals"
 metaTitle: "Key Factors in Choosing Carpet Cleaning Pros"
-description: "With so many carpet cleaning companies to pick from, it can be tough to pick the right help and support. To help you make the right choice, consider the following factors."
+description: "With so many carpet cleaning companies to pick from, it can be tough to pick the right help and support."
 date: 2023-07-19
 image: "/images/blog/what-to-look-out-for-when-hiring-carpet-cleaning-professionals.webp"
 imageAlt: "Cleaner in orange gloves using an extraction tool on a cream shaggy rug"
@@ -14,10 +14,10 @@ To help you work out what to look out for in **professional carpet cleaners**, w
 
 ### What Matters the Most for Hiring a Carpet Cleaner?
 
-###### Are They Experienced Enough?
+#### Are They Experienced Enough?
 Experience always matters when hiring any professional. For a carpet cleaner, though, it is essential. It would help if you saw that they have successfully cleaned other carpets in the past. Hiring someone without experience means taking a risk that they know what they are doing: if they make a mistake, it could become very expensive. Speaking of mistakes…
 
-###### Are They Insured?
+##### Are They Insured?
 Every carpet cleaning company that you look at hiring should have insurance. They should be able to provide proof that they are properly protected in the event of something going wrong. If you hire someone without insurance, you will likely run into problems getting a refund or a carpet replacement if they do not cover themselves with insurance policies.
 
 ###### Are They Professional?

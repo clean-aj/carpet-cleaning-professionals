@@ -1,7 +1,7 @@
 ---
 title: "How to Remove Food Stains from a Carpet?"
 metaTitle: "Guide to Removing Food Stains from Carpets Easily"
-description: "Spilled food on your carpet? Then it is essential that you take action right away to avoid the staining from getting worse. Use this method for some relief from staining!"
+description: "Spilled food on your carpet? Then it is essential that you take action right away to avoid the staining from getting worse."
 date: 2023-07-10
 image: "/images/blog/how-to-remove-food-stains-from-a-carpet.jpg"
 imageAlt: "Spilled coffee cup staining a cream carpet"

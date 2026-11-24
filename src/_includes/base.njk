@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  {%- set fullTitle = metaTitle or (title ~ " | " ~ site.name) %}
+  {%- set fullTitle = metaTitle | seoTitle(title, site.name) %}
   {%- set metaDescription = description or site.defaultDescription %}
   {%- set canonical = page.url | absoluteUrl %}
   <title>{{ fullTitle }}</title>

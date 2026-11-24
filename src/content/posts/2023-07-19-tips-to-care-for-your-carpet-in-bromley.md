@@ -1,7 +1,7 @@
 ---
 title: "Tips to Care for Your Carpet in Bromley"
 metaTitle: "Bromley's Best Carpet Care Tips and Tricks"
-description: "If you are having a hard time keeping a carpet in good condition, use these tips and tricks. This will keep your Bromley home looking and smelling as spectacular as it should!"
+description: "If you are having a hard time keeping a carpet in good condition, use these tips and tricks. This will keep your Bromley home looking and smelling as…"
 date: 2023-07-19
 image: "/images/blog/tips-to-care-for-your-carpet-in-bromley.jpg"
 imageAlt: "Person vacuuming a cream carpet with a cylinder vacuum cleaner"
@@ -14,14 +14,14 @@ This will make **carpet cleaning in Bromley** a far less arduous task than it mi
 
 ### Reliable Carpet Cleaning Tips for Bromley Homeowners
 
-###### Make a Cleaning Schedule
+#### Make a Cleaning Schedule
 The first thing you should do is make sure that you set a clear schedule for carpet cleaning. Life moves at such a pace that it can be easy to forget about cleaning your carpet: if you set a plan, though, you are far less likely to fail. It would help if you were aiming for at least a weekly vacuum clean and then a bi-weekly ‘deep’ clean. This should, if possible, include the use of a steam cleaner.
 
 **Give Your Carpet A Brush**
 
 Especially in the more high-traffic parts of your carpet, you are probably looking at the carpet looking flattened down. This can take the aesthetic of the carpet away, and you might decide it is better to take a brush to the most walked-on parts of the carpet. You can try and create a consistent pattern when brushing so that you know that your carpet will retain a specific look and pattern all the way through.
 
-###### Do Not Discard Stains
+##### Do Not Discard Stains
 If you drop something on your carpet, do not try and hide the stain or ignore it. The sooner you can counteract a stain, the easier it will be to lift up and remove the damage that has been done. Focus on doing this as soon as possible because a stain that is left to fester will become caked into the carpet fibres. On top of that, this can leave you with a lasting smell that is hard to ignore.
 
 ###### Baking Soda Is Your Friend

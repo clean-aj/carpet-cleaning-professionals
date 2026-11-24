@@ -1,7 +1,7 @@
 ---
 title: "How to Get a Professional for Sofa Cleaning Service?"
 metaTitle: "How to Get a Professional for Sofa Cleaning Service"
-description: "Wondering the best way to hire a professional sofa cleaner in London? Then use the following tips to make sure that the person you hire can do the job you expect."
+description: "Wondering the best way to hire a professional sofa cleaner in London? Then use the following tips to make sure that the person you hire can do the job you…"
 date: 2023-07-08
 image: "/images/blog/how-to-get-a-professional-for-sofa-cleaning-service.jpg"
 imageAlt: "Gloved hands cleaning a blue fabric sofa with an upholstery extraction tool"

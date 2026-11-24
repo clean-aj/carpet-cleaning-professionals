@@ -12,7 +12,7 @@ To make sure you can keep that leather sofa in good condition, here are some use
 
 For any leather sofa, the first thing to do is to get the good old vacuum cleaner out and get to work. Vacuuming your sofa is a start as it can make sure that you pick up debris and other mess that is building up. Be sure to lift the seating cushions out of the sofa itself so that you can get in all of the little nooks and crannies between each cushion.
 
-### Take Your Time When Vacuuming
+## Take Your Time When Vacuuming
 
 Many go for a quick once-over vacuum but we highly recommend you focus on a more methodical approach. A slower approach can make sure that you can get in each of the areas and crevices, and lift all of the damage that might have been done. You should focus especially on the seams, too, as these are often areas where dirt build-up can be at its most pronounced (if not visible).
 

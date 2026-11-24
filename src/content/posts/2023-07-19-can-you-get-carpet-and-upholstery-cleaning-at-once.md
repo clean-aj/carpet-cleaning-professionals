@@ -1,7 +1,7 @@
 ---
 title: "Can You Get Carpet and Upholstery Cleaning at Once?"
 metaTitle: "Can You Get Carpet and Upholstery Cleaning at Once"
-description: "If you are looking for a service that can clean your carpets and upholstery at once, you do have quite a few options out there to choose from. Find out why we are your best option."
+description: "If you are looking for a service that can clean your carpets and upholstery at once, you do have quite a few options out there to choose from."
 date: 2023-07-19
 image: "/images/blog/can-you-get-carpet-and-upholstery-cleaning-at-once.jpg"
 imageAlt: "Cleaner in pink gloves cleaning a beige tufted fabric sofa with an upholstery extraction tool"

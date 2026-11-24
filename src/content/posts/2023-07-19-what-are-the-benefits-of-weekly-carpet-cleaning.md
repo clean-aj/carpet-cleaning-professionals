@@ -1,7 +1,7 @@
 ---
 title: "What Are the Benefits of Weekly Carpet Cleaning?"
 metaTitle: "What Are the Benefits of Weekly Carpet Cleaning"
-description: "If you have a carpet at home, you should be giving it a weekly vacuum clean and a thorough clean on areas impacted by stains and the like. Why, though? What are the benefits?"
+description: "If you have a carpet at home, you should be giving it a weekly vacuum clean and a thorough clean on areas impacted by stains and the like."
 date: 2023-07-19
 image: "/images/blog/what-are-the-benefits-of-weekly-carpet-cleaning.webp"
 imageAlt: "Cleaner in pink gloves using an extraction tool on a dirty cream rug"
@@ -16,10 +16,10 @@ If you are looking for a way to get your carpets looking and feeling fantastic, 
 
 ### The Benefits of Weekly Carpet Cleaning
 
-###### Get Rid of Odours
+#### Get Rid of Odours
 Our carpets can be a breeding grand for smells which, to be polite, do not agree with our nostrils. Regular cleaning, though, can help to avoid these smells from building up. Especially if you have pets, a [weekly carpet cleaning](https://www.nationaltoolhireshops.co.uk/blog/post/3-health-benefits-to-carpet-cleaning/) session can be a good idea to make sure that you remove the chance for pet smells to accumulate within the carpet.
 
-###### Keep Your Carpet Looking Fresh
+##### Keep Your Carpet Looking Fresh
 A vacuum cleaning helps to get rid of that initial layer of debris that will undoubtedly be playing a role in making your carpet look unkempt and dirty. By going for a simple carpet cleaning session with a vacuum cleaner, you make it much more likely that you can make your carpet look a little bit nicer.
 
 ###### Reduce the Risk of Carpet Moths

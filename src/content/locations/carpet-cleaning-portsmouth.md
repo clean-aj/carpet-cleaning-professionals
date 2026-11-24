@@ -9,7 +9,7 @@ metaTitle: "Carpet Cleaning Portsmouth | Carpet & Upholstery Cleaners"
 description: "Carpet, rug & upholstery cleaning in Portsmouth, Southsea, Fratton & Cosham. Fast drying, pet-safe & open 7 days. Call 0808 196 8603 for a free quote."
 intro: "Fresher carpets, cleaner sofas and healthier rooms for your Portsmouth home or business, booked around your week."
 image: "/images/locations/carpet-cleaning-portsmouth-hampshire.jpg"
-imageAlt: "Illustration of a hot water extraction carpet cleaning machine cleaning a oatmeal living room carpet beside a brown sofa, with a window looking out over the sea, captioned \"Carpet Cleaning in Portsmouth, Hampshire\" by Carpet Cleaning Professionals"
+imageAlt: "Illustration of a carpet cleaning machine cleaning a oatmeal living room carpet beside a brown sofa, captioned \"Carpet Cleaning in Portsmouth, Hampshire\""
 faqs:
   - question: "Do you cover Southsea, Fratton and Cosham?"
     answer: "Yes. We clean homes and businesses across Portsmouth, including Southsea, Fratton, North End, Cosham, Copnor, Milton and Eastney."

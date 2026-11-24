@@ -1,7 +1,7 @@
 ---
 title: "What Are the Equipment Involved in Carpet Cleaning?"
 metaTitle: "What Are the Equipment Involved in Carpet Cleaning"
-description: "Carpet cleaning often involves the use of various different cleaning tools to get the job done. What are the most effective pieces of equipment that we use in our work? Find out here."
+description: "Carpet cleaning often involves the use of various different cleaning tools to get the job done. What are the most effective pieces of equipment that we use…"
 date: 2023-07-14
 image: "/images/photos/hot-water-extraction-white-shaggy-carpet.jpg"
 imageAlt: "Hot water extraction wand cleaning a white shaggy carpet, leaving a clean stripe, with a yellow carpet cleaning machine in the background"
@@ -16,12 +16,12 @@ However, to help you understand what we do, we have put together a list of the e
 
 ### What Equipment Is Used in Office Carpet Cleaning?
 
-###### Vacuum Cleaning
+#### Vacuum Cleaning
 The first and most important step is a high-quality vacuum cleaner. We use industrial standard vacuum cleaners so that we can get rid of even the most locked-down pieces of dirt and debris. Thanks to our attention to detail and the use of such high-quality tools, though, we can make short work of the dirt, dust, debris and mess that is built up within your carpet. 
 
 Vacuum cleaning is always the first step to a professional office carpet cleaning solution.
 
-###### Steam Cleaning
+##### Steam Cleaning
 While not always used today due to other options, steam cleaning can be a popular choice in office carpet cleaning. This can help to really make the carpet look fresh again, using the power of steam to get deep into the carpet to lift up the mess that is caked underneath. When used properly, steam cleaning can really get to work on making sure that the mess is lifted up and removed accordingly.
 
 ###### Hot Water Extraction

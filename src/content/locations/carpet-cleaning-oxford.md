@@ -9,7 +9,7 @@ metaTitle: "Carpet Cleaning Oxford | Carpet & Upholstery Cleaners"
 description: "Carpet, rug & upholstery cleaning in Oxford, Headington, Summertown & Cowley. Fast drying, pet-safe & open 7 days. Call 0808 196 8603 for a free quote."
 intro: "Fresher carpets, cleaner sofas and healthier rooms for your Oxford home, rental or business."
 image: "/images/locations/carpet-cleaning-oxford-oxfordshire.jpg"
-imageAlt: "Illustration of a hot water extraction carpet cleaning machine cleaning a grey living room carpet beside a blue sofa, with a window looking out over green hills, captioned \"Carpet Cleaning in Oxford, Oxfordshire\" by Carpet Cleaning Professionals"
+imageAlt: "Illustration of a carpet cleaning machine cleaning a grey living room carpet beside a blue sofa, captioned \"Carpet Cleaning in Oxford, Oxfordshire\""
 faqs:
   - question: "Do you cover Headington, Summertown and Cowley?"
     answer: "Yes. We clean homes and businesses across Oxford, including Headington, Summertown, Jericho, Cowley, Botley, Marston and Iffley."

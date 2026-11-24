@@ -1,7 +1,7 @@
 ---
 title: "How Much Is Professional Carpet Cleaning in London?"
 metaTitle: "How Much Is Professional Carpet Cleaning in London"
-description: "Wondering how much a professional carpet cleaning service would cost you? Get some ideas on the costs here so you can plan your next cleaning service accordingly"
+description: "Wondering how much a professional carpet cleaning service would cost you? Get some ideas on the costs here so you can plan your next cleaning service…"
 date: 2023-07-05
 image: "/images/blog/how-much-is-professional-carpet-cleaning-in-london.jpg"
 imageAlt: "Technician cleaning an office carpet with a hot water extraction wand"

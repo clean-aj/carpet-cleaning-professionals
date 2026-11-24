@@ -2,7 +2,7 @@
   {%- for s in collections.services %}
   <li class="card">
     {%- if s.data.image %}<img class="card-image" src="{{ s.data.image }}" alt="{{ s.data.imageAlt }}" sizes="(min-width: 900px) 340px, 100vw">{% endif %}
-    <h3><a href="{{ s.url }}">{{ s.data.title }}</a></h3>
+    <{{ cardTag or "h3" }}><a href="{{ s.url }}">{{ s.data.title }}</a></{{ cardTag or "h3" }}>
     <p>{{ s.data.summary or s.data.description }}</p>
     <a class="card-link" href="{{ s.url }}" aria-label="More about {{ s.data.title }}">Find out more →</a>
   </li>

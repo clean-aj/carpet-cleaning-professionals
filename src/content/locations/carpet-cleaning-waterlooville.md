@@ -7,7 +7,7 @@ metaTitle: "Carpet Cleaning Waterlooville | Carpet & Upholstery Cleaners"
 description: "Professional carpet, rug & upholstery cleaning in Waterlooville, Hampshire. Fast drying, pet-safe & open 7 days, 8am–8pm. Call 0808 196 8603 for a free quote."
 intro: "Professional carpet, rug and upholstery cleaning in Waterlooville, Hampshire. Open 7 days a week, 8am to 8pm."
 image: "/images/locations/carpet-cleaning-waterlooville-hampshire.jpg"
-imageAlt: "Illustration of a hot water extraction carpet cleaning machine cleaning a grey living room carpet beside a purple sofa, with a window looking out over the sea, captioned \"Carpet Cleaning in Waterlooville, Hampshire\" by Carpet Cleaning Professionals"
+imageAlt: "Illustration of a carpet cleaning machine cleaning a grey living room carpet beside a purple sofa, captioned \"Carpet Cleaning in Waterlooville, Hampshire\""
 faqs:
   - question: "How much will my carpet cleaning in Waterlooville cost?"
     answer: "Your price depends on the number of rooms, their size and the condition of your carpets. Call us or send an enquiry and you'll get a free, fixed quote with no hidden extras."

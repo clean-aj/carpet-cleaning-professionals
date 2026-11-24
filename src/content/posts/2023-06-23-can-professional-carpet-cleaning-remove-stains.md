@@ -1,7 +1,7 @@
 ---
 title: "Can Professional Carpet Cleaning Remove Stains?"
 metaTitle: "Can Professional Carpet Cleaning Remove Stains?"
-description: "Dropped something on your carpet and worried the stain is permanent? You might want to consider hiring a professional carpet cleaning service before buying a replacement."
+description: "Dropped something on your carpet and worried the stain is permanent? You might want to consider hiring a professional carpet cleaning service before buying…"
 date: 2023-06-23
 image: "/images/blog/can-professional-carpet-cleaning-remove-stains.webp"
 imageAlt: "Gloved hand scrubbing a brown stain on a cream carpet with a sponge and spray bottle"

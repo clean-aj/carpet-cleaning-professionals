@@ -1,7 +1,7 @@
 ---
 title: "How Do I Get Rid of Carpet Moths & Carpet Moth Larvae?"
 metaTitle: "How Do I Get Rid of Carpet Moths & Carpet Moth Larvae"
-description: "Moths can be the ruination of even the best carpets, so how can you make sure that carpet moths do not become a headache? Try this before getting in touch with the experts."
+description: "Moths can be the ruination of even the best carpets, so how can you make sure that carpet moths do not become a headache? Try this before getting in touch…"
 date: 2023-07-02
 image: "/images/blog/how-do-i-get-rid-of-carpet-moths-carpet-moth-larvae.jpg"
 imageAlt: "Carpet moth damage: bald patches eaten through to the backing of a brown carpet"

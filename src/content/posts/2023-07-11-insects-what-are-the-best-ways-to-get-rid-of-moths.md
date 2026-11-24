@@ -1,7 +1,7 @@
 ---
 title: "Insects: What Are the Best Ways to Get Rid of Moths?"
 metaTitle: "Insects: What Are the Best Ways to Get Rid of Moths"
-description: "Dealing with moths in your carpet? Then use these simple techniques to get them away from your carpet so you do not have to worry about them eating through the fibres!"
+description: "Dealing with moths in your carpet? Then use these simple techniques to get them away from your carpet so you do not have to worry about them eating through…"
 date: 2023-07-11
 image: "/images/blog/insects-what-are-the-best-ways-to-get-rid-of-moths.jpg"
 imageAlt: "Carpet moth beside a hole eaten into a carpet"

@@ -1,7 +1,7 @@
 ---
 title: "Is Commercial Carpet Steam Cleaning Better Than Domestic?"
 metaTitle: "Is Commercial Carpet Steam Cleaning Better Than Domestic"
-description: "Wondering if investing in a commercial steam clean for your carpets is worthwhile? Take a look at this quick comparison between both so that you know what to expect."
+description: "Wondering if investing in a commercial steam clean for your carpets is worthwhile? Take a look at this quick comparison between both so that you know what…"
 date: 2023-07-11
 image: "/images/blog/is-commercial-carpet-steam-cleaning-better-than-domestic.jpg"
 imageAlt: "Steam cleaner wand releasing steam over a grey carpet"

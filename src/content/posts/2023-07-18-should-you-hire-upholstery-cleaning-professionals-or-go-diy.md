@@ -14,10 +14,10 @@ Upholstery, it can be needlessly challenging to clean. Often, you need to take t
 
 ### Why Should You Hire Upholstery Cleaning Pros?
 
-###### Avoid Needless Damage
+#### Avoid Needless Damage
 As noted above, all it takes is one incorrect cleaning solution, and you could be looking at permanently damaged upholstery. This is expensive to replace, and it means that you need to replace something that otherwise only needed to be cleaned. As time goes on, you might find this kind of expensive; needless damage is not worth the cost. By hiring the professionals like us, you get the guarantee that damage is avoided.
 
-###### Stay Properly Insured
+##### Stay Properly Insured
 What if something *does* go wrong? While we take every available precaution to avoid such a scenario, we also provide you with peace of mind. This comes through the fact that we are fully insured, so any upholstery damage caused by our team would be cared for and replaced!
 
 If you damage your own upholstery, good luck getting your home insurance policy provider to pay out!

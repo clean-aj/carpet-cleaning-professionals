@@ -9,7 +9,7 @@ metaTitle: "Carpet Cleaning Guildford | Carpet & Upholstery Cleaners"
 description: "Carpet, rug & upholstery cleaning in Guildford, Merrow, Burpham & Stoughton. Fast drying, pet-safe & open 7 days. Call 0808 196 8603 for a free quote."
 intro: "Fresher carpets, cleaner sofas and healthier rooms for your Guildford home or business, booked around your week."
 image: "/images/locations/carpet-cleaning-guildford-surrey.jpg"
-imageAlt: "Illustration of a hot water extraction carpet cleaning machine cleaning a beige living room carpet beside a blue sofa, with a window looking out over green hills, captioned \"Carpet Cleaning in Guildford, Surrey\" by Carpet Cleaning Professionals"
+imageAlt: "Illustration of a carpet cleaning machine cleaning a beige living room carpet beside a blue sofa, captioned \"Carpet Cleaning in Guildford, Surrey\""
 faqs:
   - question: "Do you cover Merrow, Burpham and Stoughton?"
     answer: "Yes. We clean homes and businesses across Guildford, including Merrow, Burpham, Stoughton, Onslow Village and the surrounding villages."

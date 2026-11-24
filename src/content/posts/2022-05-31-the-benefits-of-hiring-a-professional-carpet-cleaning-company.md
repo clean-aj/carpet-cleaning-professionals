@@ -12,7 +12,7 @@ If you have a carpet at home, you might be happy with how it looks. However, get
 
 Lifting these issues yourself is possible, but what can a professional offer that DIY cleaning cannot?
 
-### Longer Lasting Results
+## Longer Lasting Results
 
 First off, a professional carpet cleaner will deliver a deep and lasting clean that gets much closer to the deepest fibres. This means that carpet debris that looked almost permanent and baked in can be removed with just a bit of extra effort and work from the carpet cleaning professionals involved.
 

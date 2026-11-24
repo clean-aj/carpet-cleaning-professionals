@@ -1,7 +1,7 @@
 ---
 title: "Benefits of Professional Carpet Cleaning in Hotels"
 metaTitle: "Benefits of Professional Carpet Cleaning in Hotels"
-description: "Running a hotel means keeping everything as clean as possible. Why, though, are professional carpet cleaning services better than using in-house cleaning services?"
+description: "Running a hotel means keeping everything as clean as possible. Why, though, are professional carpet cleaning services better than using in-house cleaning…"
 date: 2023-06-20
 image: "/images/blog/professional-carpet-cleaning-in-hotels.jpg"
 imageAlt: "Man cleaning a hotel bedroom carpet with a rotary carpet cleaning machine"

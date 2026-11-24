@@ -1,7 +1,7 @@
 ---
 title: "How Do I Clean a Stain Out of My White Carpet?"
 metaTitle: "How Do I Clean a Stain Out of My White Carpet"
-description: "White carpets can be ruined with the wrong kind of stain, but this solution might help you to save your carpet. If not, we recommend that you contact a professional service"
+description: "White carpets can be ruined with the wrong kind of stain, but this solution might help you to save your carpet."
 date: 2023-06-30
 image: "/images/blog/how-do-i-clean-a-stain-out-of-my-white-carpet.webp"
 imageAlt: "Spilled cup of tea staining a cream shaggy carpet"

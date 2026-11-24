@@ -14,10 +14,10 @@ Sofa fabrics are not the same: some are going to be very easy to look after. Oth
 
 ### Which Sofa Fabrics Clean Easiest?
 
-###### Fibre
+#### Fibre
 Most sofas today are made using a microfiber material that is durable and low-maintenance when it comes to cleaning. This is a simple textile to look after, and most of the time, it simply needs you to clean it down with a damp towel and a bucket of soapy water. 
 
-###### Vinyl
+##### Vinyl
 Vinyl is increasingly common when it comes to sofa fabric, and it is great for those who are looking for a casual, modern-looking fabric style. It is a great material for upholstery as it is easily cleaned and disinfected. Most of the time, you need to wipe it down with a damp cloth and some disinfectant. This is one of the best solutions for those looking for low-maintenance sofa fabrics.
 
 ###### Velvet

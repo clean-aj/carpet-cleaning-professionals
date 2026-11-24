@@ -1,7 +1,7 @@
 ---
 title: "A Brief History of Carpet Cleaning Services"
 metaTitle: "A Brief History of Carpet Cleaning Services"
-description: "Carpet cleaning services feel like they have been around forever, but they are relatively new in the grand scheme of things. Let\u2019s take a look at when these services came into being."
+description: "Carpet cleaning services feel like they have been around forever, but they are relatively new in the grand scheme of things."
 date: 2023-07-10
 image: "/images/blog/brief-history-of-carpet-cleaning-services.webp"
 imageAlt: "Vintage sepia photograph of a woman scrubbing the carpet in a Victorian parlour"

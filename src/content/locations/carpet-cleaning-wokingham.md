@@ -7,7 +7,7 @@ metaTitle: "Carpet Cleaning Wokingham | Carpet & Upholstery Cleaners"
 description: "Professional carpet, rug & upholstery cleaning in Wokingham, Berkshire. Fast drying, pet-safe & open 7 days, 8am–8pm. Call 0808 196 8603 for a free quote."
 intro: "Professional carpet, rug and upholstery cleaning in Wokingham, Berkshire. Open 7 days a week, 8am to 8pm."
 image: "/images/locations/carpet-cleaning-wokingham-berkshire.jpg"
-imageAlt: "Illustration of a hot water extraction carpet cleaning machine cleaning a lilac living room carpet beside a purple sofa, with a window looking out over green hills, captioned \"Carpet Cleaning in Wokingham, Berkshire\" by Carpet Cleaning Professionals"
+imageAlt: "Illustration of a carpet cleaning machine cleaning a lilac living room carpet beside a purple sofa, captioned \"Carpet Cleaning in Wokingham, Berkshire\""
 faqs:
   - question: "How much will my carpet cleaning in Wokingham cost?"
     answer: "Your price depends on the number of rooms, their size and the condition of your carpets. Call us or send an enquiry and you'll get a free, fixed quote with no hidden extras."

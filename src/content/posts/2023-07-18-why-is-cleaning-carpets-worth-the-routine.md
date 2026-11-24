@@ -1,7 +1,7 @@
 ---
 title: "Why Is Cleaning Carpets Worth the Routine?"
 metaTitle: "Why Is Cleaning Carpets Worth the Routine"
-description: "Keeping our carpets in top condition is not easy. However, with a regular cleaning schedule, you can benefit greatly. Why should you invest in a carpet cleaning routine?"
+description: "Keeping our carpets in top condition is not easy. However, with a regular cleaning schedule, you can benefit greatly."
 date: 2023-07-18
 image: "/images/blog/why-is-cleaning-carpets-worth-the-routine.png"
 imageAlt: "Vacuum cleaner on a grey shaggy rug"
@@ -16,12 +16,12 @@ To help you appreciate the importance of cleaning your carpets on a regular basi
 
 ### Why Cleaning Carpets Regularly Is Worth Your Time
 
-###### Make the Carpet Last Longer
+#### Make the Carpet Last Longer
 The first and main benefit comes down to longevity. If you have carpets fitted at home, it stands to reason that you want to avoid having to replace it anytime soon. This is logical. With a regular cleaning session, you guarantee that your carpet is going to retain the look and lustre that it should for a longer period of time. This results in a higher quality carpet free from dirt, mess and debris.
 
 Thus, it stands to reason that you can go longer without having to replace that carpet.
 
-###### Keep the Carpet Looking Fresh
+##### Keep the Carpet Looking Fresh
 Another positive of a regular cleaning program for your carpet is that it will avoid any discolouration and signs of wear and tear. Regular cleaning stops the dirt and dust build-up that often ruins a carpet from getting too severe. This ensures that your carpet looks better, but it also helps to avoid things like stain marks and dirt build-up from forming in the first place.
 
 The more thorough you are, the less likely it is that your carpet will need to be replaced.

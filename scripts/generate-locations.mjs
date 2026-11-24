@@ -279,7 +279,8 @@ for (const l of locations) {
   const label = place(l);
   const view = windowView[l.region] || "hills";
   const imageFile = `carpet-cleaning-${slugify(l.town)}${l.town === l.county || l.town === "London" ? "" : "-" + slugify(l.county)}.jpg`;
-  const imageAlt = `Illustration of ${describeScene({ scene: "living", seed: l.town, view })}, captioned "Carpet Cleaning in ${label}" by Carpet Cleaning Professionals`;
+  const [, sofaName] = pick(sofas, l.town, "s"); const [, carpetName] = pick(carpets, l.town, "c");
+  const imageAlt = `Illustration of a carpet cleaning machine cleaning a ${carpetName} living room carpet beside a ${sofaName} sofa, captioned "Carpet Cleaning in ${label}"`;
   const metaTitle = [`Carpet Cleaning ${l.town} | Carpet & Upholstery Cleaners`, `Carpet Cleaning ${l.town} | Free Quotes`, `Carpet Cleaning ${l.town}`].find((t) => t.length <= 60);
   const description = `Professional carpet, rug & upholstery cleaning in ${label}. Fast drying, pet-safe & open 7 days, 8am–8pm. Call 0808 196 8603 for a free quote.`;
 

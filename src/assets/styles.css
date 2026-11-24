@@ -84,8 +84,8 @@ h3 { font-size: 1.2rem; }
 .post-list { grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); }
 .feature-grid { grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); }
 .card { background: #fff; border: 1px solid var(--border); border-radius: var(--radius); padding: 24px; }
-.card h3 a { color: var(--text); text-decoration: none; }
-.card h3 a:hover { color: var(--brand); }
+.card h2 a, .card h3 a { color: var(--text); text-decoration: none; }
+.card h2 a:hover, .card h3 a:hover { color: var(--brand); }
 .card-link { font-weight: 600; text-decoration: none; }
 .feature-grid li { border-top: 4px solid var(--brand); padding-top: 16px; }
 
@@ -338,3 +338,5 @@ h3 { font-size: 1.2rem; }
 .hero .btn:hover, .hero .btn-outline:hover, .cta .btn:hover, .cta .btn-light:hover, .cta .btn-outline-light:hover {
   background: #f39c00; border-color: #f39c00; color: var(--text);
 }
+
+.card h2 { font-size: 1.2rem; }

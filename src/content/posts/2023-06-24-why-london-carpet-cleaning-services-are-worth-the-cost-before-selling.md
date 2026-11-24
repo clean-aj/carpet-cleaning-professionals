@@ -1,7 +1,7 @@
 ---
 title: "Why London Carpet Cleaning Services Are Worth the Cost Before Selling"
 metaTitle: "Why London Carpet Cleaning Services Are Worth the Cost Before Selling"
-description: "You might wonder whether or not investing in London carpet cleaning services is worth the money. Take a look at just a few key reasons why this service is beneficial"
+description: "You might wonder whether or not investing in London carpet cleaning services is worth the money. Take a look at just a few key reasons why this service is…"
 date: 2023-06-24
 image: "/images/blog/why-london-carpet-cleaning-services-are-worth-the-cost-before-selling.png"
 imageAlt: "Technician cleaning a grey carpet with an extraction wand and a yellow carpet cleaning machine"

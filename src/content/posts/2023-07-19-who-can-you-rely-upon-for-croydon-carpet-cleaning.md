@@ -1,7 +1,7 @@
 ---
 title: "Who Can You Rely upon for Croydon Carpet Cleaning?"
 metaTitle: "Who Can You Rely upon for Croydon Carpet Cleaning"
-description: "If you need a carpet cleaned in Croydon ASAP, you should get in touch with the professionals. Who, though, can you trust to get the job done to a high standard? Find out here!"
+description: "If you need a carpet cleaned in Croydon ASAP, you should get in touch with the professionals. Who, though, can you trust to get the job done to a high…"
 date: 2023-07-19
 image: "/images/blog/who-can-you-rely-upon-for-croydon-carpet-cleaning.jpg"
 imageAlt: "Technician in blue gloves cleaning a grey rug with an extraction wand"

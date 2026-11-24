@@ -1,7 +1,7 @@
 ---
 title: "What Is the Best Carpet and Upholstery Cleaner?"
 metaTitle: "What Is the Best Carpet and Upholstery Cleaner"
-description: "With so many carpet and upholstery cleaning products on the market, you might not be sure what you should be using. What, then, is the best carpet and upholstery cleaner"
+description: "With so many carpet and upholstery cleaning products on the market, you might not be sure what you should be using."
 date: 2023-07-17
 image: "/images/blog/what-is-the-best-carpet-and-upholstery-cleaner.webp"
 imageAlt: "Steam cleaning tool treating brown stains on a beige fabric sofa cushion"

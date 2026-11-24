@@ -1,7 +1,7 @@
 ---
 title: "How Do You Remove Stains from a Brown Carpet?"
 metaTitle: "How Do You Remove Stains from a Brown Carpet"
-description: "Lifting stains from a carpet can be more work than you first assume. Use this quick solution to see if you can lift the damage before resorting to a professional service"
+description: "Lifting stains from a carpet can be more work than you first assume. Use this quick solution to see if you can lift the damage before resorting to a…"
 date: 2023-07-04
 image: "/images/blog/how-do-you-remove-stains-from-a-brown-carpet.webp"
 imageAlt: "Spilled cup of tea staining a cream shaggy carpet"

@@ -1,7 +1,7 @@
 ---
 title: Carpet Moth Treatment
-metaTitle: Carpet Moth Treatment | Professional Moth Control | Carpet Cleaning Professionals
-description: "Professional carpet moth treatment that protects your carpets, rugs and clothes. Multi-visit treatment, all life stages targeted, 30-day guarantee. Call 0808 196 8603."
+metaTitle: "Carpet Moth Treatment | Carpet Cleaning Professionals"
+description: "Professional carpet moth treatment that protects your carpets, rugs and clothes. Multi-visit treatment, all life stages targeted, 30-day guarantee."
 summary: Multi-visit treatment that stops carpet moths and their larvae before they damage your carpets, rugs and clothes.
 intro: Protect your carpets, rugs and wardrobe from carpet moths, with a thorough treatment and a 30-day guarantee.
 order: 7

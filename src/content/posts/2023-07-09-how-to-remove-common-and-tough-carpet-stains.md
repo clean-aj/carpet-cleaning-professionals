@@ -1,7 +1,7 @@
 ---
 title: "How to Remove Common and Tough Carpet Stains"
 metaTitle: "How to Remove Common and Tough Carpet Stains"
-description: "If you have a carpet that has been stained, you need to look to find a solution ASAP. Sadly, most stains that fall on our carpets need near-immediate action, so if you are reading this post-stain, you are probably already against the clock"
+description: "If you have a carpet that has been stained, you need to look to find a solution ASAP. Sadly, most stains that fall on our carpets need near-immediate…"
 date: 2023-07-09
 image: "/images/blog/common-and-tough-carpet-stains.webp"
 imageAlt: "Gloved hand scrubbing a brown stain on a cream carpet with a sponge and blue spray bottle"

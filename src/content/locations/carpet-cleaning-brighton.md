@@ -9,7 +9,7 @@ metaTitle: "Carpet Cleaning Brighton | Carpet & Upholstery Cleaners"
 description: "Carpet, rug & upholstery cleaning in Brighton, Hove, Kemptown & Hanover. Fast drying, pet-safe & open 7 days. Call 0808 196 8603 for a free quote."
 intro: "Fresher carpets, cleaner sofas and healthier rooms for your Brighton home, holiday let or business."
 image: "/images/locations/carpet-cleaning-brighton-east-sussex.jpg"
-imageAlt: "Illustration of a hot water extraction carpet cleaning machine cleaning a beige living room carpet beside a tan sofa, with a window looking out over the sea, captioned \"Carpet Cleaning in Brighton, East Sussex\" by Carpet Cleaning Professionals"
+imageAlt: "Illustration of a carpet cleaning machine cleaning a beige living room carpet beside a tan sofa, captioned \"Carpet Cleaning in Brighton, East Sussex\""
 faqs:
   - question: "Do you cover Hove, Kemptown and Hanover?"
     answer: "Yes. We clean homes and businesses across Brighton and Hove, including Kemptown, Hanover, Preston Park, Patcham, Withdean and Rottingdean."

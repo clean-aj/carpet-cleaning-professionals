@@ -1,7 +1,7 @@
 ---
 title: "How to Get Stains Out of the Carpet with Baking Soda"
 metaTitle: "How to Get Stains Out of the Carpet with Baking Soda"
-description: "Trying to get rid of stains from your carpet? Then the best place to start is with the use of some baking soda. Try this method out before you try anything else!"
+description: "Trying to get rid of stains from your carpet? Then the best place to start is with the use of some baking soda."
 date: 2023-07-09
 image: "/images/blog/how-to-get-stains-out-of-the-carpet-with-baking-soda.jpg"
 imageAlt: "Spoonful of baking soda being sprinkled onto a beige carpet"

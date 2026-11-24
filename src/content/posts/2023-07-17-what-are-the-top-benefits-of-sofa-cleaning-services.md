@@ -14,10 +14,10 @@ Today, many of us invest in professional sofa cleaning because we want results w
 
 ### The Benefits of Professional Sofa Cleaning
 
-###### Make a Visible Difference
+#### Make a Visible Difference
 Again, you might spend valuable hours [cleaning your sofa](https://medium.com/@cleaningservicesmshine/the-benefits-of-hiring-professional-sofa-cleaning-services-827d3a708f2e) only to feel like you cannot see a difference. With a professional involved, the cleaning becomes much more obvious. When you look at the sofa, you can see a night-and-day difference. This comes from the use of proper cleaning tools and detergents, which get right to the heart of the matter and clean everything up as it should. 
 
-###### The Best Cleaning Solutions
+##### The Best Cleaning Solutions
 From hot water extraction to commercial standard steam cleaning, your upholstery will be cleaned using best-in-class solutions. This ensures that it looks fresher and cleaner, but it also guarantees that the sofa is cleaned properly. 
 
 From the right cleaning detergent to the correct methods for the material your sofa is made from, you do not have to worry about causing damage through incorrect cleaning. It also means you do not have to shell out for expensive cleaning equipment! 

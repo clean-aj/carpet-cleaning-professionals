@@ -1,7 +1,7 @@
 ---
 title: "Is a Carpet Cleaner Worth the Money?"
 metaTitle: "Assessing the Value: Is a Carpet Cleaner Worth It?"
-description: "If you are considering hiring a carpet cleaner, value for money should be one of the first questions that you consider. With that in mind, is the service worth the price you pay?"
+description: "If you are considering hiring a carpet cleaner, value for money should be one of the first questions that you consider."
 date: 2023-07-19
 image: "/images/blog/is-a-carpet-cleaner-worth-the-money.jpg"
 imageAlt: "Upright carpet washer cleaning a beige carpet and leaving clean stripes"

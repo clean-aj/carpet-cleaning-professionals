@@ -1,7 +1,7 @@
 ---
 title: "Should You Use Detergent When Cleaning Carpets?"
 metaTitle: "Should You Use Detergent When Cleaning Carpets"
-description: "When it comes to carpet cleaning, many are reticent to use detergent. Should you be using a detergent in amongst your typical carpet cleaning methods? Find out here."
+description: "When it comes to carpet cleaning, many are reticent to use detergent. Should you be using a detergent in amongst your typical carpet cleaning methods? Find…"
 date: 2023-07-19
 image: "/images/blog/should-you-use-detergent-when-cleaning-carpets.jpg"
 imageAlt: "Carpet cleaning solution being poured beside an extraction wand on a grey carpet"

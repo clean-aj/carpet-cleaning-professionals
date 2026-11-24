@@ -1,7 +1,7 @@
 ---
 title: "Should I Hire a Professional Carpet Cleaner?"
 metaTitle: "Should I Hire a Professional Carpet Cleaner"
-description: "Hiring a professional carpet cleaner can make a lot of sense for your office. Find out whether or not this is the right choice for you with this quick guide to the service."
+description: "Hiring a professional carpet cleaner can make a lot of sense for your office. Find out whether or not this is the right choice for you with this quick guide…"
 date: 2023-07-11
 image: "/images/blog/should-i-hire-a-professional-carpet-cleaner.jpg"
 imageAlt: "Extraction wand removing dirt from a brown carpet and leaving a clean stripe"

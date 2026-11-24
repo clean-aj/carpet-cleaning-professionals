@@ -1,7 +1,7 @@
 ---
 title: "How Often Should You Deep Clean Upholstery?"
 metaTitle: "How Often Should You Deep Clean Upholstery"
-description: "Taking care of our upholstery is not easy, yet neither is coming up with appropriate deep cleaning schedules. How often, then, should you deep clean upholstery? Find out here"
+description: "Taking care of our upholstery is not easy, yet neither is coming up with appropriate deep cleaning schedules."
 date: 2023-07-05
 image: "/images/blog/how-often-should-you-deep-clean-upholstery.jpg"
 imageAlt: "Gloved hand vacuuming a grey fabric armchair with an upholstery attachment"

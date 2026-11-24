@@ -1,7 +1,7 @@
 ---
 title: "How to Protect Furniture from Future Stains"
 metaTitle: "How to Protect Furniture from Future Stains"
-description: "Protecting your furniture ahead of time sure beats having to deal with stains when they fall. How, then, can you protect your furniture from the risk of future stains?"
+description: "Protecting your furniture ahead of time sure beats having to deal with stains when they fall. How, then, can you protect your furniture from the risk of…"
 date: 2023-07-08
 image: "/images/blog/how-to-protect-furniture-from-future-stains.webp"
 imageAlt: "Grey ribbed fabric armchair and sofa in a living room beside a lamp"

@@ -1,7 +1,7 @@
 ---
 title: "Which Is the Best Carpet Cleaning Company in London?"
 metaTitle: "Which Is the Best Carpet Cleaning Company in London"
-description: "When you want to hire a carpet cleaning company in London, you want the very best. Why, then, should you rely upon the Carpet Cleaning Pros? Find out more details here"
+description: "When you want to hire a carpet cleaning company in London, you want the very best. Why, then, should you rely upon the Carpet Cleaning Pros? Find out more…"
 date: 2023-07-18
 image: "/images/blog/which-is-the-best-carpet-cleaning-company-in-london.webp"
 imageAlt: "Technician cleaning a grey carpet with a yellow extraction machine in a living room"

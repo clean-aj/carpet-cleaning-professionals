@@ -1,7 +1,7 @@
 ---
 title: "What Are the Hazard of Having Small Moths in My Bedroom?"
 metaTitle: "What Are the Hazard of Having Small Moths in My Bedroom"
-description: "If you have moths in your bedroom, it is natural that you might feel concerned. What, though, are the concerns of this? Should you be worried? Find out what to do here."
+description: "If you have moths in your bedroom, it is natural that you might feel concerned. What, though, are the concerns of this? Should you be worried? Find out what…"
 date: 2023-07-14
 image: "/images/blog/what-are-the-hazard-of-having-small-moths-in-my-bedroom.webp"
 imageAlt: "Small golden clothes moth on a grey surface"

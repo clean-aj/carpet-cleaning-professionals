@@ -1,7 +1,7 @@
 ---
 title: "What Are the Processes of Professional Carpet Cleaning?"
 metaTitle: "What Are the Processes of Professional Carpet Cleaning"
-description: "If you are considering hiring a service for carpet cleaning in London, you always want to know how they get to work. The main challenge you face is making sure that the process is smooth enough that you can look forward to a swift"
+description: "If you are considering hiring a service for carpet cleaning in London, you always want to know how they get to work."
 date: 2023-07-14
 image: "/images/blog/what-are-the-processes-of-professional-carpet-cleaning.jpg"
 imageAlt: "Extraction wand cleaning a cream carpet and leaving a clean stripe"
@@ -14,10 +14,10 @@ For the **best carpet cleaning London** property owners can expect, we stick to 
 
 ### The Carpet Cleaning Pros Process
 
-###### An Initial Discussion
+#### An Initial Discussion
 The first step of the process is that we will discuss your carpet cleaning needs. You might only need a one-off carpet cleaning service, or you might be looking for a regular scheduled carpet cleaning service. Whatever you are looking for, we will ensure that you can get the help and support you expect. Simply tell us what you are looking for during your initial chat with us, and we can evaluate your needs.
 
-###### A Check of Condition
+##### A Check of Condition
 Once we have worked out if we can be your ideal carpet cleaning service, a CCP team member will visit your premises. We will get to work on determining the condition of your carpet, offering our suggestions and insight for what could be done to get your carpet looking as good as new. In this initial discussion, we let you know which of our services we believe would be the best choice for your home.
 
 ###### Arranging Dates

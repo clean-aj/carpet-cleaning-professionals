@@ -1,7 +1,7 @@
 ---
 title: "What Are Some Tips for Cleaning Fabric Sofas?"
 metaTitle: "What Are Some Tips for Cleaning Fabric Sofas"
-description: "Having a hard time tidying up those fabric sofas? Then try out the following cleaning method. This should help you to get that fabric sofa looking and smelling fresh once again."
+description: "Having a hard time tidying up those fabric sofas? Then try out the following cleaning method. This should help you to get that fabric sofa looking and…"
 date: 2023-07-13
 image: "/images/photos/beige-sofa-cushion-upholstery-cleaning-before-and-after-landscape.jpg"
 imageAlt: "Beige fabric sofa seat cushion half cleaned by Carpet Cleaning Professionals, with the cleaned left side visibly brighter than the dirty right side"
@@ -18,12 +18,12 @@ Before you get in touch with the Carpet Cleaning Pros, you should try this quick
 
 ### Cleaning Tips for Fabric Sofas
 
-###### Always Read the Care Label
+#### Always Read the Care Label
 Your sofa *should* come with a care label, which gives you a good idea of what you can and cannot use on this particular fabric. Sadly, there is no catch-all solution; each type of fabric has its own rules as to what you can wash it with. Most of the time, if you want to be safe, you might wish to stick to a simple cleaning routine like a vacuum and then focus on addressing areas of concern.
 
 It is always better to be safe than sorry, though, so avoid using anything that might be risky, as it could damage your fabric sofa.
 
-###### Always Pre-Vacuum Before Cleaning
+##### Always Pre-Vacuum Before Cleaning
 Before you try out this cleaning method, make sure that you give the sofa a thorough vacuum. This is important as it means that you will not be forcing the dirt and dust deeper into the fabric fibres. So, give the full sofa a major vacuum clean before you start doing anything else – be thorough. Lift the sofa parts and get in between the cushions as best you can.
 
 ###### Create a DIY Cleaning Remedy

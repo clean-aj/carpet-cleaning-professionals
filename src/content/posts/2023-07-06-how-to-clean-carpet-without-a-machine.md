@@ -16,7 +16,7 @@ As noted by specialist [Shark](https://cleaning-hacks.sharkclean.co.uk/is-there-
 
 ### How to Clean Carpets Without Carpet Cleaning Machinery
 
-###### Start with Vacuuming
+#### Start with Vacuuming
 
 The best place to begin with any carpet cleaning you carry out will be to use a vacuum cleaner. You could, of course, brush it yourself with a brush and shovel, but this takes a long time. Your best bet is to get some elbow grease involved and give your carpet a vacuum using your typical household vacuum cleaner. Start here, and you will make it much easier to keep your carpet fresh and clean moving forward.
 

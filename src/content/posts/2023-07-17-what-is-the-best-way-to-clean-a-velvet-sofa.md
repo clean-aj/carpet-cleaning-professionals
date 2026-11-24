@@ -1,7 +1,7 @@
 ---
 title: "What  Is the Best Way to Clean a Velvet Sofa?"
 metaTitle: "What Is the Best Way to Clean a Velvet Sofa"
-description: "If you have a velvet sofa, there are some very specific cleaning requirements that you need to follow along with. Use these tips to help avoid a disaster when cleaning velvet."
+description: "If you have a velvet sofa, there are some very specific cleaning requirements that you need to follow along with."
 date: 2023-07-17
 image: "/images/blog/what-is-the-best-way-to-clean-a-velvet-sofa.jpg"
 imageAlt: "Hand vacuuming a dark green buttoned velvet sofa with a brush attachment"

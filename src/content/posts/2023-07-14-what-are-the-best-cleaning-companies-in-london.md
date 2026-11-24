@@ -1,7 +1,7 @@
 ---
 title: "What Are the Best Cleaning Companies in London?"
 metaTitle: "What Are the Best Cleaning Companies in London"
-description: "As Carpet Cleaning Pros, we believe that we offer a service that is second to none in terms of quality and output. Why, though, should you hire us? Find out here."
+description: "As Carpet Cleaning Pros, we believe that we offer a service that is second to none in terms of quality and output."
 date: 2023-07-14
 image: "/images/blog/what-are-the-best-cleaning-companies-in-london.jpg"
 imageAlt: "Gloved hands spraying and wiping a kitchen cabinet"
@@ -16,10 +16,10 @@ This makes us the best choice to hire when you are looking for a service that yo
 
 ### Why Trust Carpet Cleaning Pros for Carpet Cleaning in London?
 
-###### We Work to Your Schedule
+#### We Work to Your Schedule
 Worried that you might be left with a schedule that is not suitable? Then fear not. We can get to work on any aspect of your carpet cleaning needs on your behalf. If you need us to carry out carpet cleaning at a specific time, then we can work with you to ensure that you get a schedule that suits your personal requirements.
 
-###### We Are Eco-Conscious
+##### We Are Eco-Conscious
 Our team makes every effort to use eco-friendly detergents and cleaning solutions for stain removal. This gives us confidence that we can clean your carpets to a high standard but also ensure that we do not risk using anything that might cause a negative reaction. This gives you peace of mind that your home is being cleaned professionally and ethically.
 
 ###### We Use the Best Solutions

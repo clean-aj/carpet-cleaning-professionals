@@ -1,7 +1,7 @@
 ---
 title: "Why Eco-Friendly Products Are Best in Sofa Cleaning Services?"
 metaTitle: "Why Eco-Friendly Products Are Best in Sofa Cleaning Services"
-description: "If you hire a sofa cleaning service, you want to know that they can do a stand-up job of cleaning and caring for your sofa. Why, then, should you only use eco-friendly cleaning products?"
+description: "If you hire a sofa cleaning service, you want to know that they can do a stand-up job of cleaning and caring for your sofa."
 date: 2023-07-18
 image: "/images/blog/why-eco-friendly-products-are-best-in-sofa-cleaning-services.jpg"
 imageAlt: "Woman spraying a cushion on a teal fabric sofa"

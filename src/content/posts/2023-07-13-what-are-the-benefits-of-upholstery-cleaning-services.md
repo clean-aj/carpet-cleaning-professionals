@@ -14,10 +14,10 @@ With that in mind, you might also consider hiring a professional upholstery clea
 
 ### The Benefits of Upholstery Cleaning Services
 
-###### Avoid Mishaps
+#### Avoid Mishaps
 One of the most common benefits of a professional service for cleaning upholstery on your behalf is their attention to detail. They will ensure that they only use the right cleaning materials and methods. This results in a cleaning service that makes your sofas and upholstery look better without the risk of using the wrong kind of cleaning methods or cleaning ingredients.
 
-###### You Are Insured
+##### You Are Insured
 Almost any upholstery cleaning service worth hiring will come with insurance. This means that in the worst-case scenario where something does go wrong, you are protected from the resultant damage. If you ruin your own sofa, though, good luck getting your house insurance to [pay out!](https://myhome.co.uk/upholstery-cleaning/) By contrast, upholstery cleaning pros are insured.
 
 ###### Better Cleaning Methods

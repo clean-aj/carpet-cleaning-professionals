@@ -11,7 +11,7 @@ When you want to restore a carpet to good-as-new conditioning, you probably need
 
 Why, though, should you use [**professional carpet cleaning in Southampton**?](/carpet-cleaning-southampton/)
 
-### Make Your Carpet Last Even Longer
+## Make Your Carpet Last Even Longer
 
 Regular and focused DIY carpet cleaning can help to keep a carpet looking hospitable for a while longer. Professional cleaning, though, offers many years of longevity. The use of techniques that help to get rid of dirt and debris locked within the carpet fibres will absolutely help to keep your carpet lasting for longer.
 

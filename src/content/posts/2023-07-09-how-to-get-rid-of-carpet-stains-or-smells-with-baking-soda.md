@@ -1,7 +1,7 @@
 ---
 title: "How to Get Rid of Carpet Stains or Smells with Baking Soda?"
 metaTitle: "How to Get Rid of Carpet Stains or Smells with Baking Soda"
-description: "Baking soda can be a wonderful home cleaning remedy, especially for dealing with carpet stains and/or smells. How do you use it to your advantage? Find out here."
+description: "Baking soda can be a wonderful home cleaning remedy, especially for dealing with carpet stains and/or smells."
 date: 2023-07-09
 image: "/images/blog/how-to-get-rid-of-carpet-stains-or-smells-with-baking-soda.jpg"
 imageAlt: "Person in yellow gloves scrubbing a cream carpet beside a red bucket"

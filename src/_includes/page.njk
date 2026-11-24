@@ -110,7 +110,7 @@ layout: base.njk
     {%- if image %}<img class="hero-image" src="{{ image }}" alt="{{ imageAlt }}" loading="eager" fetchpriority="high" sizes="(min-width: 800px) 760px, 100vw">{% endif %}
     {{ content | withCtas(site.phone) | safe }}
   </div>
-  {%- if slug == "services" %}<div class="container">{% include "partials/service-grid.njk" %}</div>{% endif %}
+  {%- if slug == "services" %}{% set cardTag = "h2" %}<div class="container">{% include "partials/service-grid.njk" %}</div>{% endif %}
   {%- if slug == "areas" %}<div class="container">{% include "partials/areas-list.njk" %}</div>{% endif %}
   {%- if slug == "contact" %}<div class="container">{% include "partials/contact.njk" %}</div>{% endif %}
 </section>

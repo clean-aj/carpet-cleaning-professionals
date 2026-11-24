@@ -17,7 +17,7 @@ first place.
 
 ### The Best Ways to Lift and Remove Odours from Your Carpet Today
 
-###### Fresh Air
+#### Fresh Air
 
 Sometimes, all you need to do to remove that lingering smell is to get some fresh air involved. Fresh air
 can be just what you need to help make the place smell a little nicer and ensure that you can lift the
@@ -25,7 +25,7 @@ damage within your carpet. Get the windows open and allow the place to be aired 
 one of the best ways to get rid of general pongs and smells that linger in the air without having a direct
 cause or source.
 
-###### White Wine Vinegar
+##### White Wine Vinegar
 
 For any kind of carpet cleaning that you need to carry out, you should consider using some white wine
 vinegar. It is a powerful and natural air freshener, and it can be great for getting rid of bacterial build-ups

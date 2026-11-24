@@ -9,7 +9,7 @@ metaTitle: "Carpet Cleaning Bournemouth | Carpet & Upholstery Cleaners"
 description: "Carpet, rug & upholstery cleaning in Bournemouth, Boscombe, Southbourne & Westbourne. Pet-safe & open 7 days. Call 0808 196 8603 for a free quote."
 intro: "Fresher carpets, cleaner sofas and healthier rooms for your Bournemouth home, holiday let or business."
 image: "/images/locations/carpet-cleaning-bournemouth-dorset.jpg"
-imageAlt: "Illustration of a hot water extraction carpet cleaning machine cleaning a lilac living room carpet beside a blue sofa, with a window looking out over the sea, captioned \"Carpet Cleaning in Bournemouth, Dorset\" by Carpet Cleaning Professionals"
+imageAlt: "Illustration of a carpet cleaning machine cleaning a lilac living room carpet beside a blue sofa, captioned \"Carpet Cleaning in Bournemouth, Dorset\""
 faqs:
   - question: "Do you cover Boscombe, Southbourne and Westbourne?"
     answer: "Yes. We clean homes and businesses across Bournemouth, including Boscombe, Southbourne, Westbourne, Winton, Charminster and Kinson."

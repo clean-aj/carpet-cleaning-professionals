@@ -1,7 +1,7 @@
 ---
 title: "Are There Risks to Using a Carpet Cleaner Product?"
 metaTitle: "Are There Risks to Using a Carpet Cleaner Product"
-description: "Carpet cleaning products come in all shapes and sizes, and making sure you are using the right carpet cleaner is very important. Consider the following before doing anything else"
+description: "Carpet cleaning products come in all shapes and sizes, and making sure you are using the right carpet cleaner is very important."
 date: 2023-07-10
 image: "/images/blog/are-there-risks-to-using-a-carpet-cleaner-product.webp"
 imageAlt: "Woman using an upright carpet washer on a cream carpet in a bright living room, with a dog lying in the background"

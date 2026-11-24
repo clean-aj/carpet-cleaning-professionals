@@ -9,7 +9,7 @@ metaTitle: "Carpet Cleaning Southampton | Carpet & Upholstery Cleaners"
 description: "Carpet, rug & upholstery cleaning in Southampton, Shirley, Portswood & Bitterne. Fast drying, pet-safe & open 7 days. Call 0808 196 8603 for a free quote."
 intro: "Fresher carpets, cleaner sofas and healthier rooms for your Southampton home or business, booked around your week."
 image: "/images/locations/carpet-cleaning-southampton-hampshire.jpg"
-imageAlt: "Illustration of a hot water extraction carpet cleaning machine cleaning a grey living room carpet beside a blue sofa, with a window looking out over the sea, captioned \"Carpet Cleaning in Southampton, Hampshire\" by Carpet Cleaning Professionals"
+imageAlt: "Illustration of a carpet cleaning machine cleaning a grey living room carpet beside a blue sofa, captioned \"Carpet Cleaning in Southampton, Hampshire\""
 faqs:
   - question: "Do you cover Shirley, Portswood and Bitterne?"
     answer: "Yes. We clean homes and businesses across Southampton, including Shirley, Portswood, Bitterne, Woolston, Bassett and Sholing."

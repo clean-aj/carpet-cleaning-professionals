@@ -14,7 +14,7 @@ Had your carpet for more than five years? Then you might be thinking that it is 
 
 Extraction methods can help to increase the lifespan of any carpet for many years to come, even with bi-annual cleaning only.
 
-### Reduce Irritants in the Air
+## Reduce Irritants in the Air
 
 You might not realise it, but your carpet can be quite the home to pollutants and other annoying issues. if you want to try and reduce irritation within the air, then you should absolutely look to have your carpets cleaned.
 

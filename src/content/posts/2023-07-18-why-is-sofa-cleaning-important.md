@@ -1,7 +1,7 @@
 ---
 title: "Why Is Sofa Cleaning Important?"
 metaTitle: "Understanding the Importance of Sofa Cleaning"
-description: "Keeping your sofa in top condition is not easy \u2013 it takes a huge amount of work and effort. Why, though, is sofa cleaning important? Find out the key reasons here."
+description: "Keeping your sofa in top condition is not easy – it takes a huge amount of work and effort. Why, though, is sofa cleaning important? Find out the key…"
 date: 2023-07-18
 image: "/images/blog/why-is-sofa-cleaning-important.jpg"
 imageAlt: "Hand blotting a stain on a blue fabric sofa with a cloth, with a brush beside it"

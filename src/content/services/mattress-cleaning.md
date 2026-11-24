@@ -1,6 +1,6 @@
 ---
 title: Mattress Cleaning
-metaTitle: Mattress Cleaning | Stains, Allergens & Odours | Carpet Cleaning Professionals
+metaTitle: "Mattress Cleaning | Carpet Cleaning Professionals"
 description: "Professional mattress cleaning that removes stains, dust mites, allergens and odours with hot water extraction. Eco, pet and child-friendly. Call 0808 196 8603."
 summary: Hot water extraction that lifts stains, dust mites and allergens, for a fresher, healthier night's sleep.
 intro: Sleep better on a fresher, cleaner mattress, without the cost of buying a new one.

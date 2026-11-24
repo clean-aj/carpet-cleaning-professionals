@@ -7,15 +7,17 @@ permalink: "/blog/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumbe
 layout: base.njk
 pageType: page
 title: Carpet Cleaning Tips & Advice
-description: Practical advice on carpet care, stain removal and keeping your carpets, rugs and upholstery looking their best, from the Carpet Cleaning Professionals team.
 intro: Practical advice for keeping your carpets, rugs and upholstery looking their best.
 eleventyComputed:
-  metaTitle: "Carpet Cleaning Tips & Advice{% if pagination.pageNumber > 0 %} – Page {{ pagination.pageNumber + 1 }}{% endif %} | Carpet Cleaning Professionals Blog"
+  metaTitle: "Carpet Cleaning Blog{% if pagination.pageNumber > 0 %} – Page {{ pagination.pageNumber + 1 }}{% endif %} | Carpet Cleaning Professionals"
+  heading: "Carpet Cleaning Tips & Advice{% if pagination.pageNumber > 0 %} – Page {{ pagination.pageNumber + 1 }}{% endif %}"
+  description: "{% if pagination.pageNumber > 0 %}Page {{ pagination.pageNumber + 1 }} of our carpet care articles: {% endif %}Practical advice on carpet care, stain removal and keeping your carpets, rugs and upholstery looking their best."
 ---
 {% include "partials/page-hero.njk" %}
 <section class="section">
   <div class="container">
     {%- set postItems = posts %}
+    {%- set cardTag = "h2" %}
     {% include "partials/post-list.njk" %}
 
     {%- if pagination.pages.length > 1 %}

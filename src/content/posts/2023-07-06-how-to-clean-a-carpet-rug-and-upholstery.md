@@ -1,7 +1,7 @@
 ---
 title: "How to Clean a Carpet Rug and Upholstery?"
 metaTitle: "How to Clean a Carpet Rug and Upholstery"
-description: "Keeping everything in your home nice and clean is not easy \u2013 but it can be made easier if you stick to a clear schedule. How, and when, do you clean carpets rugs and upholstery"
+description: "Keeping everything in your home nice and clean is not easy – but it can be made easier if you stick to a clear schedule."
 date: 2023-07-06
 image: "/images/blog/how-to-clean-a-carpet-rug-and-upholstery.jpg"
 imageAlt: "Extraction wand cleaning a traditional red and orange patterned rug"

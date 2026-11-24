@@ -1,7 +1,7 @@
 ---
 title: "What Helps Removing Carpet Stains?"
 metaTitle: "Effective Methods for Removing Tough Carpet Stains"
-description: "Carpet stains can be a nightmare to remove, but if you want to try and lift them then you should try one of the following solutions. This should remove most typical carpet stains"
+description: "Carpet stains can be a nightmare to remove, but if you want to try and lift them then you should try one of the following solutions."
 date: 2023-07-17
 image: "/images/blog/what-helps-removing-carpet-stains.jpg"
 imageAlt: "Hand scrubbing a red stain on a cream carpet with a sponge and spray bottle"

@@ -1,7 +1,7 @@
 ---
 title: "How to Find a Professional to Clean My Upholstery?"
 metaTitle: "How to Find a Professional to Clean My Upholstery"
-description: "If you want professional help in keeping your upholstery clean, you should use the following tips to find the right person to give your upholstery the clean that it deserves."
+description: "If you want professional help in keeping your upholstery clean, you should use the following tips to find the right person to give your upholstery the clean…"
 date: 2023-07-08
 image: "/images/blog/how-to-find-a-professional-to-clean-my-upholstery.jpg"
 imageAlt: "Hand in a pink rubber glove scrubbing a grey fabric sofa with a blue brush"
