@@ -1,6 +1,7 @@
 {%- set postLimit = postLimit or 100 %}
+{%- set postItems = postItems or (collections.posts | head(postLimit)) %}
 <ul class="post-list">
-  {%- for post in collections.posts | head(postLimit) %}
+  {%- for post in postItems %}
   <li class="card">
     {%- if post.data.image %}<img class="card-image" src="{{ post.data.image }}" alt="{{ post.data.imageAlt }}" sizes="(min-width: 900px) 340px, 100vw">{% endif %}
     <p class="meta"><time datetime="{{ post.date | isoDate }}">{{ post.date | readableDate }}</time></p>

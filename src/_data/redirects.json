@@ -1,0 +1,58 @@
+[
+  {
+    "from": "/carpet-cleaning-services/",
+    "to": "/services/"
+  },
+  {
+    "from": "/carpet-cleaning/",
+    "to": "/services/carpet-cleaning/"
+  },
+  {
+    "from": "/professional-carpet-cleaning-near-me/",
+    "to": "/services/carpet-cleaning/"
+  },
+  {
+    "from": "/rug-cleaning/",
+    "to": "/services/rug-cleaning/"
+  },
+  {
+    "from": "/professional-sofa-cleaning/",
+    "to": "/services/upholstery-cleaning/"
+  },
+  {
+    "from": "/upholstery-cleaning-near-me/",
+    "to": "/services/upholstery-cleaning/"
+  },
+  {
+    "from": "/commercial-carpet-cleaning/",
+    "to": "/services/commercial-carpet-cleaning/"
+  },
+  {
+    "from": "/pet-odour-and-urine-treatments/",
+    "to": "/services/stain-odour-removal/"
+  },
+  {
+    "from": "/how-much-is-carpet-cleaning/",
+    "to": "/contact/"
+  },
+  {
+    "from": "/gallery/",
+    "to": "/"
+  },
+  {
+    "from": "/carpet-moth-treatment/",
+    "to": "/services/"
+  },
+  {
+    "from": "/flea-treatment/",
+    "to": "/services/"
+  },
+  {
+    "from": "/mattress-cleaning-services/",
+    "to": "/services/"
+  },
+  {
+    "from": "/mattress-cleaning/",
+    "to": "/services/"
+  }
+]

@@ -1,0 +1,34 @@
+---
+pagination:
+  data: collections.posts
+  size: 12
+  alias: posts
+permalink: "/blog/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}/{% endif %}"
+layout: base.njk
+pageType: page
+title: Carpet Cleaning Tips & Advice
+description: Practical advice on carpet care, stain removal and keeping your carpets, rugs and upholstery looking their best, from the Carpet Cleaning Professionals team.
+intro: Practical advice for keeping your carpets, rugs and upholstery looking their best.
+eleventyComputed:
+  metaTitle: "Carpet Cleaning Tips & Advice{% if pagination.pageNumber > 0 %} – Page {{ pagination.pageNumber + 1 }}{% endif %} | Carpet Cleaning Professionals Blog"
+---
+{% include "partials/page-hero.njk" %}
+<section class="section">
+  <div class="container">
+    {%- set postItems = posts %}
+    {% include "partials/post-list.njk" %}
+
+    {%- if pagination.pages.length > 1 %}
+    <nav class="pagination" aria-label="Blog pages">
+      {%- if pagination.href.previous %}<a class="btn btn-outline btn-small" href="{{ pagination.href.previous }}" rel="prev">&larr; Newer</a>{% endif %}
+      <ol>
+        {%- for href in pagination.hrefs %}
+        <li><a href="{{ href }}"{% if page.url == href %} aria-current="page"{% endif %}>{{ loop.index }}</a></li>
+        {%- endfor %}
+      </ol>
+      {%- if pagination.href.next %}<a class="btn btn-outline btn-small" href="{{ pagination.href.next }}" rel="next">Older &rarr;</a>{% endif %}
+    </nav>
+    {%- endif %}
+  </div>
+</section>
+{% include "partials/cta.njk" %}

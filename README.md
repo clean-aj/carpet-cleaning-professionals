@@ -30,6 +30,13 @@ npm run build    # builds the site into _site/
 - The copy was generated from a template. Adding genuinely local detail to the most important towns (recent jobs, local landmarks, testimonials) will help them rank.
 - `scripts/generate-locations.mjs` created the pages and illustrations. Re-running it only creates missing files; `--force` overwrites everything, including CMS edits.
 
+## Blog
+
+- 118 posts in `src/content/posts/`, including 116 imported from the old WordPress site with `scripts/import-wordpress-posts.py`.
+- Every post keeps its old URL at the site root (e.g. `/how-to-remove-odours-from-carpet/`). The file name is the URL: `2023-07-10-how-to-remove-odours-from-carpet.md`.
+- The blog index is paginated, 12 posts per page (`/blog/`, `/blog/page/2/`…).
+- Old WordPress page URLs (e.g. `/professional-sofa-cleaning/`) redirect to their new pages; see `src/_data/redirects.json`.
+
 ## Images
 
 - Upload images in Pages CMS. Give each file a descriptive name **before** uploading (e.g. `sofa-cleaning-guildford-surrey.jpg`), and fill in the "Image description (alt text)" box with what is actually in the picture, plus the service and place.
