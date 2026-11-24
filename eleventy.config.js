@@ -1,5 +1,6 @@
 import { readFileSync } from "node:fs";
 import path from "node:path";
+import { createHash } from "node:crypto";
 import { EleventyHtmlBasePlugin } from "@11ty/eleventy";
 import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
 
@@ -49,7 +50,9 @@ export default function (eleventyConfig) {
   });
 
   eleventyConfig.addPassthroughCopy({ "src/assets": "assets", "src/images": "images" });
-  eleventyConfig.addGlobalData("build", { year: new Date().getFullYear() });
+  // cssVersion changes whenever styles.css changes, so browsers never use a stale copy
+  const cssVersion = createHash("md5").update(readFileSync(new URL("./src/assets/styles.css", import.meta.url))).digest("hex").slice(0, 8);
+  eleventyConfig.addGlobalData("build", { year: new Date().getFullYear(), cssVersion });
 
   // ---- Collections ----
   eleventyConfig.addCollection("services", (api) =>

@@ -9,6 +9,8 @@ layout: base.njk
       {%- if image %}<img class="hero-image" src="{{ image }}" alt="{{ imageAlt }}" loading="eager" fetchpriority="high">{% endif %}
       {{ content | safe }}
 
+      {% include "partials/slider.njk" %}
+
       {%- if faqs %}
       <h2>Carpet cleaning in {{ town }}: frequently asked questions</h2>
       <div class="faqs">

@@ -5,8 +5,8 @@ description: Careful, professional rug cleaning for wool, synthetic and delicate
 summary: Careful cleaning for wool, synthetic and delicate rugs that protects colours and fibres.
 intro: Careful cleaning that protects the colours and fibres of your rugs.
 order: 3
-image: "/images/services/professional-wool-rug-cleaning.jpg"
-imageAlt: "Illustration of a carpet cleaning machine cleaning a red patterned wool rug in front of a green sofa, captioned \"Rug Cleaning\" by Carpet Cleaning Professionals"
+image: "/images/photos/rug-cleaning-cream-carved-wool-rug-extraction.jpg"
+imageAlt: "Extraction tool cleaning a cream carved wool rug, lifting dirt from the deep pile"
 ---
 ## Rugs need specialist care
 

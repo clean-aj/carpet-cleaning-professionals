@@ -128,6 +128,21 @@ content:
       - { name: draft, label: Draft (hide from site), type: boolean, default: false }
       - { name: body, label: Content, type: rich-text }
 
+  - name: slider
+    label: Photo slider (town pages)
+    type: file
+    path: src/_data/slider.json
+    fields:
+      - { name: heading, label: Heading, type: string }
+      - name: photos
+        label: Photos
+        type: object
+        list: true
+        fields:
+          - { name: image, label: Photo, type: image }
+          - { name: alt, label: Photo description (alt text), type: text }
+          - { name: caption, label: Caption, type: string }
+
   - name: site
     label: Site settings
     type: file
