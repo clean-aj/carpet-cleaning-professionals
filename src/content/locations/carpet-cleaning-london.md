@@ -20,7 +20,7 @@ faqs:
   - question: "How quickly will my carpets dry?"
     answer: "Most carpets are dry within 2 to 4 hours, depending on your carpet type, ventilation and the weather."
 ---
-## Your London home deserves to feel like a retreat
+## Your London Home Deserves to Feel Like a Retreat
 
 You live in one of the busiest cities in the world. Every day, your carpets take in street dust, city grime and whatever your commute brings home. You deserve rooms that feel clean, calm and comfortable when you close the front door.
 
@@ -32,7 +32,7 @@ London is the capital and largest city of England and the United Kingdom. It sta
 
 For your carpets, city life means more traffic, more dust and more wear. Hallways, stairs and living rooms in London homes often need deep cleaning more often than homes elsewhere, especially in rented flats and busy family houses.
 
-## How we help you in London
+## How We Help You in London
 
 - **[Carpet cleaning](/services/carpet-cleaning/)**: brighter colours, softer fibres and fewer allergens in your flat, house or office.
 - **[Upholstery cleaning](/services/upholstery-cleaning/)**: a fresher sofa, armchair or headboard for you to relax on after a long day.
@@ -41,18 +41,18 @@ For your carpets, city life means more traffic, more dust and more wear. Hallway
 - **[End of tenancy carpet cleaning](/services/end-of-tenancy-carpet-cleaning/)**: helping London tenants protect their deposit and landlords re-let faster.
 - **[Commercial carpet cleaning](/services/commercial-carpet-cleaning/)**: cleaner offices, shops and venues, cleaned out of hours if you need it.
 
-## Areas of London we cover
+## Areas of London We Cover
 
 We cover the whole of Greater London, including [Camden](/carpet-cleaning-camden/), [Islington](/carpet-cleaning-islington/) and [Hackney](/carpet-cleaning-hackney/) in the north and east, [Kensington](/carpet-cleaning-kensington/), [Chelsea](/carpet-cleaning-chelsea/) and [Fulham](/carpet-cleaning-fulham/) in the west, and [Croydon](/carpet-cleaning-croydon/), [Wimbledon](/carpet-cleaning-wimbledon/) and [Bromley](/carpet-cleaning-bromley/) in the south.
 
-## What happens on the day
+## What Happens on the Day
 
 1. **You tell us what you need:** the rooms, the furniture and any stains that worry you.
 2. **We prepare and protect:** we check your carpet type, protect your hallways and pre-treat problem areas.
 3. **We deep clean:** hot water extraction lifts out the dirt, bacteria and allergens that vacuuming leaves behind.
 4. **You enjoy the result:** fresh, soft carpets that are usually dry within 2 to 4 hours.
 
-## Why London customers choose us
+## Why London Customers Choose Us
 
 - Booking that suits you, 7 days a week from 8am to 8pm
 - A free, fixed quote with no surprises on the day

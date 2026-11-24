@@ -66,6 +66,13 @@ content:
       - { name: summary, label: Card summary (shown in service lists), type: text }
       - { name: intro, label: Intro text, type: text }
       - { name: order, label: Order in lists, type: number }
+      - name: faqs
+        label: FAQs
+        type: object
+        list: true
+        fields:
+          - { name: question, label: Question, type: string }
+          - { name: answer, label: Answer, type: text }
       - { name: image, label: Main image (1200×630, descriptive file name), type: image }
       - { name: imageAlt, label: Image description (alt text), type: text }
       - { name: body, label: Content, type: rich-text }

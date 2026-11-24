@@ -20,7 +20,7 @@ faqs:
   - question: "How quickly will my carpets dry?"
     answer: "Most carpets are dry within 2 to 4 hours, depending on your carpet type, ventilation and the weather."
 ---
-## Your Guildford home, looking its best
+## Your Guildford Home, Looking Its Best
 
 You've made your home somewhere you love to be. You want your carpets soft underfoot, your sofa inviting and your rooms smelling fresh. Everyday life, from muddy walks to family meals, makes that harder than it should be.
 
@@ -32,7 +32,7 @@ Guildford is a historic town in Surrey, set on the River Wey at the edge of the 
 
 For your carpets, that means a mix of delicate natural fibres, hard-working family carpets and rentals that need a refresh between tenants. Each one gets a cleaning method chosen to suit it.
 
-## How we help you in Guildford
+## How We Help You in Guildford
 
 - **[Carpet cleaning](/services/carpet-cleaning/)**: brighter colours, softer fibres and fewer allergens in your home or office.
 - **[Upholstery cleaning](/services/upholstery-cleaning/)**: a fresher sofa, armchair or headboard for you to relax on.
@@ -41,18 +41,18 @@ For your carpets, that means a mix of delicate natural fibres, hard-working fami
 - **[End of tenancy carpet cleaning](/services/end-of-tenancy-carpet-cleaning/)**: helping Guildford tenants protect their deposit and landlords re-let faster.
 - **[Commercial carpet cleaning](/services/commercial-carpet-cleaning/)**: cleaner offices, shops and venues in and around the town centre.
 
-## Areas of Guildford we cover
+## Areas of Guildford We Cover
 
 We cover the whole of Guildford, including Merrow, Burpham, Stoughton and Onslow Village, plus nearby [Godalming](/carpet-cleaning-godalming/), [Woking](/carpet-cleaning-woking/) and [Farnham](/carpet-cleaning-farnham/).
 
-## What happens on the day
+## What Happens on the Day
 
 1. **You tell us what you need:** the rooms, the furniture and any stains that worry you.
 2. **We prepare and protect:** we check your carpet type, protect your skirting boards and pre-treat problem areas.
 3. **We deep clean:** hot water extraction lifts out the dirt, bacteria and allergens that vacuuming leaves behind.
 4. **You enjoy the result:** fresh, soft carpets that are usually dry within 2 to 4 hours.
 
-## Why Guildford customers choose us
+## Why Guildford Customers Choose Us
 
 - Booking that suits you, 7 days a week from 8am to 8pm
 - A free, fixed quote with no surprises on the day

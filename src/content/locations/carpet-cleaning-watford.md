@@ -18,13 +18,13 @@ faqs:
   - question: "Is the cleaning safe for my children and pets?"
     answer: "Yes. We use cleaning solutions that are safe for your children, your pets and all common carpet and fabric types."
 ---
-## Cleaner carpets for your Watford home or business
+## Cleaner Carpets for Your Watford Home or Business
 
 Whether you own your home, let a property or run a business in Watford, Hertfordshire, you want carpets that look good, smell fresh and last longer. That's exactly what our cleaning gives you.
 
 From commuter homes to local shops and offices, we look after every kind of property in Watford. Booking fits around you: early mornings, evenings and weekends are all available. Your quote is free, fixed and has no hidden extras. Your carpets are usually dry in 2 to 4 hours.
 
-## How we help you in Watford
+## How We Help You in Watford
 
 - **[Carpet cleaning](/services/carpet-cleaning/)**: brighter colours, softer fibres and fewer allergens in your home or office.
 - **[Upholstery cleaning](/services/upholstery-cleaning/)**: a fresher sofa, armchair or headboard for you to relax on.
@@ -33,14 +33,14 @@ From commuter homes to local shops and offices, we look after every kind of prop
 - **[End of tenancy carpet cleaning](/services/end-of-tenancy-carpet-cleaning/)**: helping tenants protect their deposit and landlords re-let faster in Watford.
 - **[Commercial carpet cleaning](/services/commercial-carpet-cleaning/)**: cleaner offices, shops and venues that impress your staff, customers and visitors.
 
-## What happens on the day
+## What Happens on the Day
 
 1. **You tell us what you need:** the rooms, the furniture and any stains that worry you.
 2. **We prepare and protect:** we check your carpet type, protect your skirting boards and pre-treat problem areas.
 3. **We deep clean:** hot water extraction lifts out the dirt, bacteria and allergens that vacuuming leaves behind.
 4. **You enjoy the result:** fresh, soft carpets that are usually dry within 2 to 4 hours.
 
-## Your clean, your way
+## Your Clean, Your Way
 
 - Booking that suits you, 7 days a week from 8am to 8pm
 - A free, fixed quote with no surprises on the day

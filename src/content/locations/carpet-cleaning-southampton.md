@@ -20,7 +20,7 @@ faqs:
   - question: "How quickly will my carpets dry?"
     answer: "Most carpets are dry within 2 to 4 hours, depending on your carpet type, ventilation and the weather."
 ---
-## Your Southampton home, clean and comfortable
+## Your Southampton Home, Clean and Comfortable
 
 You want a home that feels clean, calm and ready for whatever the week brings. Between work, family and everything in between, your carpets take a lot of punishment. Spills, pets and muddy boots all leave their mark.
 
@@ -32,7 +32,7 @@ Southampton is a port city in Hampshire, set where the River Test and River Itch
 
 For your carpets, that means high-traffic family homes, regular tenancy changeovers and busy commercial spaces. Each one benefits from a professional deep clean that keeps it looking good, smelling fresh and lasting longer.
 
-## How we help you in Southampton
+## How We Help You in Southampton
 
 - **[Carpet cleaning](/services/carpet-cleaning/)**: brighter colours, softer fibres and fewer allergens in your home or office.
 - **[Upholstery cleaning](/services/upholstery-cleaning/)**: a fresher sofa, armchair or headboard for you to relax on.
@@ -41,18 +41,18 @@ For your carpets, that means high-traffic family homes, regular tenancy changeov
 - **[End of tenancy carpet cleaning](/services/end-of-tenancy-carpet-cleaning/)**: helping Southampton tenants protect their deposit and landlords re-let faster.
 - **[Commercial carpet cleaning](/services/commercial-carpet-cleaning/)**: cleaner offices, shops and venues across the city.
 
-## Areas of Southampton we cover
+## Areas of Southampton We Cover
 
 We cover the whole of Southampton, including Shirley, Portswood, Bitterne, Woolston and Bassett, plus nearby [Eastleigh](/carpet-cleaning-eastleigh/), [Totton](/carpet-cleaning-totton/) and [Hedge End](/carpet-cleaning-hedge-end/).
 
-## What happens on the day
+## What Happens on the Day
 
 1. **You tell us what you need:** the rooms, the furniture and any stains that worry you.
 2. **We prepare and protect:** we check your carpet type, protect your skirting boards and pre-treat problem areas.
 3. **We deep clean:** hot water extraction lifts out the dirt, bacteria and allergens that vacuuming leaves behind.
 4. **You enjoy the result:** fresh, soft carpets that are usually dry within 2 to 4 hours.
 
-## Why Southampton customers choose us
+## Why Southampton Customers Choose Us
 
 - Booking that suits you, 7 days a week from 8am to 8pm
 - A free, fixed quote with no surprises on the day

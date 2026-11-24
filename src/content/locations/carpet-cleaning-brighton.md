@@ -20,7 +20,7 @@ faqs:
   - question: "Can I book a weekend or evening clean?"
     answer: "Yes. You can book any day of the week between 8am and 8pm."
 ---
-## Your Brighton home, as fresh as the sea air
+## Your Brighton Home, as Fresh as the Sea Air
 
 You live by the sea, and your home shows it. Sand from the beach, salt from the air and life in a busy city all end up in your carpets. You deserve rooms that feel clean, bright and relaxing, whether you're at home, letting to students or welcoming holiday guests.
 
@@ -32,7 +32,7 @@ Brighton is a seaside city on the south coast of England and, together with Hove
 
 For your carpets, coastal living means fine sand, salty air and busy rental turnovers. A professional deep clean protects your carpets, impresses your guests and helps your tenants leave on good terms.
 
-## How we help you in Brighton
+## How We Help You in Brighton
 
 - **[Carpet cleaning](/services/carpet-cleaning/)**: brighter colours, softer fibres and fewer allergens in your home or holiday let.
 - **[Upholstery cleaning](/services/upholstery-cleaning/)**: a fresher sofa, armchair or headboard for you and your guests.
@@ -41,18 +41,18 @@ For your carpets, coastal living means fine sand, salty air and busy rental turn
 - **[End of tenancy carpet cleaning](/services/end-of-tenancy-carpet-cleaning/)**: helping Brighton students and tenants protect their deposit and landlords re-let faster.
 - **[Commercial carpet cleaning](/services/commercial-carpet-cleaning/)**: cleaner offices, shops, hotels and venues.
 
-## Areas of Brighton we cover
+## Areas of Brighton We Cover
 
 We cover the whole of Brighton and Hove, including Kemptown, Hanover, Preston Park, Patcham and Rottingdean, plus [Hove](/carpet-cleaning-hove/), [Worthing](/carpet-cleaning-worthing/) and [Eastbourne](/carpet-cleaning-eastbourne/).
 
-## What happens on the day
+## What Happens on the Day
 
 1. **You tell us what you need:** the rooms, the furniture and any stains that worry you.
 2. **We prepare and protect:** we check your carpet type, protect your skirting boards and pre-treat problem areas.
 3. **We deep clean:** hot water extraction lifts out the sand, dirt and allergens that vacuuming leaves behind.
 4. **You enjoy the result:** fresh, soft carpets that are usually dry within 2 to 4 hours.
 
-## Why Brighton customers choose us
+## Why Brighton Customers Choose Us
 
 - Booking that suits you, 7 days a week from 8am to 8pm
 - A free, fixed quote with no surprises on the day

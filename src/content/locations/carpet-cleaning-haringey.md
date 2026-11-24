@@ -18,13 +18,13 @@ faqs:
   - question: "Is the cleaning safe for my children and pets?"
     answer: "Yes. We use cleaning solutions that are safe for your children, your pets and all common carpet and fabric types."
 ---
-## Cleaner carpets for your Haringey home or business
+## Cleaner Carpets for Your Haringey Home or Business
 
 Your home should feel clean, fresh and comfortable. In Haringey, we help you get there with deep carpet, rug and upholstery cleaning that fits around your day, your family and your budget.
 
 From flats and period terraces to offices and rental properties, we look after every kind of property in Haringey. Booking fits around you: early mornings, evenings and weekends are all available. Your quote is free, fixed and has no hidden extras. Your carpets are usually dry in 2 to 4 hours.
 
-## How we help you in Haringey
+## How We Help You in Haringey
 
 - **[Carpet cleaning](/services/carpet-cleaning/)**: brighter colours, softer fibres and fewer allergens in your home or office.
 - **[Upholstery cleaning](/services/upholstery-cleaning/)**: a fresher sofa, armchair or headboard for you to relax on.
@@ -33,14 +33,14 @@ From flats and period terraces to offices and rental properties, we look after e
 - **[End of tenancy carpet cleaning](/services/end-of-tenancy-carpet-cleaning/)**: helping tenants protect their deposit and landlords re-let faster in Haringey.
 - **[Commercial carpet cleaning](/services/commercial-carpet-cleaning/)**: cleaner offices, shops and venues that impress your staff, customers and visitors.
 
-## What happens on the day
+## What Happens on the Day
 
 1. **You tell us what you need:** the rooms, the furniture and any stains that worry you.
 2. **We prepare and protect:** we check your carpet type, protect your skirting boards and pre-treat problem areas.
 3. **We deep clean:** hot water extraction lifts out the dirt, bacteria and allergens that vacuuming leaves behind.
 4. **You enjoy the result:** fresh, soft carpets that are usually dry within 2 to 4 hours.
 
-## Your clean, your way
+## Your Clean, Your Way
 
 - Booking that suits you, 7 days a week from 8am to 8pm
 - A free, fixed quote with no surprises on the day

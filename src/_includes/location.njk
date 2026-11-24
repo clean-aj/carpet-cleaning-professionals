@@ -12,7 +12,7 @@ layout: base.njk
       {% include "partials/slider.njk" %}
 
       {%- if faqs %}
-      <h2>Carpet cleaning in {{ town }}: frequently asked questions</h2>
+      <h2>{{ title }}: Frequently Asked Questions</h2>
       <div class="faqs">
         {%- for f in faqs %}
         <details>
@@ -25,21 +25,21 @@ layout: base.njk
 
       {%- set nearby = collections.locations | inRegion(region, page.url) %}
       {%- if nearby.length %}
-      <h2>We also cover these areas in {{ region }}</h2>
+      <h2>We Also Cover These Areas in {{ region }}</h2>
       {{ townLinks(nearby, 8, "More locations in " ~ region) }}
       {%- endif %}
     </article>
     <aside class="sidebar">
       <div class="card quote-card">
         {%- if site.technicianPhoto %}<img class="quote-photo" src="{{ site.technicianPhoto }}" alt="{{ site.technicianPhotoAlt }}" sizes="320px">{% endif %}
-        <h2>Free quote in {{ town }}</h2>
+        <h2>Free Quote in {{ town }}</h2>
         <p>Tell us what needs cleaning and we'll give you a clear, fixed price.</p>
         {%- if site.phone %}<p><a class="btn btn-block" href="{{ site.phone | telLink }}">Call {{ site.phone }}</a></p>{% endif %}
         <p><a class="btn btn-outline btn-block" href="/contact/">Send an enquiry</a></p>
         {%- if site.openingHoursText %}<p class="meta">{{ site.openingHoursText }}</p>{% endif %}
       </div>
       <div class="card">
-        <h2>Our services</h2>
+        <h2>Our Services</h2>
         <ul class="plain">
           {%- for s in collections.services %}<li><a href="{{ s.url }}">{{ s.data.title }}</a></li>{% endfor %}
         </ul>

@@ -20,7 +20,7 @@ faqs:
   - question: "Can I book a weekend or evening clean?"
     answer: "Yes. You can book any day of the week between 8am and 8pm."
 ---
-## Your Chichester home, cared for by local cleaners
+## Your Chichester Home, Cared for by Local Cleaners
 
 You want a home that feels clean, welcoming and comfortable, from the hallway to the bedroom. Country walks, harbour days and family life all leave their mark on your carpets. You deserve a cleaning team that's close by, easy to book and careful in your home.
 
@@ -32,7 +32,7 @@ Chichester is a cathedral city and the county town of West Sussex. It is known f
 
 For your carpets, that means delicate natural fibres, muddy boots from the Downs and sand from the coast. Each one gets a cleaning method chosen to suit it.
 
-## How we help you in Chichester
+## How We Help You in Chichester
 
 - **[Carpet cleaning](/services/carpet-cleaning/)**: brighter colours, softer fibres and fewer allergens in your home or office.
 - **[Upholstery cleaning](/services/upholstery-cleaning/)**: a fresher sofa, armchair or headboard for you to relax on.
@@ -41,18 +41,18 @@ For your carpets, that means delicate natural fibres, muddy boots from the Downs
 - **[End of tenancy carpet cleaning](/services/end-of-tenancy-carpet-cleaning/)**: helping Chichester tenants protect their deposit and landlords re-let faster.
 - **[Commercial carpet cleaning](/services/commercial-carpet-cleaning/)**: cleaner offices, shops and venues across the city.
 
-## Areas of Chichester we cover
+## Areas of Chichester We Cover
 
 We cover the whole of Chichester and the surrounding villages, including Fishbourne, Bosham, Tangmere and Selsey, plus nearby [Bognor Regis](/carpet-cleaning-bognor-regis/), [Arundel](/carpet-cleaning-arundel/) and [Worthing](/carpet-cleaning-worthing/).
 
-## What happens on the day
+## What Happens on the Day
 
 1. **You tell us what you need:** the rooms, the furniture and any stains that worry you.
 2. **We prepare and protect:** we check your carpet type, protect your skirting boards and pre-treat problem areas.
 3. **We deep clean:** hot water extraction lifts out the dirt, bacteria and allergens that vacuuming leaves behind.
 4. **You enjoy the result:** fresh, soft carpets that are usually dry within 2 to 4 hours.
 
-## Why Chichester customers choose us
+## Why Chichester Customers Choose Us
 
 - Booking that suits you, 7 days a week from 8am to 8pm
 - A free, fixed quote with no surprises on the day

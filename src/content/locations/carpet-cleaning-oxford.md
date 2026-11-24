@@ -20,7 +20,7 @@ faqs:
   - question: "Can I book a weekend or evening clean?"
     answer: "Yes. You can book any day of the week between 8am and 8pm."
 ---
-## Your Oxford home, fresh and inviting
+## Your Oxford Home, Fresh and Inviting
 
 You want your home to feel calm, clean and comfortable, whether it's a period house, a modern flat or a busy student let. Everyday life, from muddy bikes to spilled coffee, makes that harder than it should be. You deserve carpets that look as good as the day they were fitted.
 
@@ -32,7 +32,7 @@ Oxford is a city in Oxfordshire, famous as home to the University of Oxford, the
 
 For your carpets, that means delicate period fibres, hard-working family carpets and frequent tenancy changeovers. Each one gets a cleaning method chosen to suit it.
 
-## How we help you in Oxford
+## How We Help You in Oxford
 
 - **[Carpet cleaning](/services/carpet-cleaning/)**: brighter colours, softer fibres and fewer allergens in your home or office.
 - **[Upholstery cleaning](/services/upholstery-cleaning/)**: a fresher sofa, armchair or headboard for you to relax on.
@@ -41,18 +41,18 @@ For your carpets, that means delicate period fibres, hard-working family carpets
 - **[End of tenancy carpet cleaning](/services/end-of-tenancy-carpet-cleaning/)**: helping Oxford tenants protect their deposit and landlords re-let faster.
 - **[Commercial carpet cleaning](/services/commercial-carpet-cleaning/)**: cleaner offices, shops and venues across the city.
 
-## Areas of Oxford we cover
+## Areas of Oxford We Cover
 
 We cover the whole of Oxford, including Headington, Summertown, Jericho, Cowley and Botley, plus nearby [Abingdon](/carpet-cleaning-abingdon/) and [Henley-on-Thames](/carpet-cleaning-henley/).
 
-## What happens on the day
+## What Happens on the Day
 
 1. **You tell us what you need:** the rooms, the furniture and any stains that worry you.
 2. **We prepare and protect:** we check your carpet type, protect your skirting boards and pre-treat problem areas.
 3. **We deep clean:** hot water extraction lifts out the dirt, bacteria and allergens that vacuuming leaves behind.
 4. **You enjoy the result:** fresh, soft carpets that are usually dry within 2 to 4 hours.
 
-## Why Oxford customers choose us
+## Why Oxford Customers Choose Us
 
 - Booking that suits you, 7 days a week from 8am to 8pm
 - A free, fixed quote with no surprises on the day

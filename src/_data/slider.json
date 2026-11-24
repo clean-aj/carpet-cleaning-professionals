@@ -1,10 +1,25 @@
 {
-  "heading": "See our work",
+  "heading": "See Our Work",
   "photos": [
     {
       "image": "/images/photos/home-cinema-room-carpet-cleaning-after.jpg",
       "alt": "Freshly cleaned beige carpet in a home cinema room, showing even cleaning lines across the floor beside a cream leather corner sofa, after a clean by Carpet Cleaning Professionals",
       "caption": "Home cinema carpet, freshly cleaned"
+    },
+    {
+      "image": "/images/photos/red-living-room-carpet-cleaned-landscape.jpg",
+      "alt": "Freshly cleaned terracotta red carpet in a living room with a wood-burning stove and leather armchair, showing even cleaning lines after a clean by Carpet Cleaning Professionals",
+      "caption": "Living room carpet, freshly cleaned"
+    },
+    {
+      "image": "/images/photos/stair-carpet-cleaning-before-and-after.jpg",
+      "alt": "Before and after stair carpet cleaning by Carpet Cleaning Professionals: grey stair carpet stained and dirty on the left, clean and bright on the right",
+      "caption": "Stair carpet, before and after"
+    },
+    {
+      "image": "/images/photos/recliner-chair-upholstery-stain-removal-before-and-after.jpg",
+      "alt": "Before and after upholstery cleaning on a cream fabric recliner chair: brown stains on the seat and arm on the left, removed on the right, by Carpet Cleaning Professionals",
+      "caption": "Recliner chair, before and after"
     },
     {
       "image": "/images/photos/hallway-carpet-cleaning-before-and-after-landscape.jpg",
@@ -55,6 +70,21 @@
       "image": "/images/photos/vacuuming-green-velvet-sofa-upholstery-brush.jpg",
       "alt": "Upholstery brush attachment vacuuming a dark green buttoned velvet sofa",
       "caption": "Gentle care for velvet"
+    },
+    {
+      "image": "/images/photos/hot-water-extraction-white-shaggy-carpet.jpg",
+      "alt": "Hot water extraction wand cleaning a white shaggy carpet, leaving a clean stripe, with a yellow carpet cleaning machine in the background",
+      "caption": "Deep clean for a shaggy carpet"
+    },
+    {
+      "image": "/images/photos/carpet-cleaning-wand-clean-stripe-beige-carpet.jpg",
+      "alt": "Carpet cleaning wand leaving a visibly cleaner stripe on a beige carpet, operated by a technician in grey trousers and safety boots",
+      "caption": "Every pass lifts the dirt"
+    },
+    {
+      "image": "/images/photos/puppy-pet-stain-on-cream-rug.jpg",
+      "alt": "Puppy sitting on a cream shaggy rug next to a wet pet stain in a bright living room",
+      "caption": "Pet stains and odours removed"
     },
     {
       "image": "/images/team/carpet-cleaning-technician-with-equipment-and-van.jpg",

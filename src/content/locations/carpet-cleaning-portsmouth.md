@@ -20,7 +20,7 @@ faqs:
   - question: "How quickly will my carpets dry?"
     answer: "Most carpets are dry within 2 to 4 hours, depending on your carpet type, ventilation and the weather."
 ---
-## Your Portsmouth home, shipshape and fresh
+## Your Portsmouth Home, Shipshape and Fresh
 
 You want a home that's clean, comfortable and ready for whatever life throws at it. Sand from Southsea beach, rain from the Solent and the everyday rush of family life all end up in your carpets. You deserve rooms that feel fresh again.
 
@@ -32,7 +32,7 @@ Portsmouth is a port city in Hampshire, built largely on Portsea Island. It is h
 
 For your carpets, island life means sand, sea air and busy, tightly packed homes. A professional deep clean keeps them looking good, smelling fresh and lasting longer.
 
-## How we help you in Portsmouth
+## How We Help You in Portsmouth
 
 - **[Carpet cleaning](/services/carpet-cleaning/)**: brighter colours, softer fibres and fewer allergens in your home or office.
 - **[Upholstery cleaning](/services/upholstery-cleaning/)**: a fresher sofa, armchair or headboard for you to relax on.
@@ -41,18 +41,18 @@ For your carpets, island life means sand, sea air and busy, tightly packed homes
 - **[End of tenancy carpet cleaning](/services/end-of-tenancy-carpet-cleaning/)**: helping Portsmouth tenants protect their deposit and landlords re-let faster.
 - **[Commercial carpet cleaning](/services/commercial-carpet-cleaning/)**: cleaner offices, shops and venues across the city.
 
-## Areas of Portsmouth we cover
+## Areas of Portsmouth We Cover
 
 We cover the whole of Portsmouth, including Southsea, Fratton, North End, Cosham and Copnor, plus nearby [Fareham](/carpet-cleaning-fareham/), [Gosport](/carpet-cleaning-gosport/), [Havant](/carpet-cleaning-havant/) and [Waterlooville](/carpet-cleaning-waterlooville/).
 
-## What happens on the day
+## What Happens on the Day
 
 1. **You tell us what you need:** the rooms, the furniture and any stains that worry you.
 2. **We prepare and protect:** we check your carpet type, protect your skirting boards and pre-treat problem areas.
 3. **We deep clean:** hot water extraction lifts out the sand, dirt and allergens that vacuuming leaves behind.
 4. **You enjoy the result:** fresh, soft carpets that are usually dry within 2 to 4 hours.
 
-## Why Portsmouth customers choose us
+## Why Portsmouth Customers Choose Us
 
 - Booking that suits you, 7 days a week from 8am to 8pm
 - A free, fixed quote with no surprises on the day

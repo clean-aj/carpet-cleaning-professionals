@@ -124,14 +124,14 @@ function locationMarkdown(l) {
     `Booking fits around you: early mornings, evenings and weekends are all available. Your quote is free, fixed and has no hidden extras. Your carpets are usually dry in 2 to 4 hours.`,
     `We arrive when it suits you, protect your home while we work, and leave your rooms the way you like them. All you have to do is enjoy the difference.`,
   ], T, "b");
-  const why = pick([`Why ${T} customers choose us`, `What you can expect in ${T}`, `Your clean, your way`], T, "c");
-  return `## Cleaner carpets for your ${T} home or business
+  const why = pick([`Why ${T} Customers Choose Us`, `What You Can Expect in ${T}`, `Your Clean, Your Way`], T, "c");
+  return `## Cleaner Carpets for Your ${T} Home or Business
 
 ${intro}
 
 ${B.replace(/^cleaning everything from /, "From ")}, we look after every kind of property in ${T}. ${second}
 
-## How we help you in ${T}
+## How We Help You in ${T}
 
 - **[Carpet cleaning](/services/carpet-cleaning/)**: brighter colours, softer fibres and fewer allergens in your home or office.
 - **[Upholstery cleaning](/services/upholstery-cleaning/)**: a fresher sofa, armchair or headboard for you to relax on.
@@ -140,7 +140,7 @@ ${B.replace(/^cleaning everything from /, "From ")}, we look after every kind of
 - **[End of tenancy carpet cleaning](/services/end-of-tenancy-carpet-cleaning/)**: helping tenants protect their deposit and landlords re-let faster in ${T}.
 - **[Commercial carpet cleaning](/services/commercial-carpet-cleaning/)**: cleaner offices, shops and venues that impress your staff, customers and visitors.
 
-## What happens on the day
+## What Happens on the Day
 
 1. **You tell us what you need:** the rooms, the furniture and any stains that worry you.
 2. **We prepare and protect:** we check your carpet type, protect your skirting boards and pre-treat problem areas.

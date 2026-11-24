@@ -25,7 +25,7 @@ layout: base.njk
 
 <section class="section section-alt">
   <div class="container">
-    <h2 class="section-title">Our services</h2>
+    <h2 class="section-title">Our Services</h2>
     {% include "partials/service-grid.njk" %}
   </div>
 </section>
@@ -35,7 +35,7 @@ layout: base.njk
   <div class="container team-grid">
     <img class="team-photo" src="{{ site.teamPhoto }}" alt="{{ site.teamPhotoAlt }}" sizes="(min-width: 900px) 620px, 100vw">
     <div>
-      <h2>Meet the team who'll look after your home</h2>
+      <h2>Meet the Team Who'll Look After Your Home</h2>
       <p>You want people you can trust in your home. Our technicians are friendly, uniformed and fully equipped, and they treat your home with the same care as their own.</p>
       <p>They arrive on time, protect your floors and furniture, and leave your rooms clean, fresh and tidy.</p>
       <p><a class="btn" href="/about/">About us</a> <a class="btn btn-outline" href="/contact/">Get a free quote</a></p>
@@ -47,7 +47,7 @@ layout: base.njk
 {%- if gallery %}
 <section class="section section-alt">
   <div class="container">
-    <h2 class="section-title">See the difference</h2>
+    <h2 class="section-title">See the Difference</h2>
     <ul class="gallery">
       {%- for g in gallery %}
       <li>
@@ -65,7 +65,7 @@ layout: base.njk
 {%- if features %}
 <section class="section">
   <div class="container">
-    <h2 class="section-title">{{ featuresHeading or "Why choose us" }}</h2>
+    <h2 class="section-title">{{ featuresHeading or "Why Choose Us" }}</h2>
     <ul class="feature-grid">
       {%- for f in features %}
       <li><h3>{{ f.title }}</h3><p>{{ f.text }}</p></li>
@@ -78,7 +78,7 @@ layout: base.njk
 {%- if collections.locations.length %}
 <section class="section">
   <div class="container">
-    <h2 class="section-title">Areas we cover</h2>
+    <h2 class="section-title">Areas We Cover</h2>
     <ul class="region-pills">
       {%- for g in collections.locations | groupByRegion %}<li><a href="/areas/#{{ g.slug }}">{{ g.region }}</a></li>{% endfor %}
     </ul>
@@ -90,7 +90,7 @@ layout: base.njk
 {%- if collections.posts.length %}
 <section class="section section-alt">
   <div class="container">
-    <h2 class="section-title">Cleaning tips &amp; advice</h2>
+    <h2 class="section-title">Cleaning Tips &amp; Advice</h2>
     {%- set postLimit = 3 %}
     {% include "partials/post-list.njk" %}
     <p><a href="/blog/">Read all articles →</a></p>

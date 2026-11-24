@@ -1,7 +1,7 @@
 <div class="contact-grid">
   <div class="contact-details card quote-card">
         {%- if site.technicianPhoto %}<img class="quote-photo" src="{{ site.technicianPhoto }}" alt="{{ site.technicianPhotoAlt }}" sizes="(min-width: 700px) 540px, 100vw">{% endif %}
-    <h2>Get in touch</h2>
+    <h2>Get in Touch</h2>
     <ul class="plain">
       {%- if site.phone %}<li><strong>Phone:</strong> <a href="{{ site.phone | telLink }}">{{ site.phone }}</a></li>{% endif %}
       {%- if site.email %}<li><strong>Email:</strong> <a href="mailto:{{ site.email }}">{{ site.email }}</a></li>{% endif %}
@@ -11,7 +11,7 @@
   </div>
   {%- if site.formAction %}
   <form class="contact-form card" action="{{ site.formAction }}" method="POST">
-    <h2>Request a quote</h2>
+    <h2>Request a Quote</h2>
     <label>Name <input name="name" autocomplete="name" required></label>
     <label>Email <input type="email" name="email" autocomplete="email" required></label>
     <label>Phone <input type="tel" name="phone" autocomplete="tel"></label>

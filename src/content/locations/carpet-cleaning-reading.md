@@ -20,7 +20,7 @@ faqs:
   - question: "How quickly will my carpets dry?"
     answer: "Most carpets are dry within 2 to 4 hours, depending on your carpet type, ventilation and the weather."
 ---
-## Your Reading home, cleaner and fresher
+## Your Reading Home, Cleaner and Fresher
 
 You juggle work, family and the commute, and your carpets feel every bit of it. Muddy shoes, spilled drinks and busy pets all leave their mark. You deserve a home that feels clean, fresh and welcoming without you lifting a finger.
 
@@ -32,7 +32,7 @@ Reading is a large town in Berkshire, sitting where the River Kennet meets the R
 
 For your carpets, that mix means busy hallways, well-used living rooms and regular tenancy changeovers. A professional deep clean keeps them looking good, smelling fresh and lasting longer.
 
-## How we help you in Reading
+## How We Help You in Reading
 
 - **[Carpet cleaning](/services/carpet-cleaning/)**: brighter colours, softer fibres and fewer allergens in your home or office.
 - **[Upholstery cleaning](/services/upholstery-cleaning/)**: a fresher sofa, armchair or headboard for you to relax on.
@@ -41,18 +41,18 @@ For your carpets, that mix means busy hallways, well-used living rooms and regul
 - **[End of tenancy carpet cleaning](/services/end-of-tenancy-carpet-cleaning/)**: helping Reading tenants protect their deposit and landlords re-let faster.
 - **[Commercial carpet cleaning](/services/commercial-carpet-cleaning/)**: cleaner offices and business parks along the M4 corridor.
 
-## Areas of Reading we cover
+## Areas of Reading We Cover
 
 We cover the whole of Reading, including Caversham, Tilehurst, Earley, Woodley, Calcot and Emmer Green, plus nearby [Wokingham](/carpet-cleaning-wokingham/), [Bracknell](/carpet-cleaning-bracknell/) and [Newbury](/carpet-cleaning-newbury/).
 
-## What happens on the day
+## What Happens on the Day
 
 1. **You tell us what you need:** the rooms, the furniture and any stains that worry you.
 2. **We prepare and protect:** we check your carpet type, protect your skirting boards and pre-treat problem areas.
 3. **We deep clean:** hot water extraction lifts out the dirt, bacteria and allergens that vacuuming leaves behind.
 4. **You enjoy the result:** fresh, soft carpets that are usually dry within 2 to 4 hours.
 
-## Why Reading customers choose us
+## Why Reading Customers Choose Us
 
 - Booking that suits you, 7 days a week from 8am to 8pm
 - A free, fixed quote with no surprises on the day

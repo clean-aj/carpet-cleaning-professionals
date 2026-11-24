@@ -36,6 +36,16 @@ npm run build    # builds the site into _site/
 - At build time every image is resized to 400/800/1200px and converted to WebP + JPEG, keeping its descriptive name (e.g. `carpet-cleaning-reading-berkshire-800w.webp`), with width/height and lazy loading added automatically.
 - The current images are branded illustrations. Real photos of the team at work will perform better for both SEO and enquiries.
 
+## Title case
+
+All titles and headings use title case: first and last words capitalised, important words capitalised, short words (a, an, the, and, of, in, for…) lowercase, and the first word after a colon capitalised. After editing lots of content, run:
+
+```bash
+python3 scripts/titlecase.py
+```
+
+It fixes `title`, `metaTitle`, `heading` and `##` headings in every Markdown file.
+
 ## SEO features
 
 - An SEO title and meta description for every page, editable in the CMS

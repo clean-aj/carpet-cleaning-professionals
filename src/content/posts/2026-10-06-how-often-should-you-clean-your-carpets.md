@@ -7,7 +7,7 @@ imageAlt: "Freshly cleaned beige carpet in a home cinema room, showing even clea
 ---
 Regular vacuuming keeps surface dirt under control, but it can't reach the fine grit and allergens that settle deep in the pile. So how often should you book a professional clean?
 
-## A simple guide
+## A Simple Guide
 
 - **Light use (adults only, no pets):** every 12 to 18 months
 - **Family homes with children:** every 6 to 12 months
@@ -15,13 +15,13 @@ Regular vacuuming keeps surface dirt under control, but it can't reach the fine 
 - **Allergy sufferers:** every 3 to 6 months
 - **Busy commercial areas:** every 3 to 6 months, with spot cleaning in between
 
-## Signs your carpet needs cleaning now
+## Signs Your Carpet Needs Cleaning Now
 
 - Traffic lanes in hallways and doorways
 - Lingering odours, especially after the heating comes on
 - Colours looking dull or patchy
 - Allergy symptoms that get worse indoors
 
-## Get more from every clean
+## Get More from Every Clean
 
 Vacuum high-traffic areas at least twice a week, use doormats at every entrance, and deal with spills straight away. Your carpets will stay cleaner for longer between professional cleans.

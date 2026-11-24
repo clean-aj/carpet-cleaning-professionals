@@ -20,7 +20,7 @@ faqs:
   - question: "Can I book a weekend or evening clean?"
     answer: "Yes. You can book any day of the week between 8am and 8pm."
 ---
-## Your Bournemouth home, beach-fresh all year
+## Your Bournemouth Home, Beach-Fresh All Year
 
 You live close to some of the best beaches in the country, and your carpets know it. Sand, sun cream and seaside days all find their way indoors. You deserve a home that feels clean, light and relaxing, whether it's your family home, a rental or a holiday let.
 
@@ -32,7 +32,7 @@ Bournemouth is a coastal town in Dorset, known for its long sandy beaches, its p
 
 For your carpets, coastal living means sand, busy summers and quick turnarounds between guests. A professional deep clean keeps them looking good, smelling fresh and ready for the next visitor.
 
-## How we help you in Bournemouth
+## How We Help You in Bournemouth
 
 - **[Carpet cleaning](/services/carpet-cleaning/)**: brighter colours, softer fibres and fewer allergens in your home or holiday let.
 - **[Upholstery cleaning](/services/upholstery-cleaning/)**: a fresher sofa, armchair or headboard for you and your guests.
@@ -41,18 +41,18 @@ For your carpets, coastal living means sand, busy summers and quick turnarounds 
 - **[End of tenancy carpet cleaning](/services/end-of-tenancy-carpet-cleaning/)**: helping Bournemouth tenants protect their deposit and landlords re-let faster.
 - **[Commercial carpet cleaning](/services/commercial-carpet-cleaning/)**: cleaner hotels, offices, shops and venues.
 
-## Areas of Bournemouth we cover
+## Areas of Bournemouth We Cover
 
 We cover the whole of Bournemouth, including Boscombe, Southbourne, Westbourne, Winton and Charminster, plus nearby [Poole](/carpet-cleaning-poole/), [Christchurch](/carpet-cleaning-christchurch/) and [Ringwood](/carpet-cleaning-ringwood/).
 
-## What happens on the day
+## What Happens on the Day
 
 1. **You tell us what you need:** the rooms, the furniture and any stains that worry you.
 2. **We prepare and protect:** we check your carpet type, protect your skirting boards and pre-treat problem areas.
 3. **We deep clean:** hot water extraction lifts out the sand, dirt and allergens that vacuuming leaves behind.
 4. **You enjoy the result:** fresh, soft carpets that are usually dry within 2 to 4 hours.
 
-## Why Bournemouth customers choose us
+## Why Bournemouth Customers Choose Us
 
 - Booking that suits you, 7 days a week from 8am to 8pm
 - A free, fixed quote with no surprises on the day

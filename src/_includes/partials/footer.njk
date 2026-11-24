@@ -22,7 +22,7 @@
     </div>
     {%- if collections.locations.length %}
     <div>
-      <p class="footer-heading">Areas we cover</p>
+      <p class="footer-heading">Areas We Cover</p>
       <ul class="plain">
         {%- for g in collections.locations | groupByRegion %}<li><a href="/areas/#{{ g.slug }}">{{ g.region }}</a></li>{% endfor %}
       </ul>
