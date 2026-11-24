@@ -1,0 +1,16 @@
+{
+  "name": "carpet-cleaning-professionals",
+  "version": "1.0.0",
+  "description": "Carpet Cleaning Professionals website (Eleventy + Pages CMS)",
+  "scripts": {
+    "build": "eleventy",
+    "start": "eleventy --serve"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.8"
+  },
+  "type": "module"
+}

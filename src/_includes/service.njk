@@ -1,0 +1,24 @@
+---
+layout: base.njk
+---
+{% include "partials/page-hero.njk" %}
+<section class="section">
+  <div class="container with-sidebar">
+    <article class="prose">{{ content | safe }}</article>
+    <aside class="sidebar">
+      <div class="card">
+        <h2>Get a free quote</h2>
+        <p>Tell us what needs cleaning and we'll give you a clear, fixed price.</p>
+        {%- if site.phone %}<p><a class="btn btn-block" href="{{ site.phone | telLink }}">Call {{ site.phone }}</a></p>{% endif %}
+        <p><a class="btn btn-outline btn-block" href="/contact/">Send an enquiry</a></p>
+      </div>
+      <div class="card">
+        <h2>Other services</h2>
+        <ul class="plain">
+          {%- for s in collections.services %}{% if s.url != page.url %}<li><a href="{{ s.url }}">{{ s.data.title }}</a></li>{% endif %}{% endfor %}
+        </ul>
+      </div>
+    </aside>
+  </div>
+</section>
+{% include "partials/cta.njk" %}

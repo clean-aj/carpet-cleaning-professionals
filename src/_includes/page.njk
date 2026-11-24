@@ -1,0 +1,67 @@
+---
+layout: base.njk
+---
+{%- set slug = page.fileSlug %}
+{%- if slug == "home" %}
+<section class="hero">
+  <div class="container hero-inner">
+    <h1>{{ heading or title }}</h1>
+    {%- if intro %}<p class="lead">{{ intro }}</p>{% endif %}
+    <div class="hero-actions">
+      <a class="btn" href="/contact/">Get a free quote</a>
+      {%- if site.phone %}<a class="btn btn-outline" href="{{ site.phone | telLink }}">Call {{ site.phone }}</a>{% endif %}
+    </div>
+    {%- if highlights %}
+    <ul class="highlights">
+      {%- for h in highlights %}<li>{{ h }}</li>{% endfor %}
+    </ul>
+    {%- endif %}
+  </div>
+</section>
+
+<section class="section">
+  <div class="container prose">{{ content | safe }}</div>
+</section>
+
+<section class="section section-alt">
+  <div class="container">
+    <h2 class="section-title">Our services</h2>
+    {% include "partials/service-grid.njk" %}
+  </div>
+</section>
+
+{%- if features %}
+<section class="section">
+  <div class="container">
+    <h2 class="section-title">{{ featuresHeading or "Why choose us" }}</h2>
+    <ul class="feature-grid">
+      {%- for f in features %}
+      <li><h3>{{ f.title }}</h3><p>{{ f.text }}</p></li>
+      {%- endfor %}
+    </ul>
+  </div>
+</section>
+{%- endif %}
+
+{%- if collections.posts.length %}
+<section class="section section-alt">
+  <div class="container">
+    <h2 class="section-title">Cleaning tips &amp; advice</h2>
+    {%- set postLimit = 3 %}
+    {% include "partials/post-list.njk" %}
+    <p><a href="/blog/">Read all articles →</a></p>
+  </div>
+</section>
+{%- endif %}
+{% include "partials/cta.njk" %}
+
+{%- else %}
+{% include "partials/page-hero.njk" %}
+<section class="section">
+  <div class="container prose">{{ content | safe }}</div>
+  {%- if slug == "services" %}<div class="container">{% include "partials/service-grid.njk" %}</div>{% endif %}
+  {%- if slug == "blog" %}<div class="container">{% include "partials/post-list.njk" %}</div>{% endif %}
+  {%- if slug == "contact" %}<div class="container">{% include "partials/contact.njk" %}</div>{% endif %}
+</section>
+{%- if slug != "contact" %}{% include "partials/cta.njk" %}{% endif %}
+{%- endif %}

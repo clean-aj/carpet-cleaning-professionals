@@ -1,0 +1,32 @@
+<footer class="site-footer">
+  <div class="container footer-grid">
+    <div>
+      <p class="footer-name">{{ site.name }}</p>
+      <p>{{ site.tagline }}</p>
+    </div>
+    <div>
+      <p class="footer-heading">Contact</p>
+      <ul class="plain">
+        {%- if site.phone %}<li><a href="{{ site.phone | telLink }}">{{ site.phone }}</a></li>{% endif %}
+        {%- if site.email %}<li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>{% endif %}
+        {%- if site.openingHoursText %}<li>{{ site.openingHoursText }}</li>{% endif %}
+        {%- if site.address.street %}<li>{{ site.address.street }}, {{ site.address.town }} {{ site.address.postcode }}</li>{% endif %}
+      </ul>
+    </div>
+    <div>
+      <p class="footer-heading">Services</p>
+      <ul class="plain">
+        {%- for s in collections.services %}<li><a href="{{ s.url }}">{{ s.data.title }}</a></li>{% endfor %}
+      </ul>
+    </div>
+    {%- if site.areasServed.length %}
+    <div>
+      <p class="footer-heading">Areas we cover</p>
+      <p>{{ site.areasServed | join(", ") }}</p>
+    </div>
+    {%- endif %}
+  </div>
+  <div class="container footer-bottom">
+    <p>&copy; {{ build.year }} {{ site.name }}. All rights reserved.</p>
+  </div>
+</footer>

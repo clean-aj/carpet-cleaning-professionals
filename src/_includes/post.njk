@@ -1,0 +1,12 @@
+---
+layout: base.njk
+---
+{% include "partials/page-hero.njk" %}
+<section class="section">
+  <article class="container prose">
+    {%- if image %}<img class="post-image" src="{{ image }}" alt="{{ imageAlt or title }}">{% endif %}
+    {{ content | safe }}
+    <p class="back"><a href="/blog/">← Back to all articles</a></p>
+  </article>
+</section>
+{% include "partials/cta.njk" %}

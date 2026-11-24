@@ -1,0 +1,9 @@
+<ul class="card-grid">
+  {%- for s in collections.services %}
+  <li class="card">
+    <h3><a href="{{ s.url }}">{{ s.data.title }}</a></h3>
+    <p>{{ s.data.summary or s.data.description }}</p>
+    <a class="card-link" href="{{ s.url }}" aria-label="More about {{ s.data.title }}">Find out more →</a>
+  </li>
+  {%- endfor %}
+</ul>

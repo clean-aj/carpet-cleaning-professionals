@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {%- set fullTitle = metaTitle or (title ~ " | " ~ site.name) %}
+  {%- set metaDescription = description or site.defaultDescription %}
+  {%- set canonical = page.url | absoluteUrl %}
+  <title>{{ fullTitle }}</title>
+  <meta name="description" content="{{ metaDescription }}">
+  <link rel="canonical" href="{{ canonical }}">
+  {%- if noindex %}<meta name="robots" content="noindex">{% endif %}
+  <meta property="og:type" content="{{ 'article' if pageType == 'post' else 'website' }}">
+  <meta property="og:site_name" content="{{ site.name }}">
+  <meta property="og:locale" content="en_GB">
+  <meta property="og:title" content="{{ fullTitle }}">
+  <meta property="og:description" content="{{ metaDescription }}">
+  <meta property="og:url" content="{{ canonical }}">
+  {%- set ogImage = image or site.logo %}
+  {%- if ogImage %}
+  <meta property="og:image" content="{{ ogImage | absoluteUrl }}">
+  <meta name="twitter:card" content="summary_large_image">
+  {%- else %}
+  <meta name="twitter:card" content="summary">
+  {%- endif %}
+  {%- if pageType == "post" %}
+  <meta property="article:published_time" content="{{ date | isoDate }}">
+  {%- endif %}
+  <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="/assets/styles.css">
+  {% schema { page: page, site: site, title: title, description: metaDescription, date: date, pageType: pageType } %}
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  {% include "partials/header.njk" %}
+  <main id="main">
+    {{ content | safe }}
+  </main>
+  {% include "partials/footer.njk" %}
+</body>
+</html>

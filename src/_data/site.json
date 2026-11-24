@@ -1,0 +1,32 @@
+{
+  "name": "Carpet Cleaning Professionals",
+  "url": "https://carpetcleaningprofessionals.co.uk",
+  "tagline": "Deep, safe and fast-drying carpet and upholstery cleaning",
+  "defaultDescription": "Professional carpet, rug and upholstery cleaning for homes and businesses. Deep cleaning, stain and odour removal, fast drying times and fully insured technicians.",
+  "phone": "01632 960000",
+  "email": "info@carpetcleaningprofessionals.co.uk",
+  "address": {
+    "street": "",
+    "town": "",
+    "county": "",
+    "postcode": ""
+  },
+  "areasServed": [],
+  "openingHours": "",
+  "openingHoursText": "",
+  "priceRange": "££",
+  "logo": "",
+  "formAction": "",
+  "social": {
+    "facebook": "",
+    "instagram": "",
+    "google": ""
+  },
+  "nav": [
+    { "label": "Home", "url": "/" },
+    { "label": "Services", "url": "/services/" },
+    { "label": "About", "url": "/about/" },
+    { "label": "Blog", "url": "/blog/" },
+    { "label": "Contact", "url": "/contact/" }
+  ]
+}

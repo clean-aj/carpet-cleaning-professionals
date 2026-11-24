@@ -1,0 +1,118 @@
+# Pages CMS configuration – https://pagescms.org/docs/configuration/
+# Log in at https://app.pagescms.org with GitHub and choose this repository.
+
+media:
+  input: src/images
+  output: /images
+
+content:
+  - name: home
+    label: Home page
+    type: file
+    path: src/content/home.md
+    fields:
+      - { name: title, label: Page name, type: string, required: true }
+      - { name: metaTitle, label: SEO title (50–60 characters), type: string }
+      - { name: description, label: Meta description (120–160 characters), type: text }
+      - { name: heading, label: Main heading (H1), type: string }
+      - { name: intro, label: Intro text, type: text }
+      - { name: highlights, label: Highlights (ticks under the hero), type: string, list: true }
+      - { name: featuresHeading, label: '"Why choose us" heading', type: string }
+      - name: features
+        label: '"Why choose us" points'
+        type: object
+        list: true
+        fields:
+          - { name: title, label: Title, type: string }
+          - { name: text, label: Text, type: text }
+      - { name: body, label: Main content, type: rich-text }
+
+  - name: pages
+    label: Pages
+    type: collection
+    path: src/content/pages
+    view:
+      fields: [title, description]
+    fields:
+      - { name: title, label: Page title, type: string, required: true }
+      - { name: metaTitle, label: SEO title (50–60 characters), type: string }
+      - { name: description, label: Meta description (120–160 characters), type: text }
+      - { name: intro, label: Intro text, type: text }
+      - { name: body, label: Content, type: rich-text }
+
+  - name: services
+    label: Services
+    type: collection
+    path: src/content/services
+    view:
+      fields: [title, order]
+      default:
+        sort: order
+        order: asc
+    fields:
+      - { name: title, label: Service name, type: string, required: true }
+      - { name: metaTitle, label: SEO title (50–60 characters), type: string }
+      - { name: description, label: Meta description (120–160 characters), type: text }
+      - { name: summary, label: Card summary (shown in service lists), type: text }
+      - { name: intro, label: Intro text, type: text }
+      - { name: order, label: Order in lists, type: number }
+      - { name: body, label: Content, type: rich-text }
+
+  - name: posts
+    label: Blog posts
+    type: collection
+    path: src/content/posts
+    filename: "{year}-{month}-{day}-{primary}.md"
+    view:
+      fields: [title, date, draft]
+      default:
+        sort: date
+        order: desc
+    fields:
+      - { name: title, label: Title, type: string, required: true }
+      - { name: description, label: Meta description (120–160 characters), type: text, required: true }
+      - { name: date, label: Publish date, type: date, required: true }
+      - { name: draft, label: Draft (hide from site), type: boolean, default: false }
+      - { name: image, label: Featured image, type: image }
+      - { name: imageAlt, label: Image description (alt text), type: string }
+      - { name: body, label: Content, type: rich-text }
+
+  - name: site
+    label: Site settings
+    type: file
+    path: src/_data/site.json
+    fields:
+      - { name: name, label: Business name, type: string, required: true }
+      - { name: url, label: Live website address, type: string, required: true }
+      - { name: tagline, label: Tagline, type: string }
+      - { name: defaultDescription, label: Default meta description, type: text }
+      - { name: phone, label: Phone, type: string }
+      - { name: email, label: Email, type: string }
+      - name: address
+        label: Address
+        type: object
+        fields:
+          - { name: street, label: Street, type: string }
+          - { name: town, label: Town, type: string }
+          - { name: county, label: County, type: string }
+          - { name: postcode, label: Postcode, type: string }
+      - { name: areasServed, label: Areas served, type: string, list: true }
+      - { name: openingHours, label: 'Opening hours for Google (e.g. Mo-Sa 08:00-18:00)', type: string }
+      - { name: openingHoursText, label: 'Opening hours shown on site (e.g. Monday to Saturday, 8am to 6pm)', type: string }
+      - { name: priceRange, label: Price range (e.g. ££), type: string }
+      - { name: logo, label: Logo, type: image }
+      - { name: formAction, label: Contact form endpoint (e.g. Formspree URL), type: string }
+      - name: social
+        label: Social profiles
+        type: object
+        fields:
+          - { name: facebook, label: Facebook URL, type: string }
+          - { name: instagram, label: Instagram URL, type: string }
+          - { name: google, label: Google Business Profile URL, type: string }
+      - name: nav
+        label: Menu
+        type: object
+        list: true
+        fields:
+          - { name: label, label: Label, type: string }
+          - { name: url, label: Link, type: string }

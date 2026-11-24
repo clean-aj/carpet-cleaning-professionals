@@ -1,0 +1,17 @@
+<header class="site-header">
+  <div class="container header-inner">
+    <a class="logo" href="/">
+      {%- if site.logo %}<img src="{{ site.logo }}" alt="{{ site.name }}" height="40">{% else %}<span class="logo-mark" aria-hidden="true">✦</span> {{ site.name }}{% endif -%}
+    </a>
+    <nav aria-label="Main">
+      <ul class="nav">
+        {%- for item in site.nav %}
+        <li><a href="{{ item.url }}"{% if item.url | isCurrent(page.url) %} aria-current="page"{% endif %}>{{ item.label }}</a></li>
+        {%- endfor %}
+      </ul>
+    </nav>
+    {%- if site.phone %}
+    <a class="btn btn-small header-phone" href="{{ site.phone | telLink }}">Call {{ site.phone }}</a>
+    {%- endif %}
+  </div>
+</header>

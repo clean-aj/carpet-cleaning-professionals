@@ -1,0 +1,25 @@
+<div class="contact-grid">
+  <div class="contact-details card">
+    <h2>Get in touch</h2>
+    <ul class="plain">
+      {%- if site.phone %}<li><strong>Phone:</strong> <a href="{{ site.phone | telLink }}">{{ site.phone }}</a></li>{% endif %}
+      {%- if site.email %}<li><strong>Email:</strong> <a href="mailto:{{ site.email }}">{{ site.email }}</a></li>{% endif %}
+      {%- if site.openingHoursText %}<li><strong>Hours:</strong> {{ site.openingHoursText }}</li>{% endif %}
+      {%- if site.address.street %}<li><strong>Address:</strong> {{ site.address.street }}, {{ site.address.town }}, {{ site.address.county }} {{ site.address.postcode }}</li>{% endif %}
+      {%- if site.areasServed.length %}<li><strong>Areas covered:</strong> {{ site.areasServed | join(", ") }}</li>{% endif %}
+    </ul>
+  </div>
+  {%- if site.formAction %}
+  <form class="contact-form card" action="{{ site.formAction }}" method="POST">
+    <h2>Request a quote</h2>
+    <label>Name <input name="name" autocomplete="name" required></label>
+    <label>Email <input type="email" name="email" autocomplete="email" required></label>
+    <label>Phone <input type="tel" name="phone" autocomplete="tel"></label>
+    <label>Postcode <input name="postcode" autocomplete="postal-code"></label>
+    <label>What do you need cleaning?
+      <textarea name="message" rows="5" required></textarea>
+    </label>
+    <button class="btn" type="submit">Send enquiry</button>
+  </form>
+  {%- endif %}
+</div>
