@@ -13,6 +13,7 @@ const { chromium } = createRequire(import.meta.url)("playwright"); // pre-instal
 
 const FORCE = process.argv.includes("--force");
 const IMAGES = process.argv.includes("--images"); // with --force, also re-render existing images
+const IMAGES_ONLY = process.argv.includes("--images-only"); // re-render every image, never touch Markdown
 const root = new URL("../", import.meta.url).pathname;
 
 // ---------------------------------------------------------------------------
@@ -216,8 +217,8 @@ function sceneSvg({ scene, seed, view = "hills" }) {
     <path d="M1010 470 C 940 520, 860 380, ${head.x + 120} ${head.y - 150}" stroke="#263238" stroke-width="10" fill="none"/>
     <line x1="${head.x + 120}" y1="${head.y - 150}" x2="${head.x + 30}" y2="${head.y}" stroke="#90a4ae" stroke-width="10" stroke-linecap="round"/>
     <rect x="${head.x - 25}" y="${head.y - 8}" width="110" height="22" rx="6" fill="#455a64"/>
-    <rect x="950" y="360" width="130" height="160" rx="18" fill="#0b6e6e"/>
-    <rect x="965" y="380" width="100" height="40" rx="8" fill="#0d8a8a"/>
+    <rect x="950" y="360" width="130" height="160" rx="18" fill="#004f9a"/>
+    <rect x="965" y="380" width="100" height="40" rx="8" fill="#53b0e0"/>
     <rect x="1000" y="320" width="14" height="45" fill="#263238"/><rect x="985" y="312" width="80" height="14" rx="7" fill="#263238"/>
     <circle cx="975" cy="528" r="18" fill="#263238"/><circle cx="1055" cy="528" r="18" fill="#263238"/>
     <circle cx="975" cy="528" r="7" fill="#90a4ae"/><circle cx="1055" cy="528" r="7" fill="#90a4ae"/>
@@ -261,10 +262,10 @@ function describeScene({ scene, seed, view = "hills" }) {
 const esc = (s) => s.replace(/&/g, "&amp;").replace(/</g, "&lt;");
 const pageHtml = (svg, kicker, heading, sub) => `<!doctype html><html><head><meta charset="utf-8"><style>
   body{margin:0;width:1200px;height:630px;position:relative;font-family:"Inter","DejaVu Sans",Arial,sans-serif}
-  .b{position:absolute;left:32px;top:28px;max-width:600px;background:rgba(8,79,79,.94);color:#fff;padding:20px 26px;border-radius:18px;box-shadow:0 8px 30px rgba(0,0,0,.18)}
-  .k{font-size:19px;letter-spacing:.04em;color:#f2b134;font-weight:700;text-transform:uppercase;margin-bottom:8px}
+  .b{position:absolute;left:32px;top:28px;max-width:600px;background:rgba(0,58,115,.94);color:#fff;padding:20px 26px;border-radius:18px;box-shadow:0 8px 30px rgba(0,0,0,.18)}
+  .k{font-size:19px;letter-spacing:.04em;color:#ffad25;font-weight:700;text-transform:uppercase;margin-bottom:8px}
   .h{font-size:44px;font-weight:800;line-height:1.08}
-  .s{font-size:24px;margin-top:6px;color:#d6eeee}
+  .s{font-size:24px;margin-top:6px;color:#cfe5f6}
 </style></head><body>${svg}<div class="b"><div class="k">${esc(kicker)}</div><div class="h">${esc(heading)}</div>${sub ? `<div class="s">${esc(sub)}</div>` : ""}</div></body></html>`;
 
 // ---------------------------------------------------------------------------
@@ -284,7 +285,7 @@ for (const l of locations) {
 
   // Hand-written (featured) pages are never overwritten
   const handWritten = existsSync(mdPath) && /^featured: true/m.test(readFileSync(mdPath, "utf8"));
-  if (!handWritten && (FORCE || !existsSync(mdPath))) {
+  if (!IMAGES_ONLY && !handWritten && (FORCE || !existsSync(mdPath))) {
     writeFileSync(mdPath, frontMatter({
       title: `Carpet Cleaning in ${l.town}`,
       town: l.town,
@@ -317,7 +318,7 @@ for (const [md, img, scene, heading] of extra) {
   const alt = `Illustration of ${describeScene({ scene, seed })}, captioned "${heading}" by Carpet Cleaning Professionals`;
   const mdPath = `${root}src/content/${md}`;
   let text = readFileSync(mdPath, "utf8");
-  if (!/^image:/m.test(text) || (FORCE && /^image: "?\/images\/(services|blog)\//m.test(text))) {
+  if (!IMAGES_ONLY && (!/^image:/m.test(text) || (FORCE && /^image: "?\/images\/(services|blog)\//m.test(text)))) {
     text = text.replace(/^image:.*\n|^imageAlt:.*\n/gm, "");
     text = text.replace(/\n---\n/, `\nimage: ${yaml("/images/" + img)}\nimageAlt: ${yaml(alt)}\n---\n`);
     writeFileSync(mdPath, text);
@@ -326,7 +327,7 @@ for (const [md, img, scene, heading] of extra) {
 }
 
 // Render missing images
-const todo = jobs.filter((j) => (FORCE && IMAGES) || !existsSync(j.out));
+const todo = jobs.filter((j) => IMAGES_ONLY || (FORCE && IMAGES) || !existsSync(j.out));
 if (todo.length) {
   const browser = await chromium.launch();
   const page = await browser.newPage({ viewport: { width: 1200, height: 630 } });

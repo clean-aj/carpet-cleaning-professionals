@@ -1,12 +1,15 @@
 :root {
-  --brand: #0b6e6e;
-  --brand-dark: #084f4f;
-  --accent: #f2b134;
-  --text: #1d2a2f;
-  --muted: #5a6b70;
+  /* Brand colours from carpetcleaningprofessionals.co.uk and the logo */
+  --brand: #004f9a;      /* deep navy – buttons, links (8:1 contrast with white) */
+  --brand-dark: #003a73; /* hover and dark bands */
+  --sky: #53b0e1;        /* logo sky blue – highlights and accents */
+  --sky-mid: #4999c4;
+  --accent: #ffad25;     /* amber – key call-to-action buttons */
+  --text: #1d2a35;
+  --muted: #5b6b78;
   --bg: #ffffff;
-  --bg-alt: #f3f7f7;
-  --border: #dce6e6;
+  --bg-alt: #eff8fe;     /* pale brand tint */
+  --border: #d6e7f3;
   --radius: 12px;
   --max: 1120px;
   font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
@@ -49,10 +52,10 @@ h3 { font-size: 1.2rem; }
 .btn-block { display: block; text-align: center; }
 
 /* Hero */
-.hero { background: linear-gradient(135deg, var(--brand-dark), var(--brand)); color: #fff; padding: 72px 0; }
+.hero { background: linear-gradient(120deg, var(--brand-dark) 0%, var(--brand) 55%, #2a85c6 100%); color: #fff; padding: 72px 0; }
 .hero-inner { max-width: 820px; margin-left: max(16px, calc((100% - var(--max)) / 2 + 16px)); }
 .lead { font-size: 1.2rem; }
-.hero .lead { color: #e2f1f1; }
+.hero .lead { color: #e3f1fb; }
 .hero-actions { display: flex; flex-wrap: wrap; gap: 12px; margin: 24px 0; }
 .hero .btn { background: var(--accent); border-color: var(--accent); color: var(--text); }
 .hero .btn-outline { background: transparent; border-color: #fff; color: #fff; }
@@ -132,7 +135,7 @@ h3 { font-size: 1.2rem; }
 
 /* Areas page */
 .area-stats { list-style: none; padding: 0; margin: 0 0 28px; display: grid; gap: 12px; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); }
-.area-stats li { background: linear-gradient(135deg, var(--brand-dark), var(--brand)); color: #e2f1f1; border-radius: var(--radius); padding: 18px 20px; }
+.area-stats li { background: linear-gradient(135deg, var(--brand-dark), var(--brand)); color: #e3f1fb; border-radius: var(--radius); padding: 18px 20px; }
 .area-stats strong { display: block; color: #fff; font-size: 1.8rem; line-height: 1.1; }
 .area-search { background: var(--bg-alt); border: 1px solid var(--border); border-radius: var(--radius); padding: 20px; margin-bottom: 40px; }
 .area-search label { display: block; font-weight: 700; margin-bottom: 8px; font-size: 1.1rem; }
@@ -291,19 +294,19 @@ h3 { font-size: 1.2rem; }
 .cta { background: var(--brand-dark); color: #fff; padding: 48px 0; }
 .cta-inner { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 20px; }
 .cta h2 { margin-bottom: .2em; }
-.cta p { margin: 0; color: #d4eaea; }
+.cta p { margin: 0; color: #cfe5f6; }
 .cta-actions { display: flex; flex-wrap: wrap; gap: 12px; }
 
 .post-image { border-radius: var(--radius); margin-bottom: 24px; }
 .back { margin-top: 32px; }
 
 /* Footer */
-.site-footer { overflow-wrap: anywhere; background: #11201f; color: #c9d6d6; padding: 48px 0 0; font-size: .95rem; }
+.site-footer { overflow-wrap: anywhere; background: #0b2540; color: #c9daea; padding: 48px 0 0; font-size: .95rem; }
 .site-footer a { color: #fff; }
 .footer-grid { display: grid; gap: 24px; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); }
 .footer-name { font-weight: 800; color: #fff; font-size: 1.1rem; }
 .footer-heading { font-weight: 700; color: #fff; margin-bottom: 8px; }
-.footer-bottom { border-top: 1px solid #2a3b3a; margin-top: 32px; padding-top: 16px; padding-bottom: 16px; }
+.footer-bottom { border-top: 1px solid #1d3d63; margin-top: 32px; padding-top: 16px; padding-bottom: 16px; }
 .footer-bottom p { margin: 0; }
 
 @media (max-width: 700px) {
@@ -311,3 +314,19 @@ h3 { font-size: 1.2rem; }
   .header-inner { gap: 8px 24px; }
   .hero { padding: 48px 0; }
 }
+
+/* Brand accents (sky blue) */
+.nav a:hover, .nav a[aria-current="page"] { border-color: var(--sky); }
+.inline-cta { border-left-color: var(--sky); }
+.region-card { border-top-color: var(--sky); }
+.feature-grid li { border-top-color: var(--sky); }
+.highlights li::before { color: var(--accent); }
+.page-hero { background: linear-gradient(180deg, var(--bg-alt), #fff); border-bottom-color: var(--border); }
+.cta { background: linear-gradient(120deg, var(--brand-dark), var(--brand)); border-top: 4px solid var(--sky); }
+.site-footer { border-top: 4px solid var(--sky); }
+.footer-heading { color: var(--sky) !important; }
+.slider-btn:hover, .region-pills a:hover { background: var(--brand); }
+.area-links a:hover { border-color: var(--sky); }
+.pill { background: var(--bg-alt); color: var(--brand); }
+.logo-mark { color: var(--sky); }
+::selection { background: var(--sky); color: #fff; }
