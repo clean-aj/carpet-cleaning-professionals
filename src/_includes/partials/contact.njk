@@ -11,17 +11,43 @@
   </div>
   {%- if site.formAction %}
   <form class="contact-form card" action="{{ site.formAction }}" method="POST">
-    <h2>Request a Quote</h2>
-    <label>Name <input name="name" autocomplete="name" required></label>
-    <label>Email <input type="email" name="email" autocomplete="email" required></label>
-    <label>Phone <input type="tel" name="phone" autocomplete="tel"></label>
-    <label>Postcode <input name="postcode" autocomplete="postal-code"></label>
-    <label>What do you need cleaning?
-      <textarea name="message" rows="5" required></textarea>
+    <h2>Request a Free Quote</h2>
+    <p>Tell us what you need and we'll get back to you with a clear, fixed price.</p>
+    <input type="hidden" name="_subject" value="New quote request from the website">
+    <input type="hidden" name="_template" value="table">
+    <input type="hidden" name="_next" value="{{ '/thank-you/' | absoluteUrl }}">
+    <input type="text" name="_honey" class="hp" tabindex="-1" autocomplete="off" aria-hidden="true">
+    <div class="form-row">
+      <label>Name <input name="name" autocomplete="name" required></label>
+      <label>Phone <input type="tel" name="phone" autocomplete="tel" required></label>
+    </div>
+    <div class="form-row">
+      <label>Email <input type="email" name="email" autocomplete="email" required></label>
+      <label>Postcode <input name="postcode" autocomplete="postal-code" required></label>
+    </div>
+    <label>Service
+      <select name="service">
+        <option value="">Choose a service (optional)</option>
+        {%- for sv in collections.services %}<option>{{ sv.data.title }}</option>{% endfor %}
+        <option>Something else</option>
+      </select>
     </label>
-    <button class="btn" type="submit">Send enquiry</button>
+    <label>What do you need cleaning?
+      <textarea name="message" rows="5" required placeholder="e.g. 3 bedrooms, hallway and stairs, plus a 3-seater fabric sofa"></textarea>
+    </label>
+    <button class="btn btn-block" type="submit">Send my enquiry</button>
+    <p class="form-note">We'll only use your details to reply to your enquiry.</p>
   </form>
   {%- endif %}
 </div>
+
+{%- if site.mapEmbed %}
+<section class="map-section">
+  <h2>Find Us</h2>
+  <div class="map-embed">
+    <iframe src="{{ site.mapEmbed }}" title="Map showing the location of {{ site.name }}" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </div>
+</section>
+{%- endif %}
 
 <p class="areas-link">We cover London, Surrey, Sussex, Hampshire, Berkshire and beyond. <a href="/areas/">See all the areas we cover →</a></p>
