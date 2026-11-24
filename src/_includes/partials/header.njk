@@ -9,7 +9,19 @@
     <nav id="site-nav" aria-label="Main">
       <ul class="nav">
         {%- for item in site.nav %}
+        {%- set sub = collections.services if item.url == "/services/" else ((collections.locations | featured) if item.url == "/areas/" else []) %}
+        {%- if sub.length %}
+        <li class="has-sub">
+          <a href="{{ item.url }}"{% if item.url | isCurrent(page.url, pageType) %} aria-current="page"{% endif %}>{{ item.label }}</a>
+          <button class="sub-toggle" type="button" aria-expanded="false" aria-label="Show {{ item.label | lower }} menu"><span aria-hidden="true">▾</span></button>
+          <ul class="sub-menu">
+            {%- for s in sub %}<li><a href="{{ s.url }}">{{ s.data.town or s.data.title }}</a></li>{% endfor %}
+            <li class="sub-all"><a href="{{ item.url }}">{{ "All services" if item.url == "/services/" else "All areas we cover" }} →</a></li>
+          </ul>
+        </li>
+        {%- else %}
         <li><a href="{{ item.url }}"{% if item.url | isCurrent(page.url, pageType) %} aria-current="page"{% endif %}>{{ item.label }}</a></li>
+        {%- endif %}
         {%- endfor %}
       </ul>
     </nav>
@@ -25,6 +37,18 @@
         const open = nav.classList.toggle("open");
         btn.setAttribute("aria-expanded", open);
       });
+      const subs = [...document.querySelectorAll(".has-sub")];
+      const closeAll = (except) => subs.forEach((li) => { if (li !== except) { li.classList.remove("open"); li.querySelector(".sub-toggle").setAttribute("aria-expanded", "false"); } });
+      subs.forEach((li) => {
+        const t = li.querySelector(".sub-toggle");
+        t.addEventListener("click", (e) => {
+          e.stopPropagation();
+          const open = !li.classList.contains("open");
+          closeAll(li); li.classList.toggle("open", open); t.setAttribute("aria-expanded", open);
+        });
+      });
+      document.addEventListener("click", (e) => { if (!e.target.closest(".has-sub")) closeAll(); });
+      document.addEventListener("keydown", (e) => { if (e.key === "Escape") closeAll(); });
     })();
   </script>
 </header>
