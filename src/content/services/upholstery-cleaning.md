@@ -5,12 +5,17 @@ description: Professional sofa, armchair and upholstery cleaning for fabric furn
 summary: Sofa, armchair and fabric furniture cleaning that removes stains, odours and everyday grime.
 intro: Bring your sofas, armchairs and dining chairs back to their best.
 order: 2
-image: "/images/photos/fabric-sofa-upholstery-cleaning-grey-cushion.jpg"
-imageAlt: "Upholstery cleaning tool lifting dirt from a light grey fabric sofa cushion, leaving a visibly cleaner stripe"
+image: "/images/photos/beige-sofa-cushion-upholstery-cleaning-before-and-after-landscape.jpg"
+imageAlt: "Beige fabric sofa seat cushion half cleaned by Carpet Cleaning Professionals, with the cleaned left side visibly brighter than the dirty right side"
 ---
 ## Fabric-safe cleaning
 
 Every fabric is different. We check the care labels and test a hidden area first, then choose the safest and most effective method for your furniture.
+
+<figure class="photo-figure">
+<img src="/images/photos/vacuuming-green-velvet-sofa-upholstery-brush.jpg" alt="Upholstery brush attachment vacuuming a dark green buttoned velvet sofa" sizes="(min-width: 800px) 420px, 100vw">
+<figcaption>Delicate fabrics like velvet get a gentle vacuum before any cleaning solution is used.</figcaption>
+</figure>
 
 ## What we clean
 
@@ -29,3 +34,8 @@ Every fabric is different. We check the care labels and test a hidden area first
 ## Common problems we treat
 
 Food and drink spills, body oils on armrests and headrests, pet hair and odours, and general dullness from everyday use.
+
+<figure class="photo-figure">
+<img src="/images/photos/green-velvet-corner-sofa-cleaned.jpg" alt="Green velvet corner sofa freshly cleaned by Carpet Cleaning Professionals, showing triangular cleaning strokes across the seats and backrests" sizes="(min-width: 800px) 420px, 100vw">
+<figcaption>A green velvet corner sofa we've just cleaned, with fresh cleaning strokes across the pile.</figcaption>
+</figure>

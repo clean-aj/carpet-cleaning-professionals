@@ -16,6 +16,11 @@ imageAlt: "Upholstery extraction tool removing a stain from a beige fabric sofa,
 - Food and grease
 - Ink and make-up
 
+<figure class="photo-figure">
+<img src="/images/photos/steam-cleaning-stains-beige-fabric-sofa.jpg" alt="Steam cleaning tool treating brown stains on a beige fabric sofa cushion" sizes="(min-width: 800px) 420px, 100vw">
+<figcaption>Heat and the right solution loosen stains so they can be lifted out of the fibres.</figcaption>
+</figure>
+
 ## Pet odour treatment
 
 Pet urine can soak through to the underlay, so smells keep coming back even after a surface clean. We use enzyme treatments that break down the cause of the odour instead of masking it.

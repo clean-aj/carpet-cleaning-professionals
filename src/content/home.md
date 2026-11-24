@@ -30,9 +30,9 @@ gallery:
   - image: "/images/photos/curtain-cleaning-technician-navy-curtains.jpg"
     alt: "Carpet Cleaning Professionals technician cleaning navy blue eyelet curtains with a handheld upholstery extraction tool"
     caption: "Curtains cleaned in place"
-  - image: "/images/photos/hot-water-extraction-carpet-cleaning-beige-carpet.jpg"
-    alt: "Hot water extraction carpet cleaning wand cleaning a beige twist pile carpet, with a technician wearing blue protective shoe covers"
-    caption: "Hot water extraction on a deep pile carpet"
+  - image: "/images/photos/beige-sofa-cushion-upholstery-cleaning-before-and-after-landscape.jpg"
+    alt: "Beige fabric sofa seat cushion half cleaned by Carpet Cleaning Professionals, with the cleaned left side visibly brighter than the dirty right side"
+    caption: "Sofa cushion, half cleaned"
 ---
 Carpets take a lot of punishment: everyday foot traffic, spills, pets and muddy shoes. Over time, dirt works deep into the fibres, making carpets look tired and dull and trapping allergens and odours.
 
