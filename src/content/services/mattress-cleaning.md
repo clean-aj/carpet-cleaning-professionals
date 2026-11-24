@@ -45,3 +45,7 @@ Our mattress cleaning removes stains, allergens and odours, and can save a good 
 ## Homes, Hotels and Rentals
 
 We clean mattresses for homeowners, landlords, holiday lets, hotels and care settings. If you're booking a [carpet](/services/carpet-cleaning/) or [upholstery clean](/services/upholstery-cleaning/), add your mattresses to the same visit and get everything done at once.
+
+## Prices
+
+Mattress cleaning has a call-out fee of £65. Once we're at your property, we can clean your other mattresses, carpets and upholstery at a discounted rate. Call us for an accurate, individual quote.

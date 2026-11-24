@@ -32,6 +32,9 @@ From family homes and period properties to offices, we look after every kind of 
 - **[Stain and odour removal](/services/stain-odour-removal/)**: help with wine, coffee and pet accidents, so your home smells fresh again.
 - **[End of tenancy carpet cleaning](/services/end-of-tenancy-carpet-cleaning/)**: helping tenants protect their deposit and landlords re-let faster in Esher.
 - **[Commercial carpet cleaning](/services/commercial-carpet-cleaning/)**: cleaner offices, shops and venues that impress your staff, customers and visitors.
+- **[Carpet moth treatment](/services/carpet-moth-treatment/)**: protection for your carpets, rugs and wardrobe, with a 30-day guarantee.
+- **[Flea treatment](/services/flea-treatment/)**: a thorough treatment that gets your home back from fleas, with a 30-day revisit guarantee.
+- **[Mattress cleaning](/services/mattress-cleaning/)**: a fresher, cleaner mattress for a better night's sleep.
 
 ## What Happens on the Day
 

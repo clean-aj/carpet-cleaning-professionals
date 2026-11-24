@@ -40,6 +40,9 @@ For your carpets, that means a mix of delicate natural fibres, hard-working fami
 - **[Stain and odour removal](/services/stain-odour-removal/)**: help with wine, coffee and pet accidents, so your home smells fresh again.
 - **[End of tenancy carpet cleaning](/services/end-of-tenancy-carpet-cleaning/)**: helping Guildford tenants protect their deposit and landlords re-let faster.
 - **[Commercial carpet cleaning](/services/commercial-carpet-cleaning/)**: cleaner offices, shops and venues in and around the town centre.
+- **[Carpet moth treatment](/services/carpet-moth-treatment/)**: protection for your carpets, rugs and wardrobe, with a 30-day guarantee.
+- **[Flea treatment](/services/flea-treatment/)**: a thorough treatment that gets your home back from fleas, with a 30-day revisit guarantee.
+- **[Mattress cleaning](/services/mattress-cleaning/)**: a fresher, cleaner mattress for a better night's sleep.
 
 ## Areas of Guildford We Cover
 
