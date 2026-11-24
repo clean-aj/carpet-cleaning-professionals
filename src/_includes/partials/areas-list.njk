@@ -12,31 +12,12 @@
   <p id="town-search-status" class="meta" aria-live="polite"></p>
 </div>
 
-{%- set featuredTowns = collections.locations | featured %}
-{%- if featuredTowns.length %}
-<section class="featured-areas" aria-labelledby="popular-heading">
-  <h2 id="popular-heading">Popular locations</h2>
-  <ul class="featured-grid">
-    {%- for l in featuredTowns %}
-    <li>
-      <a class="featured-card" href="{{ l.url }}">
-        {%- if l.data.image %}<img src="{{ l.data.image }}" alt="{{ l.data.imageAlt }}" sizes="(min-width: 1000px) 260px, (min-width: 600px) 45vw, 100vw">{% endif %}
-        <span class="featured-name">{{ l.data.town }}</span>
-        <span class="featured-county">{{ l.data.county }}</span>
-      </a>
-    </li>
-    {%- endfor %}
-  </ul>
-</section>
-{%- endif %}
-
-<section aria-labelledby="regions-heading">
-  <h2 id="regions-heading">All the areas we cover</h2>
+<section class="regions">
   <div class="region-grid">
     {%- for g in groups %}
     <section id="{{ g.slug }}" class="region-card">
       <header>
-        <h3>{{ g.region }}</h3>
+        <h2>Carpet Cleaning {{ g.region }}</h2>
         <span class="pill">{{ g.items.length }} location{% if g.items.length != 1 %}s{% endif %}</span>
       </header>
       {{ townLinks(g.items, 6, "More locations") }}
@@ -58,7 +39,6 @@
   const status = document.getElementById("town-search-status");
   const empty = document.getElementById("town-search-empty");
   const cards = [...document.querySelectorAll(".region-card")];
-  const featured = document.querySelector(".featured-areas");
   const grid = document.querySelector(".region-grid");
   input.addEventListener("input", () => {
     const q = input.value.trim().toLowerCase();
@@ -75,7 +55,6 @@
       card.hidden = !!q && hits === 0;
       total += q ? hits : 0;
     }
-    if (featured) featured.hidden = !!q;
     grid.classList.toggle("searching", !!q);
     empty.hidden = !q || total > 0;
     status.textContent = q ? (total ? total + " matching location" + (total === 1 ? "" : "s") : "") : "";
