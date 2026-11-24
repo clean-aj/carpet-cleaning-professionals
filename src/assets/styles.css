@@ -330,3 +330,11 @@ h3 { font-size: 1.2rem; }
 .pill { background: var(--bg-alt); color: var(--brand); }
 .logo-mark { color: var(--sky); }
 ::selection { background: var(--sky); color: #fff; }
+
+/* Every button on a blue background uses the amber style */
+.hero .btn, .hero .btn-outline, .cta .btn, .cta .btn-light, .cta .btn-outline-light {
+  background: var(--accent); border-color: var(--accent); color: var(--text);
+}
+.hero .btn:hover, .hero .btn-outline:hover, .cta .btn:hover, .cta .btn-light:hover, .cta .btn-outline-light:hover {
+  background: #f39c00; border-color: #f39c00; color: var(--text);
+}
