@@ -37,7 +37,7 @@ export default function (eleventyConfig) {
   // Output files keep the descriptive source filename, e.g. carpet-cleaning-reading-berkshire-800w.webp
   eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
     formats: ["webp", "jpeg"],
-    widths: [400, 800, 1200],
+    widths: [400, 800, 1200, 1600],
     urlPath: "/img/",
     outputDir: "./_site/img/",
     filenameFormat: (id, src, width, format) => `${path.parse(src).name}-${width}w.${format}`,
@@ -108,7 +108,8 @@ export default function (eleventyConfig) {
       ...(site.phone && { telephone: site.phone }),
       ...(site.email && { email: site.email }),
       ...(site.priceRange && { priceRange: site.priceRange }),
-      ...(site.logo && { logo: absolute(site.logo), image: absolute(site.logo) }),
+      ...(site.logo && { logo: absolute(site.logo) }),
+      image: [site.teamPhoto, site.technicianPhoto, site.logo].filter(Boolean).map(absolute),
       ...(address.street && {
         address: {
           "@type": "PostalAddress",

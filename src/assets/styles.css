@@ -160,6 +160,14 @@ h3 { font-size: 1.2rem; }
 .searching .more-areas summary { display: none; }
 .searching .more-areas { margin: 0; }
 
+/* Team photos */
+.team-grid { display: grid; gap: 32px; align-items: center; grid-template-columns: minmax(0, 1fr); }
+@media (min-width: 900px) { .team-grid { grid-template-columns: 1.15fr 1fr; } }
+.team-photo { display: block; width: 100%; height: auto; border-radius: var(--radius); box-shadow: 0 10px 30px rgba(0,0,0,.12); }
+.team-grid .btn { margin: 4px 6px 4px 0; }
+.quote-card { overflow: hidden; }
+.quote-photo { display: block; width: calc(100% + 48px); max-width: none; height: auto; margin: -24px -24px 18px; aspect-ratio: 3 / 2; object-fit: cover; }
+
 /* CTA */
 .cta { background: var(--brand-dark); color: #fff; padding: 48px 0; }
 .cta-inner { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 20px; }

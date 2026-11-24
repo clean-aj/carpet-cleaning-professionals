@@ -38,6 +38,8 @@ content:
       - { name: metaTitle, label: SEO title (50–60 characters), type: string }
       - { name: description, label: Meta description (120–160 characters), type: text }
       - { name: intro, label: Intro text, type: text }
+      - { name: image, label: Main image, type: image }
+      - { name: imageAlt, label: Image description (alt text), type: text }
       - { name: body, label: Content, type: rich-text }
 
   - name: services
@@ -142,6 +144,10 @@ content:
       - { name: openingHoursText, label: 'Opening hours shown on site (e.g. Monday to Saturday, 8am to 6pm)', type: string }
       - { name: priceRange, label: Price range (e.g. ££), type: string }
       - { name: logo, label: Logo, type: image }
+      - { name: teamPhoto, label: Team photo (home and About pages), type: image }
+      - { name: teamPhotoAlt, label: Team photo description (alt text), type: text }
+      - { name: technicianPhoto, label: Technician photo (quote boxes and Contact page), type: image }
+      - { name: technicianPhotoAlt, label: Technician photo description (alt text), type: text }
       - { name: formAction, label: Contact form endpoint (e.g. Formspree URL), type: string }
       - name: social
         label: Social profiles

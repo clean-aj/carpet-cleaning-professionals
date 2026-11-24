@@ -3,6 +3,8 @@ title: About Us
 metaTitle: About Us | Carpet Cleaning Professionals
 description: Find out about Carpet Cleaning Professionals, our approach to carpet and upholstery cleaning and why customers trust us in their homes and businesses.
 intro: Friendly, reliable and thorough carpet cleaning specialists.
+image: /images/team/carpet-cleaning-professionals-team-with-van-fleet.jpg
+imageAlt: The Carpet Cleaning Professionals team of six technicians in branded black uniforms standing in front of four white Peugeot vans in a tree-lined car park
 ---
 ## Who we are
 

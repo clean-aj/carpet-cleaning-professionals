@@ -1,5 +1,6 @@
 <div class="contact-grid">
-  <div class="contact-details card">
+  <div class="contact-details card quote-card">
+        {%- if site.technicianPhoto %}<img class="quote-photo" src="{{ site.technicianPhoto }}" alt="{{ site.technicianPhotoAlt }}" sizes="(min-width: 700px) 540px, 100vw">{% endif %}
     <h2>Get in touch</h2>
     <ul class="plain">
       {%- if site.phone %}<li><strong>Phone:</strong> <a href="{{ site.phone | telLink }}">{{ site.phone }}</a></li>{% endif %}
