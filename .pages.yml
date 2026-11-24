@@ -215,6 +215,8 @@ content:
           - { name: linkedin, label: LinkedIn URL, type: string }
           - { name: x, label: X (Twitter) URL, type: string }
           - { name: google, label: Google Business Profile URL, type: string }
+          - { name: trustpilot, label: Trustpilot URL, type: string }
+          - { name: reviewsio, label: Reviews.io URL, type: string }
       - name: nav
         label: Menu
         type: object

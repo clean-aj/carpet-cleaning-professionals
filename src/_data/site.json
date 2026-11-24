@@ -41,7 +41,8 @@
     "linkedin": "https://www.linkedin.com/company/carpet-cleaning-pros/about/",
     "x": "https://x.com/carpetprosuk",
     "google": "https://g.page/carpet-cleaning-pros-south?share",
-    "trustpilot": "https://uk.trustpilot.com/review/carpetcleaningprofessionals.co.uk"
+    "trustpilot": "https://uk.trustpilot.com/review/carpetcleaningprofessionals.co.uk",
+    "reviewsio": "https://www.reviews.io/company-reviews/store/carpetcleaningprofessionals.co.uk"
   },
   "nav": [
     {
@@ -86,7 +87,7 @@
       },
       {
         "name": "Reviews.io",
-        "url": ""
+        "url": "https://www.reviews.io/company-reviews/store/carpetcleaningprofessionals.co.uk"
       },
       {
         "name": "Facebook",
