@@ -41,18 +41,18 @@
   },
   {
     "from": "/carpet-moth-treatment/",
-    "to": "/services/"
+    "to": "/services/carpet-moth-treatment/"
   },
   {
     "from": "/flea-treatment/",
-    "to": "/services/"
+    "to": "/services/flea-treatment/"
   },
   {
     "from": "/mattress-cleaning-services/",
-    "to": "/services/"
+    "to": "/services/mattress-cleaning/"
   },
   {
     "from": "/mattress-cleaning/",
-    "to": "/services/"
+    "to": "/services/mattress-cleaning/"
   }
 ]

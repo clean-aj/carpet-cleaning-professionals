@@ -32,7 +32,10 @@ LINK_MAP = {
     "/pet-odour-and-urine-treatments/": "/services/stain-odour-removal/",
     "/end-of-tenancy-carpet-cleaning/": "/services/end-of-tenancy-carpet-cleaning/",
     "/how-much-is-carpet-cleaning/": "/contact/",       # old prices page
-    "/carpet-moth-treatment/": "/services/",            # no moth treatment page on the new site yet
+    "/carpet-moth-treatment/": "/services/carpet-moth-treatment/",
+    "/flea-treatment/": "/services/flea-treatment/",
+    "/mattress-cleaning-services/": "/services/mattress-cleaning/",
+    "/mattress-cleaning/": "/services/mattress-cleaning/",
 }
 
 lastmod = dict(re.findall(r"<loc>%s/([^<]*?)/?</loc>\s*<lastmod>([^<]+)</lastmod>" % re.escape(DOMAIN),

@@ -6,7 +6,7 @@ date: 2022-05-31
 image: "/images/blog/carpet-moth-damage.jpg"
 imageAlt: "Carpet moth damage: bald patches eaten through to the backing of a brown carpet"
 ---
-For anyone with a carpet at home, the last thing you want to do is find pests roaming around. From ants and other creatures to carpet-eating moths, you need to be very much aware of potential damage to your carpet. With this in mind, we want you to focus on the following [**carpet cleaning tips to prevent pests**](/services/). Stick to these tips, and you can make it much easier to ensure that your carpets remain clean, shining, and glorious for longer.
+For anyone with a carpet at home, the last thing you want to do is find pests roaming around. From ants and other creatures to carpet-eating moths, you need to be very much aware of potential damage to your carpet. With this in mind, we want you to focus on the following [**carpet cleaning tips to prevent pests**](/services/carpet-moth-treatment/). Stick to these tips, and you can make it much easier to ensure that your carpets remain clean, shining, and glorious for longer.
 
 Best of all, you can avoid those irritating pests that can ruin your carpet!
 

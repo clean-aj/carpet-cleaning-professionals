@@ -10,7 +10,7 @@ imageAlt: "Orange-brown moth on a blue wool carpet"
 
 Carpets are a wonderful feature in your home, but they can become extremely easy to damage. Many issues can impact a carpet, including the presence of carpet methods. While they are increasingly rare in the UK, they are a problem that you need to keep a close eye out for. With that in mind, you should consider what to do if you find these moths present on your carpet.
 
-There are several methods for learning [**how to get rid of carpet moths**](/services/). Not all will work, but the below method is a useful place to start. If this does not work, then you might wish to consider calling a local carpet cleaning company. Especially if the moths have been present for a while, you might find that this method does not work as the moths are simply so ‘baked in’ to the carpet.
+There are several methods for learning [**how to get rid of carpet moths**](/services/carpet-moth-treatment/). Not all will work, but the below method is a useful place to start. If this does not work, then you might wish to consider calling a local carpet cleaning company. Especially if the moths have been present for a while, you might find that this method does not work as the moths are simply so ‘baked in’ to the carpet.
 
 So, if you want a hand in making sure you can remove these moths from your carpet, start here. This should hopefully give you a solution that gets rid of the moths once and for all so you can get back to enjoying your carpet. Again, if this fails to work, you probably need to look at hiring a professional.
 

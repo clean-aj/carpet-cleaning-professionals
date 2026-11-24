@@ -12,7 +12,7 @@ When it comes to carpet ownership, the sheer volume of problems that you can run
 
 Carpet moths are typically found in any kind of material that has a high level of keratin. These moths’ larvae feed on the carpet materials, quickly working through the carpet and making it look patchy and bare. The carpet moths themselves might not eat the carpet, but their larvae absolutely feast on the stuff. As such, removing them becomes a priority. 
 
-Before you go ahead and hire a [**carpet moth treatment**](/services/), we recommend that you take a look at using the following tips to eradicate the issue. If this does not work, call the professionals before the problem worsens.
+Before you go ahead and hire a [**carpet moth treatment**](/services/carpet-moth-treatment/), we recommend that you take a look at using the following tips to eradicate the issue. If this does not work, call the professionals before the problem worsens.
 
 ### Getting Rid of Carpet Moths Before the Damage Is Done
 
