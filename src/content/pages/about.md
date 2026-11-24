@@ -10,6 +10,11 @@ imageAlt: The Carpet Cleaning Professionals team of six technicians in branded b
 
 Carpet Cleaning Professionals is a specialist carpet, rug and upholstery cleaning company. We work for homeowners, landlords, letting agents and businesses, and every job gets the same care and attention to detail.
 
+<figure class="photo-figure">
+<img src="/images/team/carpet-cleaning-professionals-technician-with-van.jpg" alt="A Carpet Cleaning Professionals technician in a branded black polo shirt standing with arms folded beside a white Peugeot van on a residential street" sizes="(min-width: 800px) 420px, 100vw">
+<figcaption>One of our technicians, ready for the next job.</figcaption>
+</figure>
+
 ## How we work
 
 - **We assess first.** We check the carpet type, condition and any stains before we start, so we use the right method and solution.

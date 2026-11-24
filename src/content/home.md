@@ -21,8 +21,11 @@ features:
   - title: Clear, fixed prices
     text: You get a clear quote before we start, with no hidden extras on the day.
 gallery:
-  - image: "/images/photos/hallway-carpet-cleaning-before-and-after.jpg"
-    alt: "Before and after carpet cleaning in a hallway by Carpet Cleaning Professionals: the cleaned far half of the cream carpet is bright, while the uncleaned near half is grey and marked with dirt"
+  - image: "/images/photos/home-cinema-room-carpet-cleaning-after.jpg"
+    alt: "Freshly cleaned beige carpet in a home cinema room, showing even cleaning lines across the floor beside a cream leather corner sofa, after a clean by Carpet Cleaning Professionals"
+    caption: "Home cinema carpet, freshly cleaned"
+  - image: "/images/photos/hallway-carpet-cleaning-before-and-after-landscape.jpg"
+    alt: "Hallway carpet half cleaned by Carpet Cleaning Professionals, showing a clear line between the bright cleaned cream carpet and the grey, dirty uncleaned section"
     caption: "Hallway carpet, half cleaned"
   - image: "/images/photos/curtain-cleaning-technician-navy-curtains.jpg"
     alt: "Carpet Cleaning Professionals technician cleaning navy blue eyelet curtains with a handheld upholstery extraction tool"

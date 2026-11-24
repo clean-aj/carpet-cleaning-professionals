@@ -2,8 +2,8 @@
 title: How Often Should You Have Your Carpets Professionally Cleaned?
 description: How often your carpets need a professional clean depends on foot traffic, pets, children and allergies. Here's a simple guide.
 date: 2026-10-06
-image: "/images/blog/how-often-to-professionally-clean-carpets.jpg"
-imageAlt: "Illustration of a hot water extraction carpet cleaning machine cleaning a lilac living room carpet beside a brown sofa, with a window looking out over green hills, captioned \"How often should carpets be cleaned?\" by Carpet Cleaning Professionals"
+image: "/images/photos/home-cinema-room-carpet-cleaning-after.jpg"
+imageAlt: "Freshly cleaned beige carpet in a home cinema room, showing even cleaning lines across the floor beside a cream leather corner sofa, after a clean by Carpet Cleaning Professionals"
 ---
 Regular vacuuming keeps surface dirt under control, but it can't reach the fine grit and allergens that settle deep in the pile. So how often should you book a professional clean?
 
