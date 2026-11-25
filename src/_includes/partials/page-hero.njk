@@ -1,8 +1,28 @@
+{%- if pageType == "location" %}
 <section class="page-hero">
   <div class="container">
-    {% if page.url != "/" %}{% include "partials/breadcrumbs.njk" %}{% endif %}
+    {% include "partials/breadcrumbs.njk" %}
+    <h1>{{ heading or title }}</h1>
+    {%- if intro %}<p class="lead">{{ intro }}</p>{% endif %}
+  </div>
+</section>
+{%- else %}
+<section class="ph ph-trust">
+  <div class="container">
+    {% include "partials/breadcrumbs.njk" %}
     <h1>{{ heading or title }}</h1>
     {%- if intro %}<p class="lead">{{ intro }}</p>{% endif %}
     {%- if pageType == "post" %}<p class="meta">Published <time datetime="{{ date | isoDate }}">{{ date | readableDate }}</time></p>{% endif %}
+    <div class="ph-actions">
+      <a class="btn" href="/contact/">Get a free quote</a>
+      {%- if site.phone %}<a class="btn btn-outline" href="{{ site.phone | telLink }}">Call {{ site.phone }}</a>{% endif %}
+    </div>
+    <ul class="ph-badges">
+      <li><span class="stars" aria-hidden="true">★★★★★</span> Rated 5 stars</li>
+      <li>Open 7 days, <span class="nowrap">8am–8pm</span></li>
+      <li>Free, fixed quotes</li>
+      <li>Pet &amp; child safe</li>
+    </ul>
   </div>
 </section>
+{%- endif %}
