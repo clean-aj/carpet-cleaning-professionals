@@ -123,6 +123,19 @@ layout: base.njk
   {%- if slug == "services" %}{% set cardTag = "h2" %}<div class="container">{% include "partials/service-grid.njk" %}</div>{% endif %}
   {%- if slug == "areas" %}<div class="container">{% include "partials/areas-list.njk" %}</div>{% endif %}
   {%- if slug == "contact" %}<div class="container">{% include "partials/contact.njk" %}</div>{% endif %}
+  {%- if faqs and slug != "home" %}
+  <div class="container prose page-faqs">
+    <h2>{{ title }}: Frequently Asked Questions</h2>
+    <div class="faqs">
+      {%- for f in faqs %}
+      <details>
+        <summary>{{ f.question }}</summary>
+        <p>{{ f.answer }}</p>
+      </details>
+      {%- endfor %}
+    </div>
+  </div>
+  {%- endif %}
 </section>
 {%- if slug == "about" or slug == "contact" %}{% include "partials/reviews.njk" %}{% endif %}
 {%- if slug != "contact" %}{% include "partials/cta.njk" %}{% endif %}

@@ -378,3 +378,7 @@ h3 { font-size: 1.2rem; }
 .section > .container.prose { margin-bottom: 0; }
 .section > .container.prose + .container { margin-top: var(--gap-section); }
 .section > .container.prose + .container > :first-child { margin-top: 0; }
+/* Two plain white sections in a row: don't double the padding between them */
+.section:not(.section-alt) + .section:not(.section-alt) { padding-top: 0; }
+.section > .container + .page-faqs { margin-top: var(--gap-section); }
+.section:not(.section-alt):has(+ .section:not(.section-alt)) { padding-bottom: var(--gap-section); }

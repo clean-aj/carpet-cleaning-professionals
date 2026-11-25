@@ -49,6 +49,13 @@ content:
       - { name: intro, label: Intro text, type: text }
       - { name: image, label: Main image, type: image }
       - { name: imageAlt, label: Image description (alt text), type: text }
+      - name: faqs
+        label: FAQs
+        type: object
+        list: true
+        fields:
+          - { name: question, label: Question, type: string }
+          - { name: answer, label: Answer, type: text }
       - { name: body, label: Content, type: rich-text }
 
   - name: services
