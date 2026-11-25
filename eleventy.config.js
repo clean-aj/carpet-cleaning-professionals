@@ -50,6 +50,7 @@ export default function (eleventyConfig) {
   });
 
   eleventyConfig.addPassthroughCopy({ "src/assets": "assets", "src/images": "images" });
+  eleventyConfig.addPassthroughCopy({ "src/favicon.ico": "favicon.ico" });
   // cssVersion changes whenever styles.css changes, so browsers never use a stale copy
   const cssVersion = createHash("md5").update(readFileSync(new URL("./src/assets/styles.css", import.meta.url))).digest("hex").slice(0, 8);
   eleventyConfig.addGlobalData("build", { year: new Date().getFullYear(), cssVersion });
