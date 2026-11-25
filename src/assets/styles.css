@@ -357,3 +357,24 @@ h3 { font-size: 1.2rem; }
   .ph-badges .stars { letter-spacing: 0; font-size: .75rem; }
 }
 .nowrap { white-space: nowrap; }
+
+/* ---- Consistent vertical rhythm ----
+   48px before every new section title or box, 32px before sub-headings,
+   16px between a heading and its content. */
+:root { --gap-section: 48px; --gap-sub: 32px; --gap-heading: 16px; }
+@media (max-width: 700px) { :root { --gap-section: 40px; --gap-sub: 28px; } }
+.prose h2, .prose > picture + h2, .prose > img + h2 { margin: var(--gap-section) 0 var(--gap-heading); }
+.prose h3 { margin: var(--gap-sub) 0 var(--gap-heading); }
+.prose h4 { margin: var(--gap-sub) 0 12px; }
+.prose > :first-child { margin-top: 0; }
+.prose .hero-image { margin-bottom: var(--gap-section); }
+.inline-cta, .photo-figure, .prose figure, .slider, .map-section, .area-search, .regions, .area-help,
+.areas-link, .reviews-head + .review-grid, .contact-grid { margin-top: var(--gap-section); margin-bottom: var(--gap-section); }
+.area-stats { margin-bottom: var(--gap-section); }
+.prose h2 + .faqs, .prose h2 + ul, .prose h2 + .area-links { margin-top: 0; }
+.section > .container.prose + .container > .contact-grid:first-child,
+.section > .container.prose + .container > .areas-grid:first-child { margin-top: 0; }
+.section > .container > :last-child { margin-bottom: 0; }
+.section > .container.prose { margin-bottom: 0; }
+.section > .container.prose + .container { margin-top: var(--gap-section); }
+.section > .container.prose + .container > :first-child { margin-top: 0; }
