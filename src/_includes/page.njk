@@ -106,10 +106,20 @@ layout: base.njk
 {%- else %}
 {% include "partials/page-hero.njk" %}
 <section class="section">
+  {%- if slug == "about" %}
+  <div class="container with-sidebar">
+    <article class="prose">
+      {%- if image %}<img class="hero-image" src="{{ image }}" alt="{{ imageAlt }}" loading="eager" fetchpriority="high" sizes="(min-width: 1120px) 760px, 100vw">{% endif %}
+      {{ content | withCtas(site.phone) | safe }}
+    </article>
+    {% include "partials/sidebar.njk" %}
+  </div>
+  {%- else %}
   <div class="container prose">
     {%- if image %}<img class="hero-image" src="{{ image }}" alt="{{ imageAlt }}" loading="eager" fetchpriority="high" sizes="(min-width: 800px) 760px, 100vw">{% endif %}
     {{ content | withCtas(site.phone) | safe }}
   </div>
+  {%- endif %}
   {%- if slug == "services" %}{% set cardTag = "h2" %}<div class="container">{% include "partials/service-grid.njk" %}</div>{% endif %}
   {%- if slug == "areas" %}<div class="container">{% include "partials/areas-list.njk" %}</div>{% endif %}
   {%- if slug == "contact" %}<div class="container">{% include "partials/contact.njk" %}</div>{% endif %}

@@ -20,29 +20,7 @@ layout: base.njk
       </div>
       {%- endif %}
     </article>
-    <aside class="sidebar">
-      <div class="card quote-card">
-        {%- if site.technicianPhoto %}<img class="quote-photo" src="{{ site.technicianPhoto }}" alt="{{ site.technicianPhotoAlt }}" sizes="320px">{% endif %}
-        <h2>Get a Free Quote</h2>
-        <p>Tell us what needs cleaning and we'll give you a clear, fixed price.</p>
-        {%- if site.phone %}<p><a class="btn btn-block" href="{{ site.phone | telLink }}">Call {{ site.phone }}</a></p>{% endif %}
-        <p><a class="btn btn-outline btn-block" href="/contact/">Send an enquiry</a></p>
-      </div>
-      <div class="card">
-        <h2>Other Services</h2>
-        <ul class="plain">
-          {%- for s in collections.services %}{% if s.url != page.url %}<li><a href="{{ s.url }}">{{ s.data.title }}</a></li>{% endif %}{% endfor %}
-        </ul>
-      </div>
-      {%- if site.reviews and site.reviews.url %}
-      <a class="card review-badge" href="{{ site.reviews.url }}" target="_blank" rel="noopener">
-        <span class="stars" aria-hidden="true">★★★★★</span>
-        <strong>{{ site.reviews.summary }}</strong>
-        {%- if site.reviews.platforms %}<span class="badge-platforms">{% for pl in site.reviews.platforms %}{{ pl.name }}{% if not loop.last %} · {% endif %}{% endfor %}</span>{% endif %}
-        <span>Read what our customers say →</span>
-      </a>
-      {%- endif %}
-    </aside>
+    {% include "partials/sidebar.njk" %}
   </div>
 </section>
 {% include "partials/cta.njk" %}
